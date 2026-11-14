@@ -137,13 +137,19 @@ def display_company_name(domain, names_counter):
     cands = [nm.strip() for nm in (names_counter or {}) if nm.strip() and not looks_like_domain.match(nm.strip())]
     if not cands:
         return n.domain_root(domain).title()
-    # Prefer human-typed casing (mixed case), then the most complete name. Strip legal suffixes for display.
+    # Strip legal suffixes, then prefer human-typed casing and the shortest clean brand name
+    def strip(nm):
+        return re.sub(r",?\s+(Inc\.?|LLC|Ltd\.?|Corp\.?|Co\.?|N\.A\.)$", "", nm, flags=re.I).strip()
     def score(nm):
-        mixed = not nm.isupper() and not nm.islower()
-        return (mixed, len(nm.split()), names_counter.get(nm, 0))
-    best = max(cands, key=score)
-    best = re.sub(r",?\s+(Inc\.?|LLC|Ltd\.?|Corp\.?|Co\.?|N\.A\.)$", "", best, flags=re.I)
-    return best if not best.islower() else best.title()
+        s = strip(nm)
+        mixed = not s.isupper() and not s.islower()
+        k, root = n.company_key(s) or "", n.domain_root(domain) or ""
+        related = bool(k) and (k.startswith(root) or root.startswith(k))  # "ZenPayroll" is not gusto.com's brand
+        return (related, mixed, -len(s.split()), names_counter.get(nm, 0), -len(s))
+    best = strip(max(cands, key=score))
+    if n.company_key(best) and not (n.company_key(best).startswith(n.domain_root(domain)) or n.domain_root(domain).startswith(n.company_key(best))):
+        return n.domain_root(domain).title()  # no variant matches the domain; fall back to it
+    return best if not (best.islower() or best.isupper()) else best.title()
 
 
 # ---------- people ----------
@@ -186,6 +192,10 @@ def resolve(recs):
                 (la, ra), (lb, rb) = items[i], items[j]
                 # a different first letter (jsmith vs msmith) is a different person's initial, not a typo
                 if la[0] != lb[0]:
+                    continue
+                # ...and a difference only in the last character (fatima vs fatimao) is first-name vs
+                # first-name-plus-initial: two naming conventions, usually two different people
+                if la[:-1] == lb or lb[:-1] == la or (len(la) == len(lb) and la[:-1] == lb[:-1]):
                     continue
                 if min(len(la), len(lb)) >= 5 and edit_distance_le1(la, lb) and not names_conflict(ra, rb):
                     uf.union(ra["rid"], rb["rid"])

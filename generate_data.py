@@ -30,25 +30,27 @@ os.makedirs(OUT, exist_ok=True)
 NOW = datetime(2026, 11, 4, 12, 0, 0)
 
 COMPANIES = [
-    # (canonical name, domain, size, industry, variants)
-    ("Acme Analytics", "acmeanalytics.com", 420, "SaaS", ["Acme Analytics Inc.", "ACME analytics", "acmeanalytics.com", "Acme"]),
-    ("Northwind Logistics", "northwind.io", 1800, "Logistics", ["Northwind", "northwind logistics llc", "NorthWind Logistics", "Northwind Inc"]),
-    ("Brightpath Health", "brightpathhealth.com", 950, "Healthcare", ["BrightPath", "Bright Path Health", "brightpath health inc"]),
-    ("Kestrel AI", "kestrel.ai", 60, "AI/ML", ["kestrel", "Kestrel AI Labs", "KESTREL.AI"]),
-    ("Lumen Finance", "lumenfi.com", 300, "Fintech", ["Lumen", "LumenFi", "Lumen Finance Corp", "lumen fin"]),
-    ("Orbital Retail", "orbitalretail.com", 5200, "Retail", ["Orbital", "Orbital Retail Group", "orbital-retail"]),
-    ("Paperplane", "paperplane.dev", 25, "Dev Tools", ["PaperPlane", "paper plane", "Paperplane Inc"]),
-    ("Quanta Robotics", "quantarobotics.com", 700, "Hardware", ["Quanta", "Quanta Robotics Inc.", "quanta robotics"]),
-    ("Sable Security", "sablesec.com", 150, "Security", ["Sable", "SableSec", "Sable Security, Inc."]),
-    ("Tidewater Media", "tidewatermedia.com", 80, "Media", ["Tidewater", "TideWater Media", "tidewater media co"]),
-    ("Vertex Cloud", "vertexcloud.io", 2600, "Cloud", ["Vertex", "VertexCloud", "Vertex Cloud Inc"]),
-    ("Willow Education", "willowedu.org", 120, "EdTech", ["Willow", "Willow Edu", "willow education"]),
-    ("Zephyr Energy", "zephyrenergy.com", 3100, "Energy", ["Zephyr", "Zephyr Energy Co.", "ZEPHYR ENERGY"]),
-    ("Granite Insurance", "graniteins.com", 4400, "Insurance", ["Granite", "Granite Insurance Group", "granite ins"]),
-    ("Helix Bio", "helixbio.com", 210, "Biotech", ["Helix", "Helix Biosciences", "helix bio inc"]),
-    ("Cobalt Payments", "cobaltpay.com", 540, "Fintech", ["Cobalt", "CobaltPay", "Cobalt Payments Ltd"]),
-    ("Mosaic Labs", "mosaiclabs.co", 35, "AI/ML", ["Mosaic", "mosaic labs", "MosaicLabs"]),
-    ("Riverstone Bank", "riverstonebank.com", 8000, "Banking", ["Riverstone", "Riverstone Bank N.A.", "riverstone"]),
+    # (canonical name, real domain, rough headcount, industry, messy name variants)
+    # Real companies so Clay can enrich them. Headcount is approximate and ONLY scales how many
+    # synthetic contacts each company gets; it is never pushed anywhere. All people are fake.
+    ("Vercel", "vercel.com", 700, "Dev Tools", ["Vercel Inc.", "vercel", "VERCEL", "vercel.com"]),
+    ("Ramp", "ramp.com", 1200, "Fintech", ["Ramp Business Corp", "ramp", "RAMP", "Ramp Financial"]),
+    ("Notion", "notion.com", 900, "Productivity", ["Notion Labs", "notion", "Notion Labs Inc.", "notion.so"]),
+    ("Datadog", "datadoghq.com", 6000, "Observability", ["Datadog Inc.", "DataDog", "datadog", "Datadog HQ"]),
+    ("Stripe", "stripe.com", 8000, "Payments", ["Stripe, Inc.", "stripe", "STRIPE", "Stripe Payments"]),
+    ("Figma", "figma.com", 1500, "Design", ["Figma Inc", "figma", "FIGMA"]),
+    ("Linear", "linear.app", 120, "Dev Tools", ["Linear Orbit", "linear", "Linear App", "linear.app"]),
+    ("Retool", "retool.com", 450, "Dev Tools", ["Retool Inc.", "retool", "ReTool"]),
+    ("Airtable", "airtable.com", 900, "Productivity", ["Airtable Inc", "airtable", "AirTable"]),
+    ("Plaid", "plaid.com", 1100, "Fintech", ["Plaid Inc.", "plaid", "PLAID", "Plaid Technologies"]),
+    ("Brex", "brex.com", 1100, "Fintech", ["Brex Inc.", "brex", "BREX"]),
+    ("Supabase", "supabase.com", 150, "Dev Tools", ["Supabase Inc", "supabase", "SupaBase"]),
+    ("PostHog", "posthog.com", 100, "Analytics", ["Posthog", "posthog", "PostHog Inc."]),
+    ("Cloudflare", "cloudflare.com", 4000, "Infrastructure", ["Cloudflare, Inc.", "cloudflare", "CloudFlare", "CF"]),
+    ("Twilio", "twilio.com", 5500, "Communications", ["Twilio Inc.", "twilio", "TWILIO"]),
+    ("Gusto", "gusto.com", 2500, "HR Tech", ["Gusto Inc", "gusto", "ZenPayroll"]),
+    ("Mercury", "mercury.com", 800, "Fintech", ["Mercury Technologies", "mercury", "Mercury Bank"]),
+    ("Rippling", "rippling.com", 3500, "HR Tech", ["Rippling People Center", "rippling", "RIPPLING"]),
 ]
 
 FIRST = ["Priya", "James", "Aisha", "Daniel", "Mei", "Carlos", "Sofia", "Liam", "Fatima", "Noah",
@@ -118,6 +120,7 @@ def mess_email(email):
 # ---------- build ground-truth people ----------
 people = []
 pid = 0
+used_emails = set()
 for cname, dom, size, ind, variants in COMPANIES:
     n = max(2, min(14, int(size ** 0.33) + random.randint(-2, 2)))
     for _ in range(n):
@@ -125,7 +128,10 @@ for cname, dom, size, ind, variants in COMPANIES:
         f, l = random.choice(FIRST), random.choice(LAST)
         local = random.choice([f"{f}.{l}", f"{f[0]}{l}", f"{f}", f"{f}{l[0]}", f"{f}_{l}"]).lower()
         local = local.replace("'", "").replace("ü", "u")
+        while f"{local}@{dom}" in used_emails:  # real companies never give two people one mailbox
+            local = f"{local}{l[0].lower()}" if not local.endswith(l[0].lower()) else f"{local}{random.randint(2, 9)}"
         work_email = f"{local}@{dom}"
+        used_emails.add(work_email)
         uses_personal = random.random() < 0.18
         personal_email = f"{f.lower()}{l.lower().replace(chr(39), '')}{random.randint(1, 99)}@{random.choice(PERSONAL)}".replace("ü", "u")
         people.append({

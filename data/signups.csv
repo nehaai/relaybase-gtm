@@ -1,117 +1,153 @@
 signup_id,user_id,email,full_name,company,plan,created_at,utm_source,referrer
-1097,usr_4ef165d779,maya.chen@riverstonebank.com,MayaChen,,team,2026-10-24T08:53:33Z,google,
-1001,usr_56ded255d0,james.sharma@acmeanalytics.com,James Sharma,ACME analytics,pro,2026-10-07T19:45:37Z,,
-1010,usr_196e218b09,fatima.rossi@northwind.io,FATIMA ROSSI,Northwind Logistics,team,10/09/2026 00:17,,google.com
-1068,usr_33a689b424,  kmuller@vertexcloud.io ,kenji müller,Vertex,free,2026-10-23 21:26:59,,
-1062,usr_9eb89f7039,  liamh@vertexcloud.io ,Liam Haddad,,FREE,07/13/2026 13:10,,
-1003,usr_4db379cb1e,LUCAS@ACMEANALYTICS.COM,Lucas Kowalski,,free,30-10-2026,,https://news.ycombinator.com
-1080,usr_191139fa12,  yuki.becker@graniteins.com ,,Granite,Free,2026-10-29T12:36:58Z,twitter,https://www.linkedin.com/
-1017,usr_1c6e0ed1e8,nrossi@brightpathhealth.com,NORA ROSSI,Brightpath Health,free,2026-09-28T03:43:24Z,hn,https://news.ycombinator.com
-1061,usr_ac54cc1e2a,Ravi@Vertexcloud.Io,,Vertex Cloud Inc,Free,1786216160,google,https://www.linkedin.com/
-1085,usr_f630a5648e,samuel.garcia@helixbio.com,Sammuel Garcia,Helix Bio,Free,2026/08/12,partner,https://news.ycombinator.com
-1115,usr_2a8e0ec033,qa-bot@relaybase.dev,,,free,18-10-2026,,
-1020,usr_1bd8302081,james@kestrel.ai,,Kestrel AI,Free,09/17/2026 12:53,twitter,
-1049,usr_b5ef4afa88,oahmed@sablesec.com,,"Sable Security, Inc.",pro_trial,2026-10-04 11:08:06,LinkedIn,https://news.ycombinator.com
-1078,usr_c100e3a026,kenjis@graniteins.com,Kenji,Granite Insurance,free,07/28/2026 07:42,hn,
-1086,usr_4e5bf86f3c,ananyak@cobaltpay.com,,Cobalt Payments,pro,2026-07-30 10:47:40,partner,https://news.ycombinator.com
-1096,usr_95ae007b7e,maya.tanaka+signup@riverstonebank.com,Maya Taanka,riverstone,free,1786414538,,https://news.ycombinator.com
-1093,usr_dee6b9d31a,hannahr@riverstonebank.com,hannah rossi,Riverstone,free,2026-08-13 22:38:13,partner,
-1111,usr_50a39c9ec6,chloe.haddad851@yahoo.com,,N/A,pro_trial,2026/09/23,Google,
-1013,usr_d839681c81,ethan_patel@brightpathhealth.com,Etan Patel,,free,2026/10/01,LinkedIn,https://news.ycombinator.com
-1025,usr_2ca56895c6,  zgarcia@lumenfi.com ,ZARA GARCIA,lumen fin,pro,09/01/2026 16:28,,google.com
-1076,usr_00d1031424,elena.silva@zephyrenergy.com,Elena Silva,Zephyr,free,11-08-2026,google,https://news.ycombinator.com
-1024,usr_caf4488385,priya@lumenfi.com,Piya O'Brien,Lumen Finance,free,26-09-2026,linkedin,https://news.ycombinator.com
-1008,usr_1b97fa7f04,fchen@northwind.io,Fatima Chen,,FREE,1785611939,google,
-1026,usr_ca0d67d38e,james_okafor@lumenfi.com,james okafor,Lumen,free,09/18/2026 17:31,linkedin,https://www.linkedin.com/
-1067,usr_ab0cfef683,Samuel.Nguyen@Vertexcloud.Io,SAMUEL NGUYEN,,free,2026/09/15,twitter,google.com
-1116,usr_0d9e91a71c,a@b.c,,test,free,07-09-2026,,
-1106,usr_1902b34254,fatima.sharma580@proton.me,,Freelance,team,13-08-2026,LinkedIn,https://www.linkedin.com/
-1109,usr_6d8f5242d3,diego.okafor317@icloud.com,Diego Okfaor,N/A,free,1791800186,Google,
-1042,usr_a3abd2b512,ethani@quantarobotics.com,,Quanta Robotics Inc.,FREE,2026-10-17T10:40:27Z,twitter,
-1002,usr_ac5e5ba13d,sofiar@acmeanalytics.com,Sofia,,pro,2026/10/07,hn,
-1030,usr_2e29890880,meis@orbitalretail.com,Mei Silvva,Orbital Retail Group,Free,29-10-2026,Google,https://news.ycombinator.com
-1090,usr_b88787ea21,noah.rossi@cobaltpay.com,noah rossi,Cobalt,free,2026-08-12T02:29:21Z,linkedin,https://www.linkedin.com/
-1051,usr_6a92779574,jrossi@tidewatermedia.com,JAMES ROSSI,tidewater media co,team,09/28/2026 21:03,,
-1007,usr_06ddcf8766,Sofia@Northwind.Io,sofia ahmed,northwind logistics llc,free,1793623999,linkedin,google.com
-1033,usr_80657e01c9,ravihaddad55@outlook.com,Ravi,Orbital,pro,2026-10-31 23:12:44,twitter,
-1044,usr_3f4758367b,Omar@Quantarobotics.Com,OMAR NGUYEN,Quanta Robotics Inc.,FREE,2026-09-18 05:01:35,Google,https://news.ycombinator.com
-1082,usr_8e6d5d0477,drossi@graniteins.com,daniel rossi,Granite Insurance,pro_trial,26-09-2026,twitter,https://www.linkedin.com/
-1043,usr_625cb5e69c,fatimaokafor69@proton.me,,Quanta Robotics Inc.,free,2026/07/13,twitter,https://www.linkedin.com/
-1019,usr_dc13eecdc6,mei_ahmed@kestrel.ai,Mei,Kestrel AI,pro,2026-09-15 04:50:53,Google,google.com
-1021,usr_31828c37e7,  mtanaka@kestrel.ai ,MARCUS TANAKA,Kestrel AI Labs,free,1792274610,linkedin,
-1112,usr_1e502cf0ee,test@test.com,test,,free,1792557344,,
-1060,usr_83e4a4474c,jamesk@vertexcloud.io,,Vertex Cloud Inc,FREE,1783508875,Google,https://news.ycombinator.com
-1108,usr_73b25f13df,samuel.kim636@outlook.com,samuel kim,,free,1792580628,hn,https://www.linkedin.com/
-1018,usr_011eb74b56,aishaokafor31@outlook.com,Aisha,,pro,2026-09-01T05:47:05Z,,
-1114,usr_2f6c4c450b,neha+test1@relaybase.dev,,Relaybase,free,2026-08-31 00:51:16,,
-1092,usr_6061177270,arjun@riverstonebank.com,Arjun Sharma,Riverstone,pro,2026/10/24,linkedin,https://www.linkedin.com/
-1094,usr_d2c093bfb0,niyer@riverstonebank.com,Nora Iyer,riverstone,pro,06-10-2026,twitter,
-1102,usr_ee1d27c09a,rahmed@riverstonebank.com,,Riverstone Bank N.A.,Free,29-08-2026,newsletter,
-1050,usr_2ba417c093,samuel.shamra@tidewatermedia.com,Samuel Sharma,TideWater Media,free,2026-08-09T02:32:43Z,google,https://www.linkedin.com/
-1075,usr_34ae27d432,drossi@zephyrenergy.com,Daniel Rossi,Zephyr Energy,free,2026/09/10,,https://news.ycombinator.com
-1009,usr_7d1ba362e7,samuelp@northwind.io,Samuel Patel,NorthWind Logistics,pro,27-10-2026,Google,https://www.linkedin.com/
-1089,usr_26b509109b,diegogarcia81@hotmail.com,,Cobalt Payments,FREE,2026-08-21T10:11:16Z,google,https://www.linkedin.com/
-1104,usr_098b2c550a,maya.garcia110@yahoo.com,Maya Gaarcia,Freelance,pro,2026-07-17 14:32:32,LinkedIn,https://www.linkedin.com/
-1077,usr_5f6b9cd71c,Grace.Garcia@Graniteins.Com,Grace Grcia,Granite Insurance,free,2026-08-13 18:06:04,(direct),google.com
-1041,usr_4e4baf0f5e,Maya@Quantarobotics.Com,MAYA NGUYEN,Quanta Robotics,pro,2026/09/11,,https://news.ycombinator.com
-1040,usr_7fb12b6680,noahjohnson25@icloud.com,noah johnson,Quanta,free,2026/10/25,newsletter,https://news.ycombinator.com
-1046,usr_b3ed6522b4,zara_kim@sablesec.com,Zara Kmi,"Sable Security, Inc.",Free,20-10-2026,google,https://news.ycombinator.com
-1056,usr_894926ce5f,ananyaieyr20@yahoo.com,Ananya,VertexCloud,Free,08/08/2026 14:05,(direct),https://news.ycombinator.com
-1023,usr_815a18e2a3,Omarg@Lumenfi.Com,Omar,,free,2026/09/20,Google,https://www.linkedin.com/
-1095,usr_3b6fe5040b,zarac+signup@riverstonebank.com,zara chen,Riverstone Bank,FREE,2026-09-25 08:56:51,partner,https://www.linkedin.com/
-1099,usr_4d44d7df9a,james.becker@riverstonebank.com,James Becker,Riverstone,free,10/01/2026 22:18,newsletter,
-1048,usr_7773318749,oliviakim32@icloud.com,OliviaK im,SableSec,free,2026-10-19T06:04:35Z,(direct),
-1052,usr_7b6a662fce,zara_singh@tidewatermedia.com,zara singh,TideWater Media,free,08/09/2026 18:32,(direct),https://www.linkedin.com/
-1027,usr_b2a7f333b3,liamahmed11@icloud.com,,Orbital,free,1789870334,LinkedIn,google.com
-1031,usr_4f3d3a2582,nora.muller@orbitalretail.com,nora müller,Orbital Retail,team,2026-10-01 02:35:38,hn,https://www.linkedin.com/
-1016,usr_c6530ac1c7,diegoahmed63+signup@gmail.com,Diego Ahmed,Bright Path Health,FREE,2026/10/29,,google.com
-1079,usr_6ba902b73f,kenjis@graniteins.com,Kenji,Granite Insurance,free,2026-08-27T07:42:37Z,hn,
-1012,usr_ab5463adc7,kenji_patel@northwind.io,kenji patel,Northwind Inc,pro,2026-08-09T12:52:22Z,Google,https://www.linkedin.com/
-1045,usr_da22bf18f5,oobrien@quantarobotics.com,Omar O'Brien,Quanta Robotics,free,2026/07/29,(direct),https://news.ycombinator.com
-1034,usr_c22387eaf6,priya.rodriguez@orbitalretail.com,Priya,Orbital,team,2026-11-01T21:25:01Z,newsletter,
-1058,usr_201e6a6628,  lucas.kim@vertexcloud.io ,lucas kim,Vertex Cloud Inc,team,2026/09/21,google,
-1101,usr_b1f280df1d,ananya@riverstonebank.com,ananya okafor,Riverstone Bank N.A.,FREE,2026/07/10,hn,https://news.ycombinator.com
-1039,usr_0940d92bce,oiviar@paperplane.dev,Olivia Rodriguez,Paperplane Inc,team,01-08-2026,,google.com
-1032,usr_7ba4244f23,arjun@orbitalretail.com,Arjun Rossi,Orbital,free,04-08-2026,linkedin,
-1014,usr_b345f50c52,ethan_patel@brightpathhealth.com,Etan Patel,,free,10/31/2026 17:29,LinkedIn,https://news.ycombinator.com
-1055,usr_7e4806f804,ravi@vertexcloud.io,ravi johnson,,Free,1786285177,Google,https://news.ycombinator.com
-1028,usr_2e4f11d8dc,Nhaddad@Orbitalretail.Com,NoraHaddad,Orbital Retail,free,2026/07/07,(direct),https://www.linkedin.com/
-1081,usr_bbea98fef8,  fnguyen@graniteins.com ,,granite ins,pro_trial,07/21/2026 13:23,google,https://www.linkedin.com/
-1107,usr_06ff69723d,arjun.ilva795@yahoo.com,arjun silva,N/A,Free,2026/10/24,,https://news.ycombinator.com
-1006,usr_c3d46ef104,mjohnson@northwind.io,,northwind logistics llc,free,10/07/2026 07:35,twitter,
-1083,usr_24b523c0de,hannahs@graniteins.com,,Granite Insurance,pro_trial,2026-08-29 10:07:55,partner,
-1047,usr_fbcdbcc653,chloebecker97@yahoo.com,,,team,2026/09/16,linkedin,
-1070,usr_77811414f8,maya.becker+test@willowedu.org,Maya eBcker,Willow,free,1786153583,partner,https://news.ycombinator.com
-1035,usr_a36b79afcc,yrossi@orbitalretail.com,Yuki Rossi,Orbital Retail,free,11/01/2026 17:54,,
-1087,usr_bd38a56b49,asha@cobaltpay.com,aisha iyer,Cobalt Payments,pro,10/11/2026 14:35,,google.com
-1074,usr_df98874bfe,marcus@zephyrenergy.com,Marcus,,Free,2026/08/28,(direct),
-1015,usr_de2e709838,Priya@Brightpathhealth.Com,PRIYA RODRIGUEZ,,team,07-08-2026,,https://news.ycombinator.com
-1066,usr_71ec8be537,fatimanguyen70@gmail.com,FATIMA NGUYEN,Vertex Cloud,pro_trial,2026-07-27 17:37:39,linkedin,https://www.linkedin.com/
-1071,usr_a3db2c6ac8,omarm@zephyrenergy.com,,,FREE,08/15/2026 21:48,hn,
-1113,usr_82243012da,asdf@asdf.com,,,free,24-08-2026,,
-1103,usr_237fd255ee,Carlos.Nguyen453@Outlook.Com,Carlos Nguyen,self,FREE,2026/08/10,,https://www.linkedin.com/
-1059,usr_55b6adf48b,lucas.kim@vertexcloud.io,lucas kim,Vertex Cloud Inc,team,08-10-2026,google,
-1105,usr_a5fbcdbf5e,maya.garcia110@yahoo.com,Maya Gaarcia,Freelance,pro,07/30/2026 14:32,LinkedIn,https://www.linkedin.com/
-1037,usr_5b04287378,Diego_Kowalski@Orbitalretail.Com,Diego Kowalski,Orbital,pro,1786152798,twitter,google.com
-1069,usr_65d61169a1,daniel.ahmed@willowedu.org,DANIEL AHMED,willow education,pro,11/02/2026 12:37,,https://www.linkedin.com/
-1100,usr_329dde0188,omar.rdriguez@riverstonebank.com,Omar Rodriguez,,pro,17-09-2026,LinkedIn,https://www.linkedin.com/
-1036,usr_2f6aa42c9f,dmuller@orbitalretail.com,diego müller,Orbital,team,30-08-2026,google,google.com
-1005,usr_e68b621d41,MAYAR@NORTHWIND.IO,Maya Rodriguez,Northwind Inc,free,2026-07-10T15:00:31Z,partner,
-1038,usr_cf2ea9c542,carlosi@paperplane.dev,CARLOS IYER,,pro,10/11/2026 00:09,(direct),google.com
-1029,usr_e056363094,nhaddad@orbitalretail.com,NoraHaddad,Orbital Retail,free,2026/07/12,(direct),https://www.linkedin.com/
-1098,usr_c8991965ea,maya_iyer@riverstonebank.com,Maya Iyer,riverstone,Free,2026/08/02,(direct),
-1004,usr_babe055787,Lucas.Nguyen@Northwind.Io,LUCAS NGUYEN,Northwind,FREE,22-08-2026,hn,https://news.ycombinator.com
-1073,usr_eaa38295d3,olivia@zephyrenergy.com,,Zephyr Energy Co.,pro,19-10-2026,(direct),google.com
-1011,usr_506d4067f4,danielsilva1@proton.me,Daniel Silva,,pro,2026-07-27 13:06:10,(direct),
-1022,usr_c176c5a0dc,hannahrossi70@gmail.com,Hannah,KESTREL.AI,FREE,21-08-2026,LinkedIn,https://news.ycombinator.com
-1110,usr_b40123a348,  ines.chen93@outlook.com ,ines chen,,pro,2026-07-30 17:53:08,,
-1057,usr_738116e3fc,ananya_iyer@vertexcloud.io,Ananya,VertexCloud,Free,2026/08/17,(direct),https://news.ycombinator.com
-1091,usr_4086c5d1d6,samuelc@mosaiclabs.co,SamuelChen,,Free,07/11/2026 16:30,LinkedIn,
-1054,usr_83fef7d9ea,ravi@vertexcloud.io,ravi johnson,,Free,2026-07-13 07:19:37,Google,https://news.ycombinator.com
-1063,usr_c680773e33,atanaka+signup@vertexcloud.io,Arjun Tanaa,Vertex,team,09/02/2026 09:46,twitter,google.com
-1088,usr_b823d4526b,samuel.tanaka@cobaltpay.com,Samuel Tanaka,Cobalt,free,2026-07-26T16:46:35Z,,
-1053,usr_441f5d988f,hannahp@vertexcloud.io,Hannah Patel,,free,07/13/2026 02:53,Google,https://news.ycombinator.com
-1064,usr_ad5ab28d4a,akowalski+work@vertexcloud.io,AISHA KOWALSKI,Vertex Cloud Inc,Free,10/12/2026 01:18,newsletter,
-1084,usr_d4b97e6224,  liam_ahmed@helixbio.com ,liam ahmed,Helix Bio,Free,24-08-2026,hn,https://news.ycombinator.com
-1065,usr_597ad465a1,ananyak@vertexcloud.io,Ananya Kim,Vertex Cloud,free,09/17/2026 15:10,google,https://news.ycombinator.com
-1072,usr_44c0f63229,ELENAR@ZEPHYRENERGY.COM,,Zephyr,pro_trial,2026-09-21 23:53:11,,https://www.linkedin.com/
+1027,usr_089136f1f8,Zgarcia@Datadoghq.Com,Zara,datadog,pro,1785831915,newsletter,
+1020,usr_df63f4c69d,yossi@datadoghq.com,YUKI ROSSI,Datadog HQ,Free,1791186826,LinkedIn,
+1058,usr_87725e134d,  zara_singh@retool.com ,,,free,2026-08-30 00:21:57,partner,https://www.linkedin.com/
+1109,usr_7a21d63b0f,maayr@twilio.com,Maya,Twilio Inc.,team,2026-10-22 17:36:04,LinkedIn,
+1081,usr_3fcc4d5819,  arjun@brex.com ,Arjun Kim,BREX,team,08/10/2026 03:17,partner,
+1072,usr_f1a7946320,arjun@plaid.com,Arjun hmed,Plaid Technologies,pro,2026-08-18 18:03:28,twitter,https://www.linkedin.com/
+1112,usr_15a505da9c,omar.rodriguez@twilio.com,,TWILIO,Free,2026/08/12,Google,https://www.linkedin.com/
+1050,usr_89d3f4a49b,  zobrien@linear.app ,ZARA O'BRIEN,,free,1787358543,(direct),
+1060,usr_00d1031424,kenji@retool.com,Kenji Johnson,Retool Inc.,free,11-08-2026,google,https://news.ycombinator.com
+1022,usr_e233107475,danielr+test@datadoghq.com,daniel rodriguez,Datadog,pro_trial,07/28/2026 22:23,google,https://news.ycombinator.com
+1045,usr_9eb89f7039,  dhaddad@figma.com ,Daniel aHddad,,FREE,07/13/2026 13:10,,
+1034,usr_c435f789bc,ananyachen57@hotmail.com,ANANYA CHEN,"Stripe, Inc.",pro_trial,20-08-2026,hn,google.com
+1015,usr_7ba4244f23,fatima.rossi+test@notion.com,Fatima Rossi,Notion,team,2026-10-01T01:10:54Z,hn,google.com
+1049,usr_b6f48f709c,Omar@Figma.Com,omar nguyen,,team,09/04/2026 17:30,twitter,https://news.ycombinator.com
+1079,usr_63d9750f00,ananya_rodriguez@brex.com,ananya rodriguez,Brex,pro,2026-10-18T14:05:13Z,linkedin,google.com
+1070,usr_4e5bf86f3c,daniel@plaid.com,,Plaid Technologies,pro,2026-07-30 10:47:40,partner,https://news.ycombinator.com
+1111,usr_a0368acd40,JAMES.BECKER@TWILIO.COM,,Twilio,team,10/24/2026 22:40,,https://news.ycombinator.com
+1014,usr_c8cf01f944,oliviakowalski49@hotmail.com,olivia kowalski,Notion,team,2026-09-09 16:06:09,hn,https://www.linkedin.com/
+1073,usr_f5a44d9fec,miyer@plaid.com,Maya Iyer,Plaid Inc.,Free,2026-08-16T07:18:25Z,twitter,
+1047,usr_ad5ab28d4a,fatimaokafor69+work@proton.me,Fatima Okafoor,FIGMA,Free,10/12/2026 01:18,newsletter,
+1095,usr_50a39c9ec6,kenji_obrien@cloudflare.com,,CF,pro_trial,2026/09/23,Google,
+1125,usr_33f18cccdc,arjun_garcia@mercury.com,Arjun Garcia,,pro,2026-09-11 01:48:51,,https://news.ycombinator.com
+1077,usr_6fd867888b,  zara@brex.com ,Zara Ahhmed,Brex Inc.,FREE,07/16/2026 20:28,google,
+1138,usr_1a90c7e6ac,omar.tanaka350@yahoo.com,omar tanaka,,free,1783611482,LinkedIn,https://news.ycombinator.com
+1145,usr_0618d42238,omar.rodriguez291+signup@proton.me,OMAR RODRIGUEZ,self,FREE,08-09-2026,LinkedIn,https://news.ycombinator.com
+1149,usr_e6923b7820,asdf@asdf.com,QA,Relaybase,free,2026-08-14 06:06:58,,
+1110,usr_029033da65,mayar@twilio.com,Maya,Twilio Inc.,team,28-10-2026,LinkedIn,
+1056,usr_a742f525b9,mei.sharma@retool.com,Mei Sharma,Retool Inc.,pro_trial,1788972650,linkedin,https://news.ycombinator.com
+1055,usr_661634725b,dahmed@retool.com,Diego Ahmed,Retool,FREE,10/05/2026 08:07,partner,https://news.ycombinator.com
+1001,usr_011eb74b56,phaddad@vercel.com,Priya,,pro,2026-09-01T05:47:05Z,,
+1010,usr_b2a7f333b3,sameulg@ramp.com,Samuel Garcia,Ramp,free,1792867174,LinkedIn,google.com
+1006,usr_46cbdc4318,James@Ramp.Com,james johnson,,free,1789026524,linkedin,https://www.linkedin.com/
+1017,usr_c22387eaf6,  priya@notion.com ,Priya,,free,2026/10/25,Google,https://www.linkedin.com/
+1011,usr_2e4f11d8dc,Mei_Johnson@Ramp.Com,Mei ohnson,Ramp Financial,free,2026/07/07,(direct),https://www.linkedin.com/
+1037,usr_7f28caaa1d,diego_kowalski@stripe.com,Diego,STRIPE,Free,2026-10-24 02:20:27,Google,https://news.ycombinator.com
+1075,usr_ce6e3a0ba8,rrossi@brex.com,Ravi Rossi,brex,pro_trial,21-08-2026,linkedin,https://news.ycombinator.com
+1098,usr_818fc3d7d3,  pbecker@cloudflare.com ,PRIYA BECKER,CF,free,2026-07-25 23:19:07,newsletter,
+1136,usr_a9f121e129,maya@rippling.com,Maya Rodriguez,RIPPLING,team,1792383425,,https://news.ycombinator.com
+1140,usr_7ad42cb1ae,mei.patel773+work@hotmail.com,MEI PATEL,,pro_trial,2026-10-26T14:30:02Z,linkedin,https://news.ycombinator.com
+1127,usr_2cfd9cfbb0,zara_kim@mercury.com,Zra Kim,Mercury,free,2026-08-30T08:12:11Z,google,
+1139,usr_b13fe1e8f3,ines.iyer796@hotmail.com,ines iyer,,free,29-10-2026,,google.com
+1091,usr_80b0c07fcc,Elenahaddad87@Hotmail.Com,Elena Haddad,,free,09/15/2026 10:51,newsletter,https://news.ycombinator.com
+1032,usr_dee9247069,arjn@stripe.com,,stripe,free,10/15/2026 17:19,hn,https://www.linkedin.com/
+1117,usr_02b3957a98,lucas.silva@gusto.com,lucas silva,ZenPayroll,free,2026-10-19T20:39:16Z,partner,google.com
+1105,usr_938c1c8b05,James_Chen@Twilio.Com,Jamees Chen,Twilio,FREE,2026-07-20T03:04:19Z,linkedin,
+1002,usr_dc13eecdc6,JAMES.SHARMA@VERCEL.COM,James,Vercel,pro,2026-08-19 05:51:04,Google,google.com
+1101,usr_2a6d9c5b50,fatiima@cloudflare.com,Fatima Kowlaski,cloudflare,free,07/29/2026 23:34,newsletter,https://news.ycombinator.com
+1076,usr_fd3e42df5b,Olivia.Sharma@Brex.Com,OLIVIA SHARMA,Brex Inc.,FREE,2026-07-24T11:10:31Z,LinkedIn,
+1041,usr_201e6a6628,  oliviar@figma.com ,olivia rodriguez,FIGMA,team,2026/09/21,google,
+1064,usr_191139fa12,  nora_chen@airtable.com ,Nora,Airtable Inc,Free,2026-10-29T12:36:58Z,twitter,https://www.linkedin.com/
+1033,usr_889d4b2bf9,nrodriguez@stripe.com,NOAH RODRIGUEZ,stripe,pro,2026/08/26,google,
+1059,usr_95b787ef8d,arjunr@retool.com,,Retool,free,2026/09/10,,https://news.ycombinator.com
+1082,usr_45c2e79a98,daniel_sharma@brex.com,Daniel Sharma,brex,free,2026-08-28T21:13:33Z,partner,https://www.linkedin.com/
+1069,usr_f630a5648e,omar.muller@plaid.com,Omaar Müller,Plaid Technologies,Free,2026/08/12,partner,https://news.ycombinator.com
+1094,usr_b40123a348,  arodriguez@cloudflare.com ,ananya rodriguez,"Cloudflare, Inc.",pro,2026-07-30 17:53:08,,
+1046,usr_c680773e33,ethani+signup@figma.com,ETHAN IYER,Figma Inc,team,09/02/2026 09:46,twitter,google.com
+1024,usr_524b3446bc,  hannahrossi70@gmail.com ,hannah rossi,datadog,FREE,08/23/2026 12:56,,
+1062,usr_c100e3a026,ravis@airtable.com,Ravi,Airtable,free,07/28/2026 07:42,hn,
+1093,usr_8f54bbbcf8,yukik@cloudflare.com,Yuki Kowalski,CF,free,1791800186,Google,
+1148,usr_793c53090e,test@test.com,,test,free,2026/09/18,,
+1016,usr_80657e01c9,kenji_patel@notion.com,Kenji,Notion Labs,pro,2026-10-31 23:12:44,twitter,
+1086,usr_b1f280df1d,hannah@supabase.com,hannah tanaka,supabase,FREE,2026/07/10,hn,https://news.ycombinator.com
+1087,usr_ee1d27c09a,aisha.patel@posthog.com,,posthog,Free,29-08-2026,newsletter,
+1133,usr_b2bcf474aa,grace.kowalski@rippling.com,Grace Kowalski,RIPPLING,FREE,2026/08/28,newsletter,
+1085,usr_329dde0188,marcuskowalski@supabase.com,Marcus Kowalski,,pro,17-09-2026,LinkedIn,https://www.linkedin.com/
+1121,usr_dd77106966,olivia+work@gusto.com,olivia silva,Gusto Inc,Free,03-11-2026,partner,https://www.linkedin.com/
+1147,usr_ab15f0ea19,priya.kim309@yahoo.com,Priya,Freelance,team,2026/10/27,LinkedIn,google.com
+1129,usr_92ec93e596,pmller@mercury.com,Priya,,pro_trial,14-08-2026,twitter,
+1092,usr_597ba109d0,Yokafor@Cloudflare.Com,Yuki,CF,free,1790690577,twitter,
+1113,usr_0da56b61e0,ananya@twilio.com,Ananya,Twilio Inc.,free,08/19/2026 19:44,partner,
+1065,usr_bbea98fef8,  skowalski@airtable.com ,,AirTable,pro_trial,07/21/2026 13:23,google,https://www.linkedin.com/
+1128,usr_66d2dc42c8,ARJUN@MERCURY.COM,ARJUN JOHNSON,Mercury Technologies,FREE,2026-10-04 07:51:59,linkedin,https://news.ycombinator.com
+1009,usr_ca0d67d38e,nrossi@ramp.com,nora rossi,Ramp Business Corp,free,09/18/2026 17:31,linkedin,https://www.linkedin.com/
+1021,usr_5a0b599562,marcus_chen@datadoghq.com,Marcus Chn,DataDog,free,2026-08-13T14:41:29Z,,
+1066,usr_8e6d5d0477,samuel.nguyen@airtable.com,samuel nguyen,Airtable,pro_trial,26-09-2026,twitter,https://www.linkedin.com/
+1008,usr_2ca56895c6,  elena_patel@ramp.com ,ELENA PATEL,Ramp Financial,pro,09/01/2026 16:28,,google.com
+1103,usr_247d4d2add,mkim@twilio.com,maya kim,Twilio,pro_trial,1793023645,partner,google.com
+1067,usr_24b523c0de,carlos_becker@plaid.com,,Plaid Technologies,pro_trial,2026-08-29 10:07:55,partner,
+1097,usr_2cfff96acf,sofiahaddad37@icloud.com,Sofia,,pro,2026-09-27T01:35:21Z,,
+1053,usr_2f7ed17aab,chloebecker97+signup@yahoo.com,Chloe Becker,Linear App,free,2026/10/22,,https://news.ycombinator.com
+1141,usr_13bb635ff5,fatima.tanaka678@icloud.com,fatima tanaka,Freelance,free,2026/07/20,,
+1130,usr_4ba5b40983,ineskowalski9@icloud.com,,,Free,1790900095,(direct),
+1025,usr_466f5842c3,priya@datadoghq.com,Priya O'Brien,Datadog HQ,free,2026/07/31,LinkedIn,google.com
+1012,usr_e056363094,mei_johnson@ramp.com,Mei ohnson,Ramp Financial,free,2026/07/12,(direct),https://www.linkedin.com/
+1083,usr_dd530ddda6,jameshaddad9@icloud.com,james haddad,Brex,Free,2026/10/24,(direct),
+1116,usr_10a4a5c736,Sofiaobrien49@Hotmail.Com,Sofia,,free,10/24/2026 11:53,LinkedIn,
+1054,usr_bb2999394c,oliviakim32@icloud.com,olivia kim,,Free,2026-09-24 14:22:31,Google,google.com
+1104,usr_de00a21367,  inesg@twilio.com ,Ines,TWILIO,team,2026-07-31 09:58:02,,https://news.ycombinator.com
+1042,usr_55b6adf48b,oliviar@figma.com,olivia rodriguez,FIGMA,team,08-10-2026,google,
+1057,usr_22f5159494,jrossi@retool.com,James,ReTool,Free,2026-08-29 21:03:44,LinkedIn,https://www.linkedin.com/
+1150,usr_f31ecacae9,neha+test1@relaybase.dev,,test,free,2026-07-13 08:37:00,,
+1152,usr_d2ff4d0930,a@b.c,QA,test,free,07/27/2026 00:22,,
+1030,usr_fc1f119c0f,nhaddad@stripe.com,Nora Haddad,,free,2026/08/29,linkedin,
+1013,usr_2e29890880,ejohnson@ramp.com,ETHAN JOHNSON,,pro_trial,1790010610,,
+1115,usr_6c6a59c043,zaras@twilio.com,ZARA SHARMA,twilio,free,2026/09/27,partner,google.com
+1090,usr_6ecbd5cc86,fatima_singh@posthog.com,Fatima Singh,PostHog Inc.,Free,06-08-2026,partner,google.com
+1126,usr_afcebeabaa,DIEGO.MULLER@MERCURY.COM,DIEGO MÜLLER,Mercury Technologies,pro,24-07-2026,(direct),
+1120,usr_2d266bf2ea,samuel_kim+relay@gusto.com,Saamuel Kim,Gusto,pro,2026-10-05T05:21:13Z,(direct),
+1040,usr_738116e3fc,carlosi@figma.com,Carlos,figma,Free,2026/08/17,(direct),https://news.ycombinator.com
+1137,usr_9dedc8cca8,Priya.Patel280@Proton.Me,PRIYA PATEL,Freelance,team,2026/09/19,google,
+1044,usr_ac54cc1e2a,Fatima@Figma.Com,,FIGMA,Free,1786216160,google,https://www.linkedin.com/
+1003,usr_1bd8302081,lucas@vercel.com,,vercel.com,Free,09/17/2026 12:53,twitter,
+1048,usr_597ad465a1,omar@figma.com,omar nguyen,,team,08/14/2026 17:30,twitter,https://news.ycombinator.com
+1035,usr_280f5675f8,priya.rodriguez@stripe.com,Priya,Stripe Payments,pro,1787487976,partner,google.com
+1123,usr_6b3cf88d20,noahgarcia69@yahoo.com,Noah Garcia,,pro,16-07-2026,linkedin,https://www.linkedin.com/
+1096,usr_4e3d131a3d,james_kim@cloudflare.com,james kim,cloudflare,team,2026-09-15 02:27:06,,https://www.linkedin.com/
+1007,usr_8d949077c2,hmuller@ramp.com,Hnnah Müller,Ramp,free,26-09-2026,linkedin,https://news.ycombinator.com
+1031,usr_698693fd9d,elenaahmed28@hotmail.com,Elena Ahmed,stripe,pro,2026-08-18 17:40:54,(direct),https://www.linkedin.com/
+1114,usr_ae8bde005b,  rahmed@twilio.com ,Rav Ahmed,,free,26-10-2026,(direct),https://news.ycombinator.com
+1043,usr_83e4a4474c,esilva@figma.com,,FIGMA,FREE,1783508875,Google,https://news.ycombinator.com
+1051,usr_5469ce1e4e,noahk@linear.app,Noah Kim,,FREE,30-08-2026,LinkedIn,
+1122,usr_3ecbc4ec0e,samuel@gusto.com,Samuel,Gusto Inc,free,1790225822,,https://news.ycombinator.com
+1119,usr_03dce8e1c5,  yuki_okafor@gusto.com ,Yuki,,free,08/09/2026 02:58,(direct),
+1131,usr_c88b6584ce,noahtanaka62@icloud.com,,RIPPLING,free,10/13/2026 10:31,google,google.com
+1088,usr_237fd255ee,nora_haddad@posthog.com,nora haddad,posthog,FREE,2026/08/01,,https://www.linkedin.com/
+1124,usr_64d1e91691,zarar+work@mercury.com,,Mercury Technologies,team,1783790750,partner,https://news.ycombinator.com
+1080,usr_c49aec56a8,ins@brex.com,Ines Garcia,BREX,free,1789117593,Google,google.com
+1019,usr_006de299a1,kenji@datadoghq.com,Kenji Kim,Datadog,pro,2026-08-16T15:29:37Z,(direct),https://www.linkedin.com/
+1052,usr_a54910fade,htanaka@linear.app,HANNAH TANAKA,Linear,free,07-08-2026,twitter,
+1036,usr_1b8fc85fc0,Yrossi@Stripe.Com,Yuki,"Stripe, Inc.",team,2026-10-05 14:28:08,twitter,https://news.ycombinator.com
+1151,usr_31cef74829,qa-bot@relaybase.dev,test,test,free,2026-09-14 00:49:42,,
+1005,usr_c176c5a0dc,marcusrodriguez38@proton.me,Marcus,Vercel,pro,2026-07-08 15:01:13,,
+1061,usr_5f6b9cd71c,Mayaa@Airtable.Com,Maya Ahed,Airtable,free,2026-08-13 18:06:04,(direct),google.com
+1078,usr_908b040f53,ananyam@brex.com,Ananya Müller,,team,2026-10-10T10:08:05Z,newsletter,
+1132,usr_3da8284442,mrossi@rippling.com,Maya RRossi,Rippling People Center,team,07/12/2026 21:22,twitter,
+1063,usr_6ba902b73f,ravis@airtable.com,Ravi,Airtable,free,2026-08-27T07:42:37Z,hn,
+1146,usr_5e2f546033,  zara.silva47@yahoo.com ,Zara Silva,,pro_trial,2026/09/12,google,
+1099,usr_c72b0fbe44,onguyen+work@cloudflare.com,OMAR NGUYEN,CF,free,1792630059,,https://www.linkedin.com/
+1068,usr_d4b97e6224,  lucas.kim@plaid.com ,lucas kim,Plaid Technologies,Free,24-08-2026,hn,https://news.ycombinator.com
+1106,usr_6df54191ea,Chloe.Tanaka@Twilio.Com,Chloe Tanaka,TWILIO,free,07/15/2026 03:46,LinkedIn,
+1089,usr_098b2c550a,  elena@posthog.com ,Elena AAhmed,,free,2026/10/05,LinkedIn,google.com
+1074,usr_9e0f79a8a7,Lucashaddad25@Gmail.Com,LUCAS HADDAD,,pro_trial,2026/09/01,newsletter,
+1135,usr_9625d07461,mei.garcia@rippling.com,,,pro,2026-07-22T01:07:26Z,twitter,https://news.ycombinator.com
+1028,usr_7f2fa0d842,  james_okafor@datadoghq.com ,,Datadog Inc.,pro_trial,1791061622,,
+1026,usr_3c113634a5,priya@datadoghq.com,Priya O'Brien,Datadog HQ,free,08/12/2026 03:01,LinkedIn,google.com
+1038,usr_7e4806f804,diego_kowalski@stripe.com,Diego,STRIPE,Free,1795170027,Google,https://news.ycombinator.com
+1039,usr_894926ce5f,carlsoi@figma.com,Carlos,figma,Free,08/08/2026 14:05,(direct),https://news.ycombinator.com
+1107,usr_4ea0279a18,chloe.tanaka@twilio.com,Chloe Tanaka,TWILIO,free,2026-08-09 03:46:25,LinkedIn,
+1029,usr_b6e60fd420,liamahmed11@icloud.com,Liam Ahmde,STRIPE,pro_trial,2026-08-10 12:29:55,LinkedIn,
+1108,usr_b41758d47e,ravih@twilio.com,Ravi Haddad,,free,2026-08-24T11:17:26Z,partner,
+1144,usr_4b166ecfe3,omar.haddad221@hotmail.com,OMAR HADDAD,self,FREE,2026/11/13,google,https://news.ycombinator.com
+1004,usr_31828c37e7,  grace@vercel.com ,grace rodriguez,vercel,free,1792274610,linkedin,
+1118,usr_f9b65ad0f1,yuki_koafor@gusto.com,Yuki,,free,2026-07-24 02:58:04,(direct),
+1134,usr_9a3b8d3447,meigarcia11@gmail.com,,,pro,1784275646,twitter,https://news.ycombinator.com
+1071,usr_bd38a56b49,carlos+test@plaid.com,carlos singh,Plaid,pro,2026-08-26 08:51:54,,https://www.linkedin.com/
+1084,usr_4d44d7df9a,yukiokafor73@outlook.com,Yuki Okafor,Brex Inc.,free,10/01/2026 22:18,newsletter,
+1142,usr_3454c29d5c,fatima.tanaka678@icloud.com,fatima tanaka,Freelance,free,1785763369,,
+1102,usr_ade67093a0,Ravi@Twilio.Com,Raiv Müller,Twilio,Free,2026-07-07 09:45:33,partner,
+1143,usr_baecf26429,omar.haddad221@hotmail.com,OMAR HADDAD,self,FREE,2026-10-23 09:27:25,google,https://news.ycombinator.com
+1100,usr_d4bc69c155,ravi_silva@cloudflare.com,RaviSilva,"Cloudflare, Inc.",free,2026-09-23 12:55:52,hn,https://www.linkedin.com/
+1023,usr_be6667d3bb,mtanaka+relay@datadoghq.com,marcus tanaka,DataDog,team,2026-09-05T00:13:35Z,,https://www.linkedin.com/
+1018,usr_0c1f317405,zaragarcia68@hotmail.com,ZARA GARCIA,Notion,free,1792603912,(direct),https://www.linkedin.com/

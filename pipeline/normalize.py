@@ -140,7 +140,7 @@ def company_key(raw):
     if s in ("", "n/a", "na", "none", "self", "freelance", "self employed", "test", "-"):
         return None
     s = re.sub(r"^https?://", "", s)
-    s = re.sub(r"\.(com|io|ai|dev|co|org|net)$", "", s)
+    s = re.sub(r"\.(com|io|ai|dev|co|org|net|app|so)$", "", s)
     s = re.sub(COMPANY_SUFFIXES, " ", s)
     s = re.sub(r"[^a-z0-9]", "", s)
     return s or None

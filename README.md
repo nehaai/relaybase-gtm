@@ -26,24 +26,42 @@ Regenerate the source data with `python generate_data.py` (seeded, so it's deter
 
 | Metric | Value |
 |---|---|
-| Source records → contacts | 184 → 121 (118 real people) |
+| Source records → contacts | 234 → 154 (148 real people) |
 | Junk/spam quarantined | 11/11 caught, 0 false positives |
-| Person matching (pairwise) | precision 0.94, recall 0.94 |
-| Company assignment | 98.3% correct, 0 wrong, 3 unassigned |
-| Usage events attributed | 1,086 / 1,157 (67 orphaned, 4 malformed) |
+| Person matching (pairwise) | precision 1.00, recall 0.90 |
+| Company assignment | 96.9% correct, 0 wrong, 7 unassigned |
+| Usage events attributed | 1,469 / 1,553 (80 orphaned, 4 malformed) |
+
+## About the data
+
+The 18 companies are **real** (Vercel, Stripe, Datadog, Ramp, ...) so Phase 2 can enrich them with public firmographics. **Every person is synthetic**: names, emails, phone numbers, titles and product usage are generated. Never enroll these contacts in email sends or sequences, and never run person-level enrichment on them; a fake name at a real domain can collide with a real employee.
 
 ## Design decisions
 
-**Identity resolution rules (union-find over records):**
+**Identity resolution rules (union-find over records), strictest first:**
 - **R1 canonical email:** trim, lowercase, strip `+alias`, remove gmail dots.
-- **R2 email typo:** same work domain + local part within 1 edit, names don't conflict, same first letter (`jsmith` vs `msmith` are different people, not a typo).
-- **R3 name + company:** same first + last name at the same resolved company. Links the same person across different emails, e.g. a personal and a work address on two separate form fills.
+- **R2 email typo:** same work domain + local part within 1 edit, names don't conflict. Two guards learned from eval failures:
+  - different first letter (`jsmith` vs `msmith`) = different people's initials, not a typo
+  - difference only in the last character (`fatima` vs `fatimao`) = first-name vs first-name-plus-initial conventions, usually two people
+- **R3 name + company:** same first + last name at the same resolved company. Links a person across different emails, e.g. Elena Ahmed's hotmail signup and her `@stripe.com` demo request become one contact.
 
-**Company resolution:** work email domain is the key (strongest signal). Free-text company names only resolve by matching aliases learned from domain-backed records ("Vertex" → `vertexcloud.io`), never by creating new companies from free text.
+Wrong merges cost more than missed ones (a rep contacts the wrong person with the wrong context), so the rules favor precision.
+
+**Company resolution:** work email domain is the key. Free-text company names only resolve by matching aliases learned from domain-backed records ("DataDog" → `datadoghq.com`); free text never creates a company. The 7 unassigned records are all personal emails with a blank company field; the pipeline leaves them unassigned rather than guessing.
 
 **Why a custom `rb_company_key`:** HubSpot's `domain` field isn't unique, so it can't be an upsert key. A unique custom property makes company sync idempotent.
 
-**Known misses (by design, left for Phase 2):** 4 people who signed up with a personal email and gave no usable name/company. Only person-level enrichment (Clay) can link `hannahrossi70@gmail.com` to `hannah.rossi@kestrel.ai`. The 4 "wrong merges" are a generator artifact: two fake people were given the identical mailbox `ravi@vertexcloud.io`.
+**Known misses:** 9 record pairs, each linking a personal email (gmail, icloud, ...) to the same person's work email. The personal-email record is missing the last name or the company, so no rule has enough evidence to merge them safely.
+
+## Resetting HubSpot after changing the data
+
+```bash
+python phase1.py              # rebuild ./out from current data
+python cleanup.py             # dry run: lists pipeline records no longer in the data
+python cleanup.py --apply     # archives them (recoverable for 90 days)
+python phase1.py --push
+```
+`cleanup.py` only touches records the pipeline created (those with `rb_company_key` / `rb_source_systems`).
 
 ## Outputs (`./out`)
 - `contacts_clean.csv`, `companies_clean.csv`: what gets pushed

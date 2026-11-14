@@ -1,69 +1,83 @@
 submission_id,submitted_at,form_name,first_name,last_name,email,company_name,job_title,phone,country,company_size,message,utm_campaign
-5058,1787068508,Pricing Page,zara,Rossi,  zarar@cobaltpay.com ,,,,Canada,,"Using the free plan, want to talk about enterprise",q4-webinar
-5057,1790592099,Demo Request,ANANYA,Kowalski,  ananyak@cobaltpay.com ,,Head of Data,7236929298,CA,5624,,q4-webinar
-5040,02-11-2026,Demo Request,Daniel,Ahmed,daniel.ahmed@willowedu.org,,,,Germany,5962,,
-5005,2026-09-19T15:16:39Z,demo request,Arjun,,aokafor@northwind.io,northwind logistics llc,Director of Platform,(965) 827-1091,USA,,,brand
-5029,2026/08/21,Demo Request,Priya,,priya.rodriguez@orbitalretail.com,,,4417154544,GB,51-200,,Q4_Webinar
-5008,13-09-2026,Pricing Page,SOFIA,Ahmed,sofia@northwind.io,Northwind Logistics,SWE II,(524) 191-3800,US,763,Can we get a demo next week?,brand
-5042,2026/09/23,demo request,lucas,kim,Lucas.Kim@Willowedu.Org,,Senior SWE,,UK,51-200,we're evaluating vendors for Q1,brand
-5003,1790356903,Webinar: Scaling Pipelines,Lucas,kowalski,lucas@acmeanalytics.com,Acme,Senior SWE,361.115.5426,US,,Interested in pricing for our team,brand
-5039,04-09-2026,Contact Sales,Aisha,Kowalski,akowalski@vertexcloud.io,VertexCloud,,0000000000,DE,"1,000-5,000",Need SSO + SOC2 docs,
-5053,1786815314,Demo Request, Hannah,Silva,hannahs@graniteins.com,,Analytics Lead,n/a,CA,1000+,,retargeting
-5023,29-09-2026,demo request, Elena,Ahmed,elenaahmed28@hotmail.com,Orbital,Director of Platform,089.899.2172,US,11-50,,brand
-5006,08-09-2026,Pricing Page, Arjun,Okafor,aokafor@northwind.io,Northwind Logistics,,,US,"1,000-5,000",Need SSO + SOC2 docs,
-5002,2026-11-03 18:57:51,Whitepaper Download,sofia,,  sofiar@acmeanalytics.com ,acmeanalytics.com,VP Engineering,+15415206436,US,51-200,pls call,
-5044,2026-11-02T00:07:15Z,Whitepaper Download,Elena,Rossi,elenar+test@zephyrenergy.com,ZEPHYR ENERGY,,0000000000,GB,51-200,we're evaluating vendors for Q1,retargeting
-5051,2026-10-12 13:54:16,Whitepaper Download,Fatima,nguyen,fnguyen@graniteins.com,Granite,Data Engineer,+11413975523,United States,51-200,Can we get a demo next week?,brand
-5046,2026-08-12T00:25:52Z,Whitepaper Download,MARCUS,singh,marcus@zephyrenergy.com,,Founder,0000000000,United Kingdom,1000+,Need SSO + SOC2 docs,q4-webinar
-5022,2026-08-15T13:24:58Z,Whitepaper Download, Elena,Ahmed,elena.amed@orbitalretail.com,Orbital Retail Group,Director of Platform,+10477434902,US,"1,000-5,000",Need SSO + SOC2 docs,Q4_Webinar
-5019,2026-10-25 09:03:23,Webinar: Scaling Pipelines,Hannah,Rossi,hannahr.ossi@kestrel.ai,kestrel,,(570) 433-1541,IN,6333,"Using the free plan, want to talk about enterprise",q4-webinar
-5018,2026-10-08 03:13:10,Whitepaper Download, Marcus,tanaka,mtanaka@kestrel.ai,Kestrel AI Labs,,895.392.6442,US,,Interested in pricing for our team,Q4_Webinar
-5060,27-09-2026,Contact Sales,MAYA,tanaka,maya.tanaka+work@riverstonebank.com,,CTO,,DE,"1,000-5,000",,
-5050,2026/10/22,Webinar: Scaling Pipelines,grace,,grace.garcia@graniteins.com,granite ins,CTO,0000000000,US,51-200,Can we get a demo next week?,q4-webinar
-5066,2026-10-11T18:01:47Z,Contact Sales,Crypto,,buy.links@gmail.com,,,(947) 284-6392,N/A,,Buy 10k leads cheap http://cheapleads.biz,
-5045,11-10-2026,Contact Sales,NOAH,Johnson,noahj@zephyrenergy.com,Zephyr Energy Co.,Product Manager,7212281606,Canada,11-50,we're evaluating vendors for Q1,
-5068,2026/10/09,Contact Sales,asdkjh,Services,buy.links@gmail.com,,,,RU,,Buy 10k leads cheap http://cheapleads.biz,
-5015,1788971868,Webinar: Scaling Pipelines, Diego,singh,diegosingh29@gmail.com,Brightpath Health,Founder,,United States,7869,Can we get a demo next week?,Q4_Webinar
-5033,2026-10-16T23:40:51Z,Webinar: Scaling Pipelines,omar,Nguyen,omar@quantarobotics.com,Quanta Robotics Inc.,ML Engineer,(542) 168-9421,Singapore,4774,Can we get a demo next week?,brand
-5043,08/15/2026 22:38,Whitepaper Download,ELENA,Rossi,  elenar@zephyrenergy.com ,,,n/a,United Kingdom,201-1000,"Using the free plan, want to talk about enterprise",
-5059,2026/10/27,Pricing Page,MAYA,Kowalski,Maya.Kowalski@Riverstonebank.Com,Riverstone,,818.063.5651,Germany,201-1000,"Using the free plan, want to talk about enterprise",Q4_Webinar
-5062,03-10-2026,demo request,carlos,Nguyen,carlos.nguyen453@outlook.com,,Student,n/a,Germany,201-1000,Interested in pricing for our team,brand
-5047,27-08-2026,demo request,Daniel,Rossi,drossi@zephyrenergy.com,Zephyr Energy,Director of Platform,9930561648,SG,1000+,pls call,brand
-5049,24-09-2026,Webinar: Scaling Pipelines,Hannah,iyer,hiyer@graniteins.com,,Senior SWE,+19190158144,USA,"1,000-5,000","Using the free plan, want to talk about enterprise",retargeting
-5014,2026-10-28 15:40:49,Whitepaper Download, Nora,Rossi,Nrossi@Brightpathhealth.Com,brightpath health inc,Product Manager,,CA,51-200,Interested in pricing for our team,linkedin-abm-tier1
-5038,2026-10-29T23:31:13Z,Pricing Page, Ravi,sharma,  ravi@vertexcloud.io ,Vertex Cloud,Staff Engineer,9027716701,Canada,51-200,Can we get a demo next week?,Q4_Webinar
-5011,2026-09-27 15:01:02,Whitepaper Download,SAMUEL,Patel,SAMUELP@NORTHWIND.IO,Northwind Logistics,SWE II,(571) 918-2619,Singapore,51-200,we're evaluating vendors for Q1,linkedin-abm-tier1
-5007,09/10/2026 07:26,Whitepaper Download,sofia,Ahmed,SOFIA@NORTHWIND.IO,Northwind,SWE II,(758) 842-5241,united states,201-1000,,linkedin-abm-tier1
-5026,09/25/2026 03:11,Whitepaper Download, Ravi,Haddad,  ravi.haddad@orbitalretail.com ,Orbital Retail Group,Head of Data,785.082.1486,US,51-200,Need SSO + SOC2 docs,
-5004,2026-09-09 09:10:08,Demo Request,Daniel,O'Brien,daniel.obrien@northwind.io,Northwind Logistics,,6565234138,IN,51-200,Need SSO + SOC2 docs,retargeting
-5037,02-10-2026,Whitepaper Download,Zara,Singh,zara_singh@tidewatermedia.com,Tidewater,,225.579.4155,DE,"1,000-5,000",pls call,linkedin-abm-tier1
-5061,22-09-2026,Demo Request,Maya,,  maya.tanaka@riverstonebank.com ,Riverstone,,n/a,DE,201-1000,Need SSO + SOC2 docs,
-5067,2026-10-20T07:55:15Z,Contact Sales,asdkjh,,x9k2@tempmail.net,,,,RU,,hello,
-5020,2026-09-13 03:11:13,Pricing Page,Aisha,Patel,aisha.patel+work@lumenfi.com,Lumen Finance Corp,DevOps Lead,n/a,US,11-50,"Using the free plan, want to talk about enterprise",q4-webinar
-5054,2026-10-22 15:00:08,demo request,aisha,becker,aisha.becker@graniteins.com,Granite,Director of Platform,,United States,,,retargeting
-5021,05-10-2026,Whitepaper Download,AISHA,,aisha.patel+relay@lumenfi.com,Lumen,DevOps Lead,n/a,US,,Need SSO + SOC2 docs,q4-webinar
-5064,1792478747,Contact Sales,asdkjh,Services,buy.links@gmail.com,Best SEO Agency,,6518275539,,,hello,
-5034,2026-10-17T22:18:46Z,Contact Sales,sofia,Kowalski,  sofia_kowalski@sablesec.com ,Sable,,(821) 506-4890,CA,,,brand
-5041,10/15/2026 00:35,Whitepaper Download,DANIEL,,daniel.ahmed@willowedu.org,Willow,DevOps Lead,+1 726 149 3316,Germany,1000+,,brand
-5009,13-08-2026,Contact Sales,ETHAN,Johnson,ejohnson@northwind.io,,Senior SWE,(419) 518-0238,united states,1139,we're evaluating vendors for Q1,linkedin-abm-tier1
-5032,2026-08-18T14:39:45Z,Pricing Page,OMAR,Nguyen,omar+relay@quantarobotics.com,Quanta,ML Engineer,,Singapore,7039,"Using the free plan, want to talk about enterprise",
-5027,10/02/2026 18:20,Webinar: Scaling Pipelines, Ananya,chen,ananyachen57@hotmail.com,Orbital,,,Singapore,201-1000,,linkedin-abm-tier1
-5012,2026-10-28 11:17:41,demo request,Priya,Rodriguez,Priya@Brightpathhealth.Com,brightpath health inc,Head of Data,185.374.7411,India,51-200,Can we get a demo next week?,q4-webinar
-5001,2026/09/02,Pricing Page,sofia,rossi,sofiar@acmeanalytics.com,Acme,VP Engineering,(545) 892-9750,US,,,q4-webinar
-5031,10/07/2026 08:37,Webinar: Scaling Pipelines,FATIMA,okafor,fatimao@quantarobotics.com,Quanta Robotics,Engineering Manager,9991738168,United Kingdom,11-50,Interested in pricing for our team,q4-webinar
-5056,1789121981,Contact Sales, Samuel,,samuel.garcia@helixbio.com,Helix Bio,,773.926.0302,US,,Interested in pricing for our team,
-5048,2026-10-27 22:38:24,demo request,Elena,Silva,  elena.silva@zephyrenergy.com ,Zephyr Energy Co.,,(613) 861-2075,US,,Interested in pricing for our team,linkedin-abm-tier1
-5063,2026/10/21,Contact Sales,Crypto,Services,buy.links@gmail.com,,,,RU,,Buy 10k leads cheap http://cheapleads.biz,
-5010,10/16/2026 14:01,Whitepaper Download,samuel,patel,samulep@northwind.io,,,(320) 603-8505,Singapore,1-10,Need SSO + SOC2 docs,Q4_Webinar
-5065,14-10-2026,Contact Sales,John,Services,x9k2@tempmail.net,,,n/a,N/A,,We can rank your site #1 on Google!!!,
-5025,08/16/2026 15:56,Pricing Page, Nora,müller,NORA.MULLER@ORBITALRETAIL.COM,Orbital Retail Group,,(960) 653-0745,Canada,201-1000,we're evaluating vendors for Q1,brand
-5055,2026/10/10,Contact Sales, Liam,ahmed,liaam_ahmed@helixbio.com,helix bio inc,Director of Platform,386.557.7908,United States,51-200,,Q4_Webinar
-5028,2026-10-30 03:55:06,Contact Sales,ananya,Chen,ananyachen57+signup@hotmail.com,,vp eng,0722903494,Singapore,1000+,pls call,linkedin-abm-tier1
-5036,09/02/2026 19:58,Contact Sales,Zara,Singh,zara_singh@tidewatermedia.com,Tidewater,,7218114374,Germany,1-10,Interested in pricing for our team,
-5016,2026-11-01T10:28:34Z,Pricing Page,MEI,Ahmed,mei_ahmed@kestrel.ai,kestrel,Engineering Manager,+1 348 039 6522,USA,,Can we get a demo next week?,Q4_Webinar
-5052,02-10-2026,Contact Sales,Daniel,,  drossi@graniteins.com ,Granite Insurance Group,,n/a,US,1-10,we're evaluating vendors for Q1,q4-webinar
-5035,23-10-2026,Whitepaper Download,sofia,Kowalski,sofia_kowalski@sablesec.com,Sable,SWE II,+16184992618,Canada,1-10,pls call,q4-webinar
-5013,12-10-2026,demo request,Priya,,priya+test@brightpathhealth.com,BrightPath,Head of Data,(788) 317-1210,IN,51-200,"Using the free plan, want to talk about enterprise",linkedin-abm-tier1
-5030,09/06/2026 01:34,Pricing Page, Diego,müller,dmuller@orbitalretail.com,,,0000000000,SG,1-10,pls call,q4-webinar
-5017,2026-10-19T15:24:55Z,Demo Request,marcus,Tanaka,Mtanaka@Kestrel.Ai,KESTREL.AI,,+13252500292,USA,1000+,"Using the free plan, want to talk about enterprise",Q4_Webinar
-5024,2026/08/22,Webinar: Scaling Pipelines,NORA,Müller,Nora.Muller@Orbitalretail.Com,,Data Engineer,487.099.8616,CA,1-10,,linkedin-abm-tier1
+5082,11-10-2026,Contact Sales,asdkjh,Services,seo.rank.boost@mail.ru,http://cheapleads.biz,,,,,Buy 10k leads cheap http://cheapleads.biz,
+5036,2026/08/09,Webinar: Scaling Pipelines, Lucas,kim,lucas.kim@plaid.com,plaid,Senior SWE,+1 779 071 4163,UK,1000+,,retargeting
+5007,23-10-2026,Whitepaper Download,ethan,Johnson,ejohnson@ramp.com,,Senior SWE,0000000000,US,1-10,,brand
+5003,2026-08-28 23:15:41,Whitepaper Download,GRACE,Rodriguez,  grace@vercel.com ,vercel,,(465) 549-4717,CA,51-200,,retargeting
+5069,2026/08/18,Webinar: Scaling Pipelines,ARJUN,Johnson,Arjun@Mercury.Com,mercury,Director of Platform,+14999827950,united states,1000+,"Using the free plan, want to talk about enterprise",
+5013,2026/08/21,Whitepaper Download,DIEGO,Ahmed,diego.ahmed@notion.com,notion.so,CTO,n/a,US,51-200,,linkedin-abm-tier1
+5021,2026-10-27 22:38:24,demo request,Elena,Ahmed,  elena.ahmed@stripe.com ,,Director of Platform,(613) 861-2075,US,,Interested in pricing for our team,linkedin-abm-tier1
+5011,10/28/2026 19:20,Demo Request,priya,,priya@notion.com,,,(916) 375-6289,IN,2581,pls call,q4-webinar
+5035,03-10-2026,demo request,samuel,Nguyen,samuel.nguyen@airtable.com,Airtable Inc,VP Engineering,n/a,united states,201-1000,Interested in pricing for our team,brand
+5078,31-10-2026,Contact Sales,John,,buy.links@gmail.com,http://cheapleads.biz,,0000000000,RU,,Buy 10k leads cheap http://cheapleads.biz,
+5026,1786815314,Demo Request, Ethan,Silva,esilva@figma.com,,DevOps Lead,n/a,GB,1000+,,retargeting
+5081,2026-10-16T01:22:10Z,Contact Sales,John,Services,seo.rank.boost@mail.ru,Best SEO Agency,,,RU,,hello,
+5044,05-09-2026,Pricing Page,JAMES,haddad,Jameshaddad9@Icloud.Com,,Analytics Lead,0000000000,US,1477,we're evaluating vendors for Q1,linkedin-abm-tier1
+5034,22-09-2026,Demo Request,Mei,,  meij@retool.com ,Retool Inc.,,n/a,DE,201-1000,Need SSO + SOC2 docs,
+5053,2026/08/24,Webinar: Scaling Pipelines,Kenji,O'Brien,kenji_obrien@cloudflare.com,"Cloudflare, Inc.",SWE II,811.386.3383,Germany,1000+,pls call,retargeting
+5022,24-09-2026,Webinar: Scaling Pipelines,Noah,rodriguez,nrodriguez@stripe.com,Stripe,CTO,+19190158144,UK,"1,000-5,000","Using the free plan, want to talk about enterprise",retargeting
+5064,01-10-2026,Pricing Page,zara,Rossi,  zarar@mercury.com ,Mercury Technologies,vp eng,n/a,USA,51-200,"Using the free plan, want to talk about enterprise",brand
+5045,08/22/2026 21:49,Webinar: Scaling Pipelines, Marcus,Kowalski,marcus_kowalski@supabase.com,Supabase,,,Germany,51-200,Interested in pricing for our team,retargeting
+5068,27-08-2026,Pricing Page, Olivia,Ahmed,oliviaahmed98@hotmail.com,Mercury,Engineering Manager,+1 397 767 1990,India,,Interested in pricing for our team,q4-webinar
+5038,10/06/2026 05:46,Pricing Page,lucas,,lucas_haddad@brex.com,,Staff Engineer,n/a,DE,8500,Can we get a demo next week?,retargeting
+5046,1789721265,Whitepaper Download,JAMES,,james@posthog.com,,Software Engineer,6312241797,India,1000+,,q4-webinar
+5017,2026-09-03T18:32:44Z,Whitepaper Download,JAMES,Okafor,james_okafor@datadoghq.com,Datadog Inc.,Head of Data,(719) 838-6384,Singapore,"1,000-5,000",Can we get a demo next week?,Q4_Webinar
+5037,2026-08-28T14:09:58Z,demo request,omar,müller,omar.muller+test@plaid.com,Plaid,vp eng,+1 237 333 4333,Canada,1-10,,
+5008,08/21/2026 08:37,Whitepaper Download, Olivia,,  olivia_kowalski@notion.com ,Notion,SWE II,375.300.1197,SG,1-10,,linkedin-abm-tier1
+5024,2026-10-12 13:54:16,Whitepaper Download,Yuki,rossi,yrossi@stripe.com,"Stripe, Inc.",Product Manager,+11413975523,United States,51-200,Can we get a demo next week?,brand
+5016,1786638223,Whitepaper Download,zara,,zgarcia@datadoghq.com,datadog,,(799) 684-6081,United Kingdom,,,q4-webinar
+5062,2026/09/26,Webinar: Scaling Pipelines, Daniel,Tanaka,  daniel@gusto.com ,gusto,,,GB,1-10,Interested in pricing for our team,linkedin-abm-tier1
+5057,2026/08/06,demo request,Ravi,Haddad,ravih@twilio.com,Twilio,Software Engineer,,United Kingdom,11-50,pls call,Q4_Webinar
+5020,27-08-2026,demo request,Mei,Silva,meis@stripe.com,Stripe Payments,VP Engineering,9930561648,CA,1000+,pls call,brand
+5014,2026-08-21T21:55:46Z,Webinar: Scaling Pipelines,marcus,Chen,Marcus_Chen@Datadoghq.Com,DataDog,vp eng,0000000000,IN,,,Q4_Webinar
+5075,09/11/2026 21:10,Pricing Page,Grace,Kowalski,grace.kowalski@rippling.com,RIPPLING,Director of Platform,n/a,GB,11-50,Interested in pricing for our team,linkedin-abm-tier1
+5015,1792769725,demo request,PRIYA,o'brien,priya@datadoghq.com,Datadog,,0000000000,Singapore,1000+,Need SSO + SOC2 docs,q4-webinar
+5072,1791175282,demo request,Noah,Tanaka,  noah.tanaka@rippling.com ,RIPPLING,,,US,201-1000,Can we get a demo next week?,Q4_Webinar
+5067,1793105113,demo request,olivia,ahmed,oahmed@mercury.com,Mercury Technologies,Engineering Manager,n/a,India,1-10,Interested in pricing for our team,q4-webinar
+5029,1789121981,Contact Sales, Fatima,,fatimao@figma.com,Figma,,773.926.0302,GB,,Interested in pricing for our team,
+5077,10/20/2026 18:15,Contact Sales,Crypto,,x9k2@tempmail.net,Best SEO Agency,,(294) 562-5577,,,Buy 10k leads cheap http://cheapleads.biz,
+5033,27-09-2026,Contact Sales,MEI,johnson,meij+work@retool.com,,Software Engineer,,DE,"1,000-5,000",,
+5066,1788782860,demo request,Zara,Kim,zara_kim@mercury.com,,Staff Engineer,+16657027937,united states,11-50,,
+5012,2026-10-05T07:08:23Z,demo request,diego,ahmed,diego.ahmed@notion.com,notion,CTO,(779) 717-7517,US,"1,000-5,000",,Q4_Webinar
+5040,2026-08-08T00:26:59Z,Whitepaper Download,RAVI,Rossi,rrossi@brex.com,Brex,Analytics Lead,,Canada,201-1000,,brand
+5074,2026-10-01 18:19:57,Demo Request, Maya,Rossi,mrossi@rippling.com,,Founder,+1 357 845 2182,CA,"1,000-5,000",,
+5039,2026/09/04,Demo Request,LUCAS,,lucashaddad25@gmail.com,BREX,Staff Engineer,,DE,1000+,Can we get a demo next week?,brand
+5030,1790592099,Demo Request,OMAR,Nguyen,  omar@figma.com ,,ML Engineer,7236929298,SG,5624,,q4-webinar
+5027,2026-10-22 15:00:08,demo request,fatima,nguyen,fatima@figma.com,Figma Inc,Founder,,United States,,,retargeting
+5055,2026-10-15T16:31:02Z,Whitepaper Download,INES,Silva,Ines_Silva@Cloudflare.Com,cloudflare,CTO,+1 459 334 4196,CA,5329,Interested in pricing for our team,brand
+5048,09/22/2026 21:29,Pricing Page,Nora,Haddad,nora_haddad@posthog.com,posthog,Senior SWE,7303718376,Singapore,,,linkedin-abm-tier1
+5006,2026-10-17T22:18:46Z,Contact Sales,ethan,Johnson,  ejohnson@ramp.com ,Ramp Business Corp,,(821) 506-4890,US,,,brand
+5058,1792213192,demo request,maya,Rossi,Mayar@Twilio.Com,TWILIO,,(911) 665-5355,Singapore,1000+,pls call,Q4_Webinar
+5071,1786916928,Webinar: Scaling Pipelines,ines,Kowalski,Ines_Kowalski@Rippling.Com,Rippling People Center,,+1 396 605 5830,United Kingdom,1-10,we're evaluating vendors for Q1,linkedin-abm-tier1
+5060,08/24/2026 12:51,Demo Request, Samuel,Kim,Samuel_Kim@Gusto.Com,ZenPayroll,CTO,0000000000,US,51-200,pls call,Q4_Webinar
+5032,2026/10/27,Pricing Page,KENJI,Johnson,Kenji@Retool.Com,Retool Inc.,,818.063.5651,UK,201-1000,"Using the free plan, want to talk about enterprise",Q4_Webinar
+5065,1789041680,Webinar: Scaling Pipelines, Zara,Rossi,zarar@mercury.com,Mercury,vp eng,+1 038 860 8680,USA,"1,000-5,000",we're evaluating vendors for Q1,linkedin-abm-tier1
+5063,16-08-2026,Webinar: Scaling Pipelines, Samuel,,  samuel@gusto.com ,gusto,Head of Data,+1 220 994 9993,US,1000+,,retargeting
+5002,14-08-2026,Whitepaper Download,SOFIA,Rossi,sofiar@vercel.com,,VP Engineering,+1 446 660 9935,united states,201-1000,Interested in pricing for our team,retargeting
+5042,1786358357,Webinar: Scaling Pipelines, Ines,garcia,ines@brex.com,Brex Inc.,ML Engineer,n/a,USA,8545,"Using the free plan, want to talk about enterprise",q4-webinar
+5005,2026/08/10,Contact Sales,Olivia,Iyer,oliviai@ramp.com,ramp,Founder,(542) 168-9421,India,4774,Can we get a demo next week?,brand
+5001,23-09-2026,Webinar: Scaling Pipelines, Sofia,Rossi,Sofiar@Vercel.Com,VERCEL,,9944171545,united states,51-200,Interested in pricing for our team,Q4_Webinar
+5059,2026-10-31 02:33:49,Whitepaper Download,MAYA,Rossi,mayar@twilio.com,Twilio Inc.,Analytics Lead,n/a,SG,51-200,Need SSO + SOC2 docs,q4-webinar
+5009,10/19/2026 17:12,Webinar: Scaling Pipelines,MEI,müller,mmuller@notion.com,Notion Labs,Founder,,CA,"1,000-5,000","Using the free plan, want to talk about enterprise",brand
+5043,1791961355,Whitepaper Download,Arjun,Kim,  arjun@brex.com ,Brex Inc.,VP Engineering,178.006.8114,SG,201-1000,Need SSO + SOC2 docs,q4-webinar
+5073,2026-08-16T00:58:56Z,Contact Sales,MEI,Haddad,mei_hadddad@rippling.com,,Founder,,DE,51-200,Can we get a demo next week?,brand
+5019,2026-08-12T00:25:52Z,Whitepaper Download,LIAM,ahmed,liamahmed11@icloud.com,Stripe,,0000000000,United Kingdom,1000+,Need SSO + SOC2 docs,q4-webinar
+5010,1790044688,Contact Sales,Priya,Rodriguez,priya@notion.com,Notion Labs,Head of Data,(169) 797-2965,IN,7924,,brand
+5054,2026-08-16 19:01:36,demo request, Kenji,,kenji_obrien@cloudflare.com,Cloudflare,,+1 755 855 6659,DE,201-1000,Can we get a demo next week?,brand
+5047,2026-09-17T01:41:36Z,Webinar: Scaling Pipelines,JAMES,Johnson,james@posthog.com,Posthog,Software Engineer,n/a,IN,1-10,Interested in pricing for our team,
+5050,2026-09-06T16:11:25Z,Contact Sales, Fatima,Singh,fatima_singh+work@posthog.com,PostHog,,3065240778,Germany,11-50,Can we get a demo next week?,linkedin-abm-tier1
+5025,02-10-2026,Contact Sales,Carlos,,  carlosi@figma.com ,figma,,n/a,US,1-10,we're evaluating vendors for Q1,q4-webinar
+5018,2026-08-17 15:09:09,Whitepaper Download,AISHA,Patel,aisha.patel@datadoghq.com,DataDog,DevOps Lead,7212281606,USA,11-50,we're evaluating vendors for Q1,
+5061,07-10-2026,Whitepaper Download,aisha,Silva,aiha@gusto.com,ZenPayroll,CTO,,Singapore,1-10,"Using the free plan, want to talk about enterprise",Q4_Webinar
+5023,2026/10/22,Webinar: Scaling Pipelines,noah,,nbecker@stripe.com,,,,SG,51-200,Can we get a demo next week?,q4-webinar
+5028,2026/10/10,Contact Sales, Daniel,haddad,dhhaddad@figma.com,FIGMA,Senior SWE,386.557.7908,Germany,51-200,,Q4_Webinar
+5070,09/02/2026 13:37,demo request, Ines,Kowalski,ines_kowalski@rippling.com,,SWE II,1981794695,United Kingdom,2135,pls call,brand
+5080,14-10-2026,Contact Sales,SEO,Bot,info@cheapleads.biz,,,,RU,,Buy 10k leads cheap http://cheapleads.biz,
+5079,2026/10/17,Contact Sales,John,Bot,x9k2@tempmail.net,,,+1 615 396 6958,,,hello,
+5052,2026-08-11T19:50:56Z,Contact Sales,Ananya,rodriguez,  arodriguez@cloudflare.com ,"Cloudflare, Inc.",,+16789940539,DE,3429,,brand
+5049,2026-10-08T01:26:28Z,Whitepaper Download,nora,Haddad,  nora_haddad@posthog.com ,PostHog,Senior SWE,n/a,SG,1-10,Need SSO + SOC2 docs,q4-webinar
+5041,1787428090,Demo Request, Olivia,,olivia.sharma+work@brex.com,,,0000000000,GB,1000+,Can we get a demo next week?,retargeting
+5051,10/21/2026 02:22,demo request,YUKI,okafor,Yokafor@Cloudflare.Com,CF,,+1 209 593 5186,united states,201-1000,Can we get a demo next week?,brand
+5076,10/03/2026 11:43,Contact Sales,MEI,Garcia,  mei.garcia@rippling.com ,RIPPLING,,(587) 020-7016,US,"1,000-5,000",Interested in pricing for our team,retargeting
+5056,10/29/2026 23:01,Pricing Page, Ravi,Haddad,ravih@twilio.com,twilio,,906.048.0589,United Kingdom,51-200,Interested in pricing for our team,
+5031,1787068508,Pricing Page,zara,O'Brien,  zobrien@linear.app ,Linear,,,UK,,"Using the free plan, want to talk about enterprise",q4-webinar
+5004,10/21/2026 15:01,Pricing Page, James,Johnson,james+test@ramp.com,Ramp Business Corp,DevOps Lead,525.007.4329,UK,11-50,"Using the free plan, want to talk about enterprise",retargeting
