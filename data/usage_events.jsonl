@@ -1,0 +1,1157 @@
+{"event": "hit_rate_limit", "ts": "10/19/2026 03:09", "user_id": "usr_71ec8be537", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "2026-10-21 01:06:17", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "bigquery"}}
+{"event": "login", "ts": "09/08/2026 22:24", "user_id": "usr_2ca56895c6"}
+{"event": "exported_data", "ts": "09/20/2026 00:52", "user_id": "usr_b823d4526b"}
+{"event": "invited_teammate", "ts": "22-09-2026", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "invited_teammate", "ts": "2026-09-15 21:49:05", "user_id": "usr_83fef7d9ea", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "connected_integration", "ts": "10-09-2026", "user_id": "usr_bbea98fef8", "properties": {"integration": "postgres"}}
+{"event": "project_created", "ts": "2026/10/08", "user_id": "usr_50a39c9ec6", "email": "chloe.haddad851@yahoo.com"}
+{"event": "pipeline_run", "ts": "1789630650", "user_id": "usr_33c48563a3"}
+{"event": "exported_data", "ts": "2026/10/13", "user_id": "usr_71ec8be537"}
+{"event": "viewed_pricing", "ts": "2026-10-29T19:48:21Z", "user_id": "usr_098b2c550a", "email": "maya.garcia110@yahoo.com"}
+{"event": "exported_data", "ts": "09/19/2026 08:39", "email": "liamahmed11@icloud.com"}
+{"event": "exported_data", "ts": "2026-09-30 02:30:13", "user_id": "usr_b823d4526b"}
+{"event": "hit_rate_limit", "ts": "19-09-2026", "user_id": "usr_5b04287378", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "14-09-2026", "user_id": "usr_a36b79afcc"}
+{"event": "hit_rate_limit", "ts": "10/08/2026 14:27", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "viewed_pricing", "ts": "2026/09/23", "user_id": "usr_eaa38295d3"}
+{"event": "api_key_created", "ts": "2026-10-13T14:49:03Z", "user_id": "usr_6061177270"}
+{"event": "invited_teammate", "ts": "1790434317", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "hit_rate_limit", "ts": "09/26/2026 21:14", "user_id": "usr_4fa0d44d24"}
+{"event": "pipeline_run", "ts": "2026-09-16T17:47:01Z", "email": "maya_iyer@riverstonebank.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "10/10/2026 03:19", "user_id": "usr_50a39c9ec6"}
+{"event": "invited_teammate", "ts": "2026-09-17T21:25:44Z", "user_id": "usr_86237befd1"}
+{"event": "pipeline_run", "ts": "09/05/2026 08:36", "user_id": "usr_0940d92bce", "properties": {"rows": 200, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026/10/28", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "icloud.com"}}
+{"event": "connected_integration", "ts": "2026/09/08", "user_id": "usr_d839681c81", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "2026-10-26 12:25:28", "user_id": "usr_4e4d126ab1"}
+{"event": "invited_teammate", "ts": "06-09-2026", "user_id": "usr_597ad465a1", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "exported_data", "ts": "2026-09-19 19:58:08", "user_id": "usr_5f6b9cd71c"}
+{"event": "viewed_pricing", "ts": "10/19/2026 16:40", "user_id": "usr_6d8f5242d3"}
+{"event": "login", "ts": "2026-09-22T18:05:26Z", "email": "hannahrossi70@gmail.com"}
+{"event": "pipeline_run", "ts": "10/16/2026 19:57", "email": "grace.garcia@graniteins.com", "properties": {"rows": null, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-10-05T17:58:35Z", "user_id": "usr_c176c5a0dc", "properties": {"rows": 200, "status": "failed"}}
+{"event": "connected_integration", "ts": "2026-10-27 02:49:37", "email": "  arjun@orbitalretail.com ", "properties": {"integration": "bigquery"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-01T18:30:30Z", "email": "grace.garcia@graniteins.com"}
+{"event": "api_key_created", "ts": "31-10-2026", "user_id": "usr_da22bf18f5"}
+{"event": "pipeline_run", "ts": "10/16/2026 06:02", "user_id": "usr_de2e709838", "properties": {"rows": 10, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-09-08 16:43:44", "user_id": "usr_625cb5e69c", "properties": {"invitee_domain": "quantarobotics.com"}}
+{"event": "pipeline_run", "ts": "2026-10-20 16:28:52", "user_id": "usr_7773318749", "properties": {"rows": 120000, "status": "success"}}
+{"event": "project_created", "ts": "24-10-2026", "user_id": "usr_50a39c9ec6"}
+{"event": "hit_rate_limit", "ts": "10-09-2026", "user_id": "usr_5f6b9cd71c", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026/10/14", "user_id": "usr_ad5ab28d4a"}
+{"event": "exported_data", "ts": "2026-10-20 17:41:21", "user_id": "usr_df98874bfe"}
+{"event": "pipeline_run", "ts": "2026-10-20T08:01:49Z", "user_id": "usr_2ca56895c6", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-09-28T07:41:13Z", "user_id": "usr_6d8f5242d3", "properties": {"rows": 200, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1790674703", "email": "liamh@vertexcloud.io"}
+{"event": "project_created", "ts": "2026-09-21 13:27:31", "user_id": "usr_6061177270"}
+{"event": "exported_data", "ts": "10/20/2026 12:48", "user_id": "usr_c176c5a0dc"}
+{"event": "pipeline_run", "ts": "2026-09-29T10:07:11Z", "user_id": "usr_5f6b9cd71c", "email": "grace.garcia@graniteins.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "login", "ts": "05-10-2026", "user_id": "usr_babe055787"}
+{"event": "sso_settings_viewed", "ts": "2026/10/28", "user_id": "usr_ad5ab28d4a"}
+{"event": "api_key_created", "ts": "2026-10-10T02:49:06Z", "user_id": "usr_6061177270"}
+{"event": "api_key_created", "ts": "1793004806", "user_id": "usr_6061177270"}
+{"event": "exported_data", "ts": "06-09-2026", "user_id": "usr_b09fa87040"}
+{"event": "pipeline_run", "ts": "1791943521", "user_id": "usr_e68b621d41", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "13-09-2026", "email": "arjun.silva795@yahoo.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1791845126", "user_id": "usr_ee1d27c09a"}
+{"event": "invited_teammate", "ts": "2026-10-22T15:43:22Z", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "viewed_pricing", "ts": "1790634396", "email": "zgarcia+signup@lumenfi.com"}
+{"event": "connected_integration", "ts": "2026/09/21", "user_id": "usr_4e4baf0f5e", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "2026/10/14", "user_id": "usr_c680773e33"}
+{"event": "pipeline_run", "ts": "10/11/2026 11:22", "user_id": "usr_31828c37e7", "properties": {"rows": 10, "status": "success"}}
+{"event": "project_created", "ts": "24-10-2026", "email": "digeo.okafor317@icloud.com"}
+{"event": "pipeline_run", "ts": "2026-10-26 13:51:46", "user_id": "usr_625cb5e69c", "email": "fatimaokafor69@proton.me", "properties": {"rows": 120000, "status": "success"}}
+{"event": "login", "ts": "2026/09/14", "user_id": "usr_a36b79afcc"}
+{"event": "exported_data", "ts": "2026-10-03 02:30:27", "email": "ravihaddad55@outlook.com"}
+{"event": "sso_settings_viewed", "ts": "2026-10-16 13:59:19", "user_id": "usr_b823d4526b"}
+{"event": "hit_rate_limit", "ts": "25-10-2026", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "12-10-2026", "user_id": "usr_56ded255d0"}
+{"event": "login", "ts": "2026-10-19 23:24:01", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "viewed_pricing", "ts": "2026-10-11 22:53:57", "email": "mtanaka@kestrel.ai"}
+{"event": "hit_rate_limit", "ts": "2026-09-17 14:06:38", "user_id": "usr_80657e01c9", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "viewed_pricing", "ts": "2026/10/25", "email": "aishaokafor31@outlook.com"}
+{"event": "pipeline_run", "ts": "09/30/2026 16:09", "user_id": "usr_1b97fa7f04", "properties": {"rows": 120000, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "10/04/2026 20:38", "user_id": "usr_5b04287378", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "2026-10-13 10:42:22", "user_id": "usr_b823d4526b", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "api_key_created", "ts": "21-09-2026", "user_id": "usr_d4b97e6224"}
+{"event": "viewed_pricing", "ts": "2026-09-23 12:49:08", "user_id": "usr_d839681c81"}
+{"event": "project_created", "ts": "2026/09/08", "user_id": "usr_56ded255d0"}
+{"event": "connected_integration", "ts": "2026-09-30T05:58:10Z", "user_id": "usr_31828c37e7", "properties": {"integration": "snowflake"}}
+{"event": "sso_settings_viewed", "ts": "09/25/2026 10:20", "user_id": "usr_5f6b9cd71c"}
+{"event": "sso_settings_viewed", "ts": "1789021098", "user_id": "usr_b823d4526b"}
+{"event": "login", "ts": "10/27/2026 06:03", "email": "oliviar@paperplane.dev"}
+{"event": "sso_settings_viewed", "ts": "2026-10-25T09:59:10Z", "email": "liam_ahmed@helixbio.com"}
+{"event": "exported_data", "ts": "2026-10-16 19:38:43", "user_id": "usr_50a39c9ec6"}
+{"event": "viewed_pricing", "ts": "09/21/2026 04:55", "user_id": "usr_7ba4244f23"}
+{"event": "viewed_pricing", "ts": "1789900510", "user_id": "usr_6061177270"}
+{"event": "viewed_pricing", "ts": "2026-10-28T05:56:58Z", "email": "  ethan_patel@brightpathhealth.com "}
+{"event": "hit_rate_limit", "ts": "2026/10/12", "user_id": "usr_d839681c81", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "15-10-2026", "user_id": "usr_77811414f8"}
+{"event": "viewed_pricing", "ts": "2026-10-08T16:24:41Z", "user_id": "usr_1bd8302081"}
+{"event": "invited_teammate", "ts": "1788835953", "email": "samuel.tanaka@cobaltpay.com", "properties": {"invitee_domain": "cobaltpay.com"}}
+{"event": "api_key_created", "ts": "2026/09/20", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "2026/11/03", "email": "Arjun.Silva795@Yahoo.Com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "18-10-2026", "user_id": "usr_dc13eecdc6", "properties": {"rows": 5000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "09/14/2026 06:35", "user_id": "usr_6061177270"}
+{"event": "hit_rate_limit", "ts": "2026-10-06T00:48:29Z", "user_id": "usr_011eb74b56", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "2026/09/20", "email": "hannahp@vertexcloud.io"}
+{"event": "connected_integration", "ts": "2026/10/01", "user_id": "usr_eaa38295d3", "properties": {"integration": "bigquery"}}
+{"event": "exported_data", "ts": "2026-10-11 16:44:12", "user_id": "usr_caf4488385"}
+{"event": "pipeline_run", "ts": "2026-09-11 02:54:23", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/10/06", "user_id": "usr_5f6b9cd71c", "email": "grace.garcia@graniteins.com", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/10/14", "user_id": "usr_71ec8be537", "properties": {"rows": 200, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-09-23 16:53:07", "user_id": "usr_6d8f5242d3", "properties": {"rows": 5000, "status": "success"}}
+{"event": "exported_data", "ts": "2026-10-21T07:39:54Z", "email": "  kmuller@vertexcloud.io "}
+{"event": "login", "ts": "2026-10-15T11:07:23Z", "user_id": "usr_babe055787"}
+{"event": "api_key_created", "ts": "2026/10/22", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "hit_rate_limit", "ts": "09/07/2026 16:08", "user_id": "usr_6d8f5242d3", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "27-10-2026", "user_id": "usr_c3ceb7138a"}
+{"event": "viewed_pricing", "ts": "10/16/2026 11:15", "user_id": "usr_7b6a662fce"}
+{"event": "connected_integration", "ts": "2026-09-21T04:39:36Z", "user_id": "usr_9eb89f7039", "properties": {"integration": "s3"}}
+{"event": "invited_teammate", "ts": "2026/09/07", "user_id": "usr_d4b97e6224", "properties": {"invitee_domain": "helixbio.com"}}
+{"event": "connected_integration", "ts": "2026/10/24", "user_id": "usr_2ba417c093", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "1792706333", "user_id": "usr_06ff69723d", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-16 09:09:56", "email": "Mei_Ahmed@Kestrel.Ai"}
+{"event": "connected_integration", "ts": "2026-10-06 11:40:39", "user_id": "usr_815a18e2a3", "properties": {"integration": "Snowflake"}}
+{"event": "pipeline_run", "ts": "1792148019", "user_id": "usr_7d1ba362e7", "email": "samuelp@northwind.io", "properties": {"rows": 120000, "status": "success"}}
+{"event": "api_key_created", "ts": "2026/09/24", "email": "Samuel.Kim636@Outlook.Com"}
+{"event": "pipeline_run", "ts": "09/29/2026 22:03", "user_id": "usr_441f5d988f", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "25-10-2026", "user_id": "usr_dc13eecdc6"}
+{"event": "connected_integration", "ts": "2026-10-01T02:14:39Z", "user_id": "usr_56ded255d0", "properties": {"integration": "postgres"}}
+{"event": "viewed_pricing", "ts": "2026-09-23 16:04:44", "user_id": "usr_7d1ba362e7"}
+{"event": "invited_teammate", "ts": "2026-10-22T09:36:03Z", "user_id": "usr_bbea98fef8", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "exported_data", "ts": "10/26/2026 14:45", "user_id": "usr_a36b79afcc"}
+{"event": "viewed_pricing", "ts": "2026-09-25 09:57:01", "user_id": "usr_5f6b9cd71c"}
+{"event": "login", "ts": "10/14/2026 17:38", "user_id": "usr_d839681c81"}
+{"event": "hit_rate_limit", "ts": "10/12/2026 23:31", "user_id": "usr_6d8f5242d3", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "1793197940", "user_id": "usr_dc13eecdc6"}
+{"event": "project_created", "ts": "1792348015", "user_id": "usr_c8991965ea"}
+{"event": "pipeline_run", "ts": "20-09-2026", "user_id": "usr_ab5463adc7", "properties": {"rows": null, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "09/18/2026 19:35", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "2026/10/22"}
+{"event": "viewed_pricing", "ts": "2026-09-30T20:50:04Z", "user_id": "usr_c176c5a0dc"}
+{"event": "pipeline_run", "ts": "16-10-2026", "user_id": "usr_d4b97e6224", "email": "liam_ahmed@helixbio.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "09/05/2026 19:51", "user_id": "usr_31828c37e7"}
+{"event": "invited_teammate", "ts": "2026-11-01 12:16:06", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "hotmail.com"}}
+{"event": "login", "ts": "28-10-2026", "user_id": "usr_b2a7f333b3"}
+{"event": "hit_rate_limit", "ts": "1791262252", "user_id": "usr_b2a7f333b3", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "01-10-2026", "user_id": "usr_71ec8be537", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "login", "ts": "2026/09/28", "user_id": "usr_a36b79afcc"}
+{"event": "sso_settings_viewed", "ts": "2026-09-10 02:45:42", "email": "marcus@zephyrenergy.com"}
+{"event": "invited_teammate", "ts": "1790210935", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "project_created", "ts": "12-10-2026", "user_id": "usr_2e4f11d8dc"}
+{"event": "sso_settings_viewed", "ts": "1790512501", "user_id": "usr_c6530ac1c7"}
+{"event": "connected_integration", "ts": "2026-10-28T23:53:35Z", "email": "Chloe.Haddad851@Yahoo.Com", "properties": {"integration": "s3"}}
+{"event": "pipeline_run", "ts": "2026-09-18 06:24:06", "user_id": "usr_2ca56895c6", "properties": {"rows": 120000, "status": "success"}}
+{"event": "api_key_created", "ts": "1792775457", "user_id": "usr_d2c093bfb0"}
+{"event": "sso_settings_viewed", "ts": "22-09-2026", "user_id": "usr_71ec8be537", "email": "fatimanguyen70@gmail.com"}
+{"event": "viewed_pricing", "ts": "24-10-2026", "user_id": "usr_bd38a56b49"}
+{"event": "exported_data", "ts": "1791668860", "user_id": "usr_ca0d67d38e"}
+{"event": "pipeline_run", "ts": "14-09-2026", "user_id": "usr_894926ce5f", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "1791453565", "user_id": "usr_ad5ab28d4a", "properties": {"rows": null, "status": "success"}}
+{"event": "login", "ts": "1792980996", "email": "yrossi@orbitalretail.com"}
+{"event": "pipeline_run", "ts": "2026/10/29", "user_id": "usr_06ff69723d", "properties": {"rows": null, "status": "success"}}
+{"event": "project_created", "ts": "09/29/2026 06:25", "user_id": "usr_31828c37e7"}
+{"event": "sso_settings_viewed", "ts": "11/01/2026 20:13", "user_id": "usr_50a39c9ec6"}
+{"event": "project_created", "ts": "2026-10-21 09:13:04"}
+{"event": "exported_data", "ts": "21-10-2026", "user_id": "usr_33a689b424"}
+{"event": "login", "ts": "2026-10-17 17:38:46", "user_id": "usr_71ec8be537"}
+{"event": "project_created", "ts": "1790921975", "user_id": "usr_ca0d67d38e"}
+{"event": "invited_teammate", "ts": "1793713232", "user_id": "usr_95ae007b7e", "email": "maya.tanaka@riverstonebank.com", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "hit_rate_limit", "ts": "09/19/2026 22:30", "user_id": "usr_5f6b9cd71c", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "10/18/2026 04:28", "properties": {"rows": 120000, "status": "success"}}
+{"event": "login", "ts": "2026/09/12", "email": "rahmed@riverstonebank.com"}
+{"event": "hit_rate_limit", "ts": "2026/10/11", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026-10-07 09:33:40", "user_id": "usr_06ff69723d", "email": "arjun.silva795@yahoo.com", "properties": {"rows": 200, "status": "failed"}}
+{"event": "project_created", "ts": "1791948500", "user_id": "usr_06ff69723d"}
+{"event": "sso_settings_viewed", "ts": "2026-10-11T13:16:16Z", "user_id": "usr_56ded255d0"}
+{"event": "pipeline_run", "ts": "05-10-2026", "user_id": "usr_597ad465a1", "email": "ananyak@vertexcloud.io", "properties": {"rows": 5000, "status": "success"}}
+{"event": "project_created", "ts": "2026-10-17T20:56:18Z", "user_id": "usr_b823d4526b"}
+{"event": "viewed_pricing", "ts": "09/05/2026 21:25"}
+{"event": "pipeline_run", "ts": "2026-09-25 15:46:21", "user_id": "usr_56ded255d0", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "1788831573", "user_id": "usr_6d8f5242d3", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "1791513155", "user_id": "usr_6061177270", "properties": {"rows": 120000, "status": "success"}}
+{"event": "api_key_created", "ts": "1790015585", "user_id": "usr_c176c5a0dc"}
+{"event": "hit_rate_limit", "ts": "1788575621", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "1790884197", "user_id": "usr_71ec8be537"}
+{"event": "invited_teammate", "ts": "15-09-2026", "user_id": "usr_4086c5d1d6", "properties": {"invitee_domain": "mosaiclabs.co"}}
+{"event": "pipeline_run", "ts": "10/05/2026 01:39", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "09/10/2026 15:32", "user_id": "usr_597ad465a1", "properties": {"rows": null, "status": "failed"}}
+{"event": "exported_data", "ts": "1789598020", "user_id": "usr_83fef7d9ea"}
+{"event": "login", "ts": "2026-09-19T02:21:17Z", "user_id": "usr_6061177270"}
+{"event": "connected_integration", "ts": "2026-09-17 09:13:00", "email": "omar.rodriguez@riverstonebank.com", "properties": {"integration": "postgres"}}
+{"event": "api_key_created", "ts": "21-09-2026", "user_id": "usr_71ec8be537"}
+{"event": "pipeline_run", "ts": "1793539055", "user_id": "usr_06ff69723d", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026-11-01T18:45:10Z", "user_id": "usr_5f6b9cd71c"}
+{"event": "pipeline_run", "ts": "10/18/2026 10:58", "properties": {"rows": 200, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "2026/10/24", "email": "yrossi@orbitalretail.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-08 22:31:24", "user_id": "usr_a36b79afcc"}
+{"event": "sso_settings_viewed", "ts": "1790267649", "user_id": "usr_1902b34254"}
+{"event": "sso_settings_viewed", "ts": "2026-09-11T16:47:17Z", "user_id": "usr_06ddcf8766"}
+{"event": "login", "ts": "2026-09-23T10:51:37Z", "user_id": "usr_ac54cc1e2a"}
+{"event": "pipeline_run", "ts": "2026-09-11 08:22:07", "email": "  samuel.tanaka@cobaltpay.com ", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "10/26/2026 23:14", "user_id": "usr_5f6b9cd71c", "email": "grace.garcia@graniteins.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-10-13T11:12:09Z", "email": "akowalski@vertexcloud.io", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "1792446039", "user_id": "usr_6061177270", "properties": {"rows": 120000, "status": "success"}}
+{"event": "exported_data", "ts": "2026-09-26T18:28:22Z", "email": "yrossi@orbitalretail.com"}
+{"event": "login", "ts": "03-10-2026", "user_id": "usr_0940d92bce"}
+{"event": "api_key_created", "ts": "26-09-2026", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-09-27 04:04:13", "user_id": "usr_2ca56895c6", "properties": {"rows": 10, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/10/08", "user_id": "usr_d4b97e6224"}
+{"event": "sso_settings_viewed", "ts": "2026-09-13T02:10:12Z", "user_id": "usr_5b04287378", "email": "diego_kowalski@orbitalretail.com"}
+{"event": "api_key_created", "ts": "2026-10-28 09:39:30", "user_id": "usr_5f6b9cd71c"}
+{"event": "sso_settings_viewed", "ts": "29-10-2026", "user_id": "usr_597ad465a1"}
+{"event": "hit_rate_limit", "ts": "1791566800", "user_id": "usr_65d61169a1", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "08-09-2026", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "2026-09-15T14:26:08Z", "user_id": "usr_6d8f5242d3", "properties": {"rows": 120000, "status": "success"}}
+{"event": "project_created", "ts": "2026-10-29 03:03:35", "user_id": "usr_b823d4526b", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "api_key_created", "ts": "2026-09-22 21:11:06", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-10-13T20:01:17Z", "email": "  ethan_patel@brightpathhealth.com ", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "invited_teammate", "ts": "31-10-2026", "user_id": "usr_31828c37e7", "properties": {"invitee_domain": "kestrel.ai"}}
+{"event": "api_key_created", "ts": "09/17/2026 11:41"}
+{"event": "pipeline_run", "ts": "13-09-2026", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 10, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-09-27 19:33:01", "user_id": "usr_05a2ddd15a"}
+{"event": "viewed_pricing", "ts": "1792578761", "user_id": "usr_dee6b9d31a"}
+{"event": "project_created", "ts": "2026-10-26 05:48:12", "user_id": "usr_3b6fe5040b"}
+{"event": "exported_data", "ts": "1790076341", "user_id": "usr_ad5ab28d4a"}
+{"event": "viewed_pricing", "ts": "2026-10-10T09:09:38Z", "user_id": "usr_56ded255d0"}
+{"event": "login", "ts": "06-10-2026", "user_id": "usr_50a39c9ec6"}
+{"event": "pipeline_run", "ts": "16-09-2026", "user_id": "usr_c6530ac1c7", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/09/28", "user_id": "usr_ad5ab28d4a"}
+{"event": "exported_data", "ts": "2026/09/16", "user_id": "usr_6d8f5242d3", "email": "diego.okafor317@icloud.com"}
+{"event": "sso_settings_viewed", "ts": "11/03/2026 15:02", "user_id": "usr_011eb74b56"}
+{"event": "connected_integration", "ts": "2026-09-28 11:54:34", "user_id": "usr_011eb74b56", "properties": {"integration": "bigquery"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-20T18:24:13Z", "user_id": "usr_bbea98fef8"}
+{"event": "login", "ts": "2026-10-13 00:53:28", "user_id": "usr_329dde0188", "email": "omar.rodriguez@riverstonebank.com"}
+{"event": "viewed_pricing", "ts": "2026/09/18", "user_id": "usr_ad5ab28d4a"}
+{"event": "pipeline_run", "ts": "2026-10-16T13:36:48Z", "email": "Akowalski@Vertexcloud.Io", "properties": {"rows": 10, "status": "success"}}
+{"event": "project_created", "ts": "1789172442", "user_id": "usr_2ca56895c6"}
+{"event": "invited_teammate", "ts": "1789750237", "user_id": "usr_b3ed6522b4", "properties": {"invitee_domain": "sablesec.com"}}
+{"event": "hit_rate_limit", "ts": "2026-09-22T16:04:00Z", "user_id": "usr_06ff69723d", "email": "arjun.silva795@yahoo.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "20-10-2026", "user_id": "usr_4e4baf0f5e"}
+{"event": "pipeline_run", "ts": "12-09-2026", "user_id": "usr_06ff69723d", "properties": {"rows": 5000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026/09/19", "email": "zara_singh@tidewatermedia.com"}
+{"event": "viewed_pricing", "ts": "1791545195", "user_id": "usr_cf2ea9c542"}
+{"event": "connected_integration", "ts": "2026/09/26", "user_id": "usr_5f6b9cd71c", "properties": {"integration": "s3"}}
+{"event": "api_key_created", "ts": "11/02/2026 05:51", "email": "james.sharma@acmeanalytics.com"}
+{"event": "viewed_pricing", "ts": "2026-09-13T18:48:22Z", "email": "zgarcia@lumenfi.com"}
+{"event": "viewed_pricing", "ts": "2026-09-11T01:26:45Z", "user_id": "usr_d8c15da547"}
+{"event": "invited_teammate", "ts": "19-09-2026", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "outlook.com"}}
+{"event": "pipeline_run", "ts": "2026-10-04T05:23:44Z", "user_id": "usr_eaa38295d3", "properties": {"rows": 200, "status": "success"}}
+{"event": "viewed_pricing", "ts": "28-10-2026", "email": "mtanaka+work@kestrel.ai"}
+{"event": "hit_rate_limit", "ts": "2026-10-10 14:48:14", "user_id": "usr_ee1d27c09a", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "1790892604", "email": "grce.garcia@graniteins.com"}
+{"event": "sso_settings_viewed", "ts": "2026-09-20 16:15:09", "user_id": "usr_b823d4526b"}
+{"event": "project_created", "ts": "2026/11/03", "email": "  omarm@zephyrenergy.com "}
+{"event": "pipeline_run", "ts": "2026-09-28 23:15:21", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/09/12", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026/10/28", "user_id": "usr_ee1d27c09a"}
+{"event": "pipeline_run", "ts": "1792329453", "email": "samuel.tanaka@cobaltpay.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "api_key_created", "ts": "29-10-2026", "email": "hannahrossi70@gmail.com"}
+{"event": "viewed_pricing", "ts": "2026-09-21 16:49:55", "email": "omar@quantarobotics.com"}
+{"event": "invited_teammate", "ts": "1793126734", "user_id": "usr_a36b79afcc", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "pipeline_run", "ts": "11/03/2026 08:15", "user_id": "usr_b823d4526b", "properties": {"rows": 5000, "status": "success"}}
+{"event": "exported_data", "ts": "1789917231", "user_id": "usr_b823d4526b"}
+{"event": "exported_data", "ts": "2026/09/17", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "sso_settings_viewed", "ts": "2026/09/16", "user_id": "usr_a3abd2b512"}
+{"event": "api_key_created", "ts": "11/03/2026 17:39", "user_id": "usr_597ad465a1"}
+{"event": "connected_integration", "ts": "2026-10-17 07:57:21", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "bigquery"}}
+{"event": "api_key_created", "ts": "21-09-2026", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "viewed_pricing", "ts": "2026-09-22 16:15:32", "user_id": "usr_a36b79afcc"}
+{"event": "connected_integration", "ts": "2026/09/26", "user_id": "usr_06ff69723d", "properties": {"integration": "s3"}}
+{"event": "login", "ts": "09/18/2026 20:49", "email": "grace.garcia@graniteins.com"}
+{"event": "sso_settings_viewed", "ts": "2026/09/27", "user_id": "usr_06ff69723d"}
+{"event": "hit_rate_limit", "ts": "2026-09-10T12:22:55Z", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "09/05/2026 16:43", "user_id": "usr_b823d4526b"}
+{"event": "", "ts": "", "user_id": null}
+{"event": "viewed_pricing", "ts": "2026/10/29", "user_id": "usr_597ad465a1"}
+{"event": "viewed_pricing", "ts": "2026/09/19", "email": "lucas.kmi@vertexcloud.io"}
+{"event": "invited_teammate", "ts": "1791535090", "user_id": "usr_c176c5a0dc", "properties": {"invitee_domain": "kestrel.ai"}}
+{"event": "pipeline_run", "ts": "2026-09-25T17:11:14Z", "email": "Oliviar@Paperplane.Dev", "properties": {"rows": 5000, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-23 08:57:09", "user_id": "usr_bbea98fef8"}
+{"event": "api_key_created", "ts": "20-10-2026", "user_id": "usr_4e4baf0f5e"}
+{"event": "viewed_pricing", "ts": "2026/09/24", "user_id": "usr_6061177270"}
+{"event": "project_created", "ts": "15-09-2026", "user_id": "usr_625cb5e69c"}
+{"event": "login", "ts": "1789488276", "user_id": "usr_50a39c9ec6"}
+{"event": "pipeline_run", "ts": "2026-10-06 19:50:38", "user_id": "usr_50a39c9ec6", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "23-09-2026", "email": "chloe.haddad851@yahoo.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1791934078", "user_id": "usr_c100e3a026"}
+{"event": "exported_data", "ts": "2026/09/26", "user_id": "usr_caf4488385"}
+{"event": "invited_teammate", "ts": "2026-09-12 01:13:52", "user_id": "usr_da22bf18f5", "properties": {"invitee_domain": "quantarobotics.com"}}
+{"event": "connected_integration", "ts": "11/02/2026 00:24", "user_id": "usr_5f6b9cd71c", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "13-10-2026", "user_id": "usr_69f62162ab"}
+{"event": "viewed_pricing", "ts": "2026-09-12 15:35:20", "email": "  chloe.haddad851@yahoo.com "}
+{"event": "invited_teammate", "ts": "10/25/2026 02:22", "email": "  arjun@riverstonebank.com ", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "login", "ts": "1791345749", "user_id": "usr_7773318749"}
+{"event": "sso_settings_viewed", "ts": "2026-10-02 17:04:42", "email": "akowalski+signup@vertexcloud.io"}
+{"event": "sso_settings_viewed", "ts": "1789649433", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "1792173136", "email": "mtanaka@kestrel.ai", "properties": {"rows": 10, "status": "success"}}
+{"event": "login", "ts": "2026/10/27", "user_id": "usr_6061177270"}
+{"event": "exported_data", "ts": "2026/10/29", "email": "yrossi@orbitalretail.com"}
+{"event": "login", "ts": "2026-09-28T23:11:29Z", "user_id": "usr_71ec8be537"}
+{"event": "api_key_created", "ts": "2026-09-14T09:22:06Z", "email": "chloe.haddad851@yahoo.com"}
+{"event": "pipeline_run", "ts": "2026-09-04 23:25:25", "user_id": "usr_06ff69723d", "properties": {"rows": 120000, "status": "success"}}
+{"event": "exported_data", "ts": "14-09-2026", "user_id": "usr_ad5ab28d4a"}
+{"event": "project_created", "ts": "2026-09-20T10:24:14Z", "email": "  chloe.haddad851@yahoo.com "}
+{"event": "sso_settings_viewed", "ts": "1792724092", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-10-24 20:50:38", "user_id": "usr_06ff69723d", "properties": {"rows": null, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-10-30 09:23:12", "user_id": "usr_5f6b9cd71c", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "2026/09/13", "user_id": "usr_ad5ab28d4a"}
+{"event": "project_created", "ts": "10-10-2026", "email": "  james_okafor@lumenfi.com "}
+{"event": "viewed_pricing", "ts": "2026-10-14 02:14:05", "user_id": "usr_ad5ab28d4a"}
+{"event": "viewed_pricing", "ts": "2026/09/27", "user_id": "usr_a36b79afcc"}
+{"event": "sso_settings_viewed", "ts": "2026/09/18", "user_id": "usr_815a18e2a3"}
+{"event": "project_created", "ts": "27-10-2026", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "2026/10/13", "user_id": "usr_eaa38295d3", "properties": {"rows": 200, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-09-07 12:03:29", "user_id": "usr_4d44d7df9a", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "exported_data", "ts": "10/01/2026 23:04", "user_id": "usr_c22387eaf6"}
+{"event": "login", "ts": "1793365898", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-09-14 06:35:43", "user_id": "usr_00d1031424", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/10/06", "user_id": "usr_815a18e2a3", "properties": {"rows": 5000, "status": "success"}}
+{"event": "api_key_created", "ts": "09/12/2026 10:23", "user_id": "usr_56ded255d0"}
+{"event": "viewed_pricing", "ts": "2026-10-03 08:13:30", "user_id": "usr_d839681c81"}
+{"event": "connected_integration", "ts": "10/23/2026 08:11", "email": "grace.garcia+relay@graniteins.com", "properties": {"integration": "bigquery"}}
+{"event": "api_key_created", "ts": "2026-10-12 20:19:01", "user_id": "usr_597ad465a1"}
+{"event": "pipeline_run", "ts": "2026/09/27", "user_id": "usr_d839681c81", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "09/06/2026 02:39", "user_id": "usr_506d4067f4", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "connected_integration", "ts": "10/27/2026 08:28", "user_id": "usr_50a39c9ec6", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "2026-09-10T08:25:43Z", "user_id": "usr_2ca56895c6", "properties": {"rows": 120000, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-09-25T07:56:53Z", "user_id": "usr_d839681c81", "properties": {"invitee_domain": "brightpathhealth.com"}}
+{"event": "invited_teammate", "ts": "2026/10/09", "user_id": "usr_329dde0188", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "connected_integration", "ts": "13-09-2026", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "23-10-2026", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "project_created", "ts": "2026-10-27 23:21:58", "user_id": "usr_ac54cc1e2a"}
+{"event": "invited_teammate", "ts": "09/20/2026 19:24", "user_id": "usr_d839681c81", "properties": {"invitee_domain": "brightpathhealth.com"}}
+{"event": "api_key_created", "ts": "2026/10/23", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "1792911315", "user_id": "usr_31828c37e7", "email": "mtanaka@kestrel.ai", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "10/01/2026 18:21", "user_id": "usr_50a39c9ec6", "properties": {"integration": "snowflake"}}
+{"event": "invited_teammate", "ts": "10/06/2026 19:49", "user_id": "usr_098b2c550a", "properties": {"invitee_domain": "proton.me"}}
+{"event": "viewed_pricing", "ts": "02-10-2026", "user_id": "usr_329dde0188"}
+{"event": "viewed_pricing", "ts": "1789722630", "user_id": "usr_56ded255d0"}
+{"event": "project_created", "ts": "2026-09-28T18:49:06Z", "user_id": "usr_ad5ab28d4a"}
+{"event": "pipeline_run", "ts": "1789227983", "email": "Chloe.Haddad851@Yahoo.Com", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "connected_integration", "ts": "1792802031", "user_id": "usr_6061177270", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "2026-10-19T20:10:13Z", "user_id": "usr_597ad465a1", "properties": {"rows": null, "status": "failed"}}
+{"event": "project_created", "ts": "2026-10-03 22:27:18", "user_id": "usr_791a85fd69"}
+{"event": "project_created", "ts": "2026/09/10", "user_id": "usr_d839681c81"}
+{"event": "sso_settings_viewed", "ts": "2026-09-09T23:49:03Z", "user_id": "usr_dc13eecdc6", "email": "mei_ahmed@kestrel.ai"}
+{"event": "api_key_created", "ts": "1788677048", "email": "YROSSI@ORBITALRETAIL.COM"}
+{"event": "pipeline_run", "ts": "1793232018", "email": "fatima.rossi@northwind.io", "properties": {"rows": null, "status": "failed"}}
+{"event": "project_created", "ts": "2026-09-09T16:23:32Z", "user_id": "usr_894926ce5f"}
+{"event": "invited_teammate", "ts": "20-09-2026", "user_id": "usr_d4b97e6224", "properties": {"invitee_domain": "helixbio.com"}}
+{"event": "exported_data", "ts": "2026/11/04", "email": "chloe.haddad851@yahoo.com"}
+{"event": "connected_integration", "ts": "2026-10-02T04:08:19Z", "email": "  samuel.tanaka@cobaltpay.com ", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "1789897928", "user_id": "usr_8e6d5d0477", "properties": {"rows": 200, "status": "success"}}
+{"event": "login", "ts": "2026-10-23 00:21:29", "user_id": "usr_2ca56895c6"}
+{"event": "hit_rate_limit", "ts": "14-10-2026", "user_id": "usr_50a39c9ec6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "2026-10-17 00:56:12", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "22-09-2026", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-11T10:51:18Z", "user_id": "usr_dc13eecdc6"}
+{"event": "pipeline_run", "ts": "2026/09/26", "user_id": "usr_2ca56895c6", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "connected_integration", "ts": "09/17/2026 00:27", "user_id": "usr_6d8f5242d3", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "2026-09-18T02:19:21Z", "user_id": "usr_dc13eecdc6", "properties": {"rows": 10, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-10-26 01:33:13", "user_id": "usr_c3d46ef104", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "1792819096", "user_id": "usr_ee1d27c09a", "email": "rahmed@riverstonebank.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-10-25T10:49:46Z", "user_id": "usr_c3d46ef104", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "09/19/2026 06:16", "user_id": "usr_441f5d988f", "properties": {"rows": 10, "status": "success"}}
+{"event": "exported_data", "ts": "09/18/2026 02:59", "user_id": "usr_06ff69723d"}
+{"event": "pipeline_run", "ts": "09/26/2026 09:44", "user_id": "usr_ee1d27c09a", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "09/17/2026 20:44", "user_id": "usr_06ff69723d"}
+{"event": "sso_settings_viewed", "ts": "16-10-2026", "user_id": "usr_ab5463adc7"}
+{"event": "viewed_pricing", "ts": "1792447009", "email": "noah.rossi@cobaltpay.com"}
+{"event": "invited_teammate", "ts": "2026-10-02 09:54:12", "email": "ethan_patel@brightpathhealth.com", "properties": {"invitee_domain": "brightpathhealth.com"}}
+{"event": "pipeline_run", "ts": "13-09-2026", "user_id": "usr_625cb5e69c", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "17-10-2026", "user_id": "usr_bbea98fef8"}
+{"event": "viewed_pricing", "ts": "2026-10-31 11:16:40", "user_id": "usr_b5ef4afa88"}
+{"event": "viewed_pricing", "ts": "2026/09/25", "user_id": "usr_f630a5648e"}
+{"event": "sso_settings_viewed", "ts": "2026-10-27T04:15:31Z", "user_id": "usr_65d61169a1"}
+{"event": "viewed_pricing", "ts": "1793229498", "user_id": "usr_06ff69723d"}
+{"event": "hit_rate_limit", "ts": "1789556063", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026-10-09T17:37:14Z", "user_id": "usr_6061177270", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "pipeline_run", "ts": "2026/09/27", "user_id": "usr_3f4758367b", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "01-10-2026", "email": "danielsilva1@proton.me", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-21T19:45:58Z", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 5000, "status": "success"}}
+{"event": "api_key_created", "ts": "29-09-2026", "email": "omarg@lumenfi.com"}
+{"event": "connected_integration", "ts": "16-09-2026", "user_id": "usr_0940d92bce", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "24-10-2026", "user_id": "usr_06ff69723d", "properties": {"rows": 120000, "status": "success"}}
+{"event": "invited_teammate", "ts": "11-09-2026", "user_id": "usr_2ca56895c6", "properties": {"invitee_domain": "lumenfi.com"}}
+{"event": "pipeline_run", "ts": "2026/09/27", "email": "  priya@brightpathhealth.com ", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "1790561879", "user_id": "usr_d839681c81", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "viewed_pricing", "ts": "18-10-2026", "user_id": "usr_83fef7d9ea"}
+{"event": "exported_data", "ts": "2026/10/02", "user_id": "usr_56ded255d0"}
+{"event": "invited_teammate", "ts": "2026-09-19 08:05:04", "email": "akowalski@vertexcloud.io", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "project_created", "ts": "09/06/2026 18:02", "user_id": "usr_da22bf18f5"}
+{"event": "login", "ts": "11/01/2026 07:28", "user_id": "usr_d839681c81"}
+{"event": "viewed_pricing", "ts": "15-09-2026", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "1792848722", "user_id": "usr_bd38a56b49", "properties": {"rows": 200, "status": "success"}}
+{"event": "login", "ts": "02-10-2026", "email": "sofiar@acmeanalytics.com"}
+{"event": "viewed_pricing", "ts": "1790329312", "user_id": "usr_ca0d67d38e"}
+{"event": "exported_data", "ts": "26-09-2026", "user_id": "usr_56ded255d0"}
+{"event": "login", "ts": "1793579091", "email": "carlosi+test@paperplane.dev"}
+{"event": "project_created", "ts": "2026-09-17 17:54:05", "user_id": "usr_6061177270"}
+{"event": "login", "ts": "2026-09-15 09:55:36", "user_id": "usr_65d61169a1", "email": "daniel.ahmed@willowedu.org"}
+{"event": "pipeline_run", "ts": "1792114238", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "09/30/2026 11:29", "email": "ethan_patel+test@brightpathhealth.com", "properties": {"rows": 200, "status": "failed"}}
+{"event": "exported_data", "ts": "1790378667", "email": "fatimaokafor69@proton.me"}
+{"event": "api_key_created", "ts": "10/20/2026 11:20", "user_id": "usr_95ae007b7e"}
+{"event": "connected_integration", "ts": "1792664213", "user_id": "usr_7773318749", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "2026/09/14", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "10/06/2026 10:17", "user_id": "usr_625cb5e69c", "properties": {"rows": null, "status": "success"}}
+{"event": "viewed_pricing", "ts": "09/17/2026 08:19", "user_id": "usr_506d4067f4"}
+{"event": "viewed_pricing", "ts": "1790801408", "user_id": "usr_06ff69723d"}
+{"event": "exported_data", "ts": "09-10-2026", "user_id": "usr_dee6b9d31a"}
+{"event": "pipeline_run", "ts": "2026-09-29T10:15:45Z", "user_id": "usr_6061177270", "properties": {"rows": null, "status": "success"}}
+{"event": "project_created", "ts": "2026-10-16 18:29:53", "user_id": "usr_3cd1fd4711"}
+{"event": "project_created", "ts": "2026-09-26 19:21:41", "user_id": "usr_4e5bf86f3c"}
+{"event": "pipeline_run", "ts": "2026-10-30 00:12:10", "user_id": "usr_d839681c81", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-09-22 07:18:31", "user_id": "usr_625cb5e69c", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "23-09-2026", "user_id": "usr_50a39c9ec6", "properties": {"rows": 10, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026-10-07T19:18:12Z", "user_id": "usr_450e00583d"}
+{"event": "sso_settings_viewed", "ts": "1791930878", "email": "arjun.silva795+test@yahoo.com"}
+{"event": "pipeline_run", "ts": "07-10-2026", "user_id": "usr_894926ce5f", "properties": {"rows": 200, "status": "failed"}}
+{"event": "connected_integration", "ts": "29-10-2026", "user_id": "usr_d839681c81", "properties": {"integration": "postgres"}}
+{"event": "hit_rate_limit", "ts": "2026/09/25", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "2026/10/22", "user_id": "usr_dc13eecdc6"}
+{"event": "exported_data", "ts": "1789792229", "user_id": "usr_df98874bfe"}
+{"event": "invited_teammate", "ts": "2026/09/09", "user_id": "usr_011eb74b56", "properties": {"invitee_domain": "brightpathhealth.com"}}
+{"event": "invited_teammate", "ts": "2026-10-29 19:59:15", "user_id": "usr_441f5d988f", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "pipeline_run", "ts": "2026-10-28 15:45:06", "user_id": "usr_bbea98fef8", "properties": {"rows": 5000, "status": "success"}}
+{"event": "exported_data", "ts": "11/02/2026 06:35", "user_id": "usr_ee1d27c09a"}
+{"event": "exported_data", "ts": "2026/10/05", "user_id": "usr_625cb5e69c"}
+{"event": "project_created", "ts": "2026-10-02 13:26:55", "user_id": "usr_597ad465a1"}
+{"event": "exported_data", "ts": "11-09-2026"}
+{"event": "viewed_pricing", "ts": "2026-09-19 23:53:28", "user_id": "usr_a36b79afcc"}
+{"event": "login", "ts": "13-10-2026", "user_id": "usr_6061177270"}
+{"event": "invited_teammate", "ts": "11-09-2026", "email": "  samuel.kim636@outlook.com ", "properties": {"invitee_domain": "gmail.com"}}
+{"event": "pipeline_run", "ts": "2026-10-06T16:09:28Z", "user_id": "usr_b823d4526b", "properties": {"rows": 10, "status": "failed"}}
+{"event": "exported_data", "ts": "2026-09-20T10:47:30Z", "user_id": "usr_06ff69723d"}
+{"event": "viewed_pricing", "ts": "19-09-2026", "user_id": "usr_d839681c81"}
+{"event": "viewed_pricing", "ts": "1793093338", "user_id": "usr_2ba417c093"}
+{"event": "pipeline_run", "ts": "14-09-2026", "user_id": "usr_dc13eecdc6", "properties": {"rows": 200, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-27 07:57:43", "user_id": "usr_c176c5a0dc"}
+{"event": "exported_data", "ts": "2026-11-01T23:23:13Z", "user_id": "usr_dc13eecdc6"}
+{"event": "project_created", "ts": "1790045997", "email": "MAYA.TANAKA@RIVERSTONEBANK.COM"}
+{"event": "exported_data", "ts": "10/15/2026 01:46", "user_id": "usr_815a18e2a3"}
+{"event": "hit_rate_limit", "ts": "1791292314", "user_id": "usr_83e4a4474c", "email": "jamesk@vertexcloud.io", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "2026/09/06", "user_id": "usr_ad5ab28d4a"}
+{"event": "api_key_created", "ts": "10/30/2026 09:06", "user_id": "usr_06ff69723d"}
+{"event": "sso_settings_viewed", "ts": "1791754061", "user_id": "usr_6061177270"}
+{"event": "connected_integration", "ts": "03-11-2026", "email": "maya.becker@willowedu.org", "properties": {"integration": "Snowflake"}}
+{"event": "exported_data", "ts": "2026-10-31 12:53:53", "user_id": "usr_2ca56895c6"}
+{"event": "viewed_pricing", "ts": "23-10-2026", "user_id": "usr_ac54cc1e2a"}
+{"event": "connected_integration", "ts": "2026-09-19 00:30:33", "user_id": "usr_dc13eecdc6", "properties": {"integration": "postgres"}}
+{"event": "viewed_pricing", "ts": "2026-11-02 14:51:29", "user_id": "usr_2ca56895c6"}
+{"event": "viewed_pricing", "ts": "2026/10/05", "user_id": "usr_c6530ac1c7"}
+{"event": "viewed_pricing", "ts": "1789455581", "user_id": "usr_50a39c9ec6"}
+{"event": "pipeline_run", "ts": "2026/10/05", "user_id": "usr_73b25f13df", "properties": {"rows": 200, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "2026/09/21", "user_id": "usr_a36b79afcc"}
+{"event": "project_created", "ts": "2026-10-31 22:12:50", "user_id": "usr_de2e709838"}
+{"event": "api_key_created", "ts": "2026-10-10T18:24:42Z", "user_id": "usr_7773318749"}
+{"event": "", "ts": "", "user_id": null}
+{"event": "invited_teammate", "ts": "1793246251", "user_id": "usr_50a39c9ec6", "properties": {"invitee_domain": "gmail.com"}}
+{"event": "login", "ts": "2026-10-14 18:30:34", "user_id": "usr_d839681c81"}
+{"event": "project_created", "ts": "1790611025", "user_id": "usr_815a18e2a3"}
+{"event": "api_key_created", "ts": "1792879904", "user_id": "usr_bd38a56b49"}
+{"event": "viewed_pricing", "ts": "2026-10-24T07:32:05Z", "user_id": "usr_31828c37e7"}
+{"event": "hit_rate_limit", "ts": "2026-10-26T06:31:34Z", "user_id": "usr_5f6b9cd71c", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "11/01/2026 22:30", "user_id": "usr_80657e01c9"}
+{"event": "pipeline_run", "ts": "1792806900", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "invited_teammate", "ts": "2026/10/20", "user_id": "usr_31828c37e7", "properties": {"invitee_domain": "kestrel.ai"}}
+{"event": "hit_rate_limit", "ts": "2026-10-03T08:54:03Z", "user_id": "usr_50a39c9ec6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "viewed_pricing", "ts": "2026-11-01T23:48:06Z", "user_id": "usr_c4f51e2df3"}
+{"event": "pipeline_run", "ts": "1792137915", "user_id": "usr_56ded255d0", "properties": {"rows": 120000, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "08-09-2026", "email": "OMAR@QUANTAROBOTICS.COM"}
+{"event": "api_key_created", "ts": "31-10-2026", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "exported_data", "ts": "2026-09-27 23:12:20", "user_id": "usr_a3db2c6ac8"}
+{"event": "pipeline_run", "ts": "2026-10-16T23:25:25Z", "user_id": "usr_2ca56895c6", "properties": {"rows": 5000, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "1791755107", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026/09/14", "email": "fatimanguyen70+test@gmail.com", "properties": {"rows": null, "status": "failed"}}
+{"event": "exported_data", "ts": "1790744019", "user_id": "usr_a36b79afcc", "email": "yrossi@orbitalretail.com"}
+{"event": "exported_data", "ts": "09/16/2026 18:24", "user_id": "usr_ad5ab28d4a"}
+{"event": "hit_rate_limit", "ts": "2026-10-03 12:06:30", "user_id": "usr_d839681c81", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026-10-28 17:11:05", "user_id": "usr_4ef165d779", "properties": {"rows": 200, "status": "success"}}
+{"event": "invited_teammate", "ts": "29-10-2026", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "proton.me"}}
+{"event": "pipeline_run", "ts": "1792125532", "user_id": "usr_33a689b424", "properties": {"rows": 120000, "status": "success"}}
+{"event": "project_created", "ts": "26-09-2026", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "1793332749", "email": "arjun.silva795+signup@yahoo.com", "properties": {"rows": 5000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026/10/22", "user_id": "usr_de2e709838"}
+{"event": "api_key_created", "ts": "2026-10-16 07:55:45", "user_id": "usr_95ae007b7e"}
+{"event": "api_key_created", "ts": "1790800532", "user_id": "usr_7fb12b6680", "email": "noahjohnson25@icloud.com"}
+{"event": "login", "ts": "2026-09-27T14:08:31Z", "user_id": "usr_06ff69723d"}
+{"event": "login", "ts": "11/01/2026 11:24", "user_id": "usr_098b2c550a"}
+{"event": "pipeline_run", "ts": "09/14/2026 08:43", "user_id": "usr_b1f280df1d", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "2026/10/30", "user_id": "usr_06ff69723d", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "1790154376", "user_id": "usr_5bb66cdb02"}
+{"event": "viewed_pricing", "ts": "2026/09/25", "user_id": "usr_ad5ab28d4a"}
+{"event": "connected_integration", "ts": "2026/09/05", "email": "  hannahp@vertexcloud.io ", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "10/24/2026 22:18", "user_id": "usr_50a39c9ec6", "properties": {"rows": null, "status": "success"}}
+{"event": "exported_data", "ts": "10/09/2026 04:43", "user_id": "usr_b5ef4afa88"}
+{"event": "", "ts": "", "user_id": null}
+{"event": "pipeline_run", "ts": "2026-10-23 03:28:58", "properties": {"rows": null, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "10/25/2026 04:42", "email": "arjun.silva795@yahoo.com"}
+{"event": "project_created", "ts": "1792309525", "user_id": "usr_50a39c9ec6"}
+{"event": "invited_teammate", "ts": "09/13/2026 21:49", "user_id": "usr_50a39c9ec6", "properties": {"invitee_domain": "yahoo.com"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-22 17:01:10", "user_id": "usr_b2a7f333b3"}
+{"event": "pipeline_run", "ts": "2026/09/22", "user_id": "usr_ca0d67d38e", "properties": {"rows": 200, "status": "failed"}}
+{"event": "api_key_created", "ts": "23-09-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "hit_rate_limit", "ts": "21-10-2026", "user_id": "usr_83fef7d9ea", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "10/29/2026 03:27", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "project_created", "ts": "20-09-2026", "email": "Arjun@Riverstonebank.Com"}
+{"event": "pipeline_run", "ts": "27-09-2026", "user_id": "usr_bbea98fef8", "email": "fnguyen@graniteins.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "login", "ts": "2026-09-23T09:00:26Z", "user_id": "usr_dc13eecdc6"}
+{"event": "project_created", "ts": "25-09-2026", "email": "rahmed@riverstonebank.com"}
+{"event": "viewed_pricing", "ts": "10/22/2026 22:44", "user_id": "usr_34ae27d432"}
+{"event": "pipeline_run", "ts": "09/15/2026 10:24", "user_id": "usr_a36b79afcc", "properties": {"rows": 5000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1793130961", "user_id": "usr_c680773e33"}
+{"event": "api_key_created", "ts": "1789484234", "user_id": "usr_f630a5648e"}
+{"event": "hit_rate_limit", "ts": "2026-09-05 16:03:59", "user_id": "usr_24b523c0de", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "1791432719", "user_id": "usr_ee1d27c09a", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-18T23:54:39Z", "user_id": "usr_50a39c9ec6"}
+{"event": "connected_integration", "ts": "1789115920", "user_id": "usr_31828c37e7", "properties": {"integration": "Snowflake"}}
+{"event": "pipeline_run", "ts": "23-09-2026", "user_id": "usr_4e4baf0f5e", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "1789682198", "user_id": "usr_50a39c9ec6", "email": "chloe.haddad851@yahoo.com", "properties": {"rows": null, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-10-04 19:09:58", "user_id": "usr_6061177270", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "login", "ts": "2026-10-01 00:33:12", "user_id": "usr_50a39c9ec6"}
+{"event": "exported_data", "ts": "10/09/2026 01:57", "user_id": "usr_c680773e33"}
+{"event": "pipeline_run", "ts": "2026-09-22 17:24:24", "user_id": "usr_babe055787", "properties": {"rows": 200, "status": "success"}}
+{"event": "project_created", "ts": "2026/09/19", "user_id": "usr_d4b97e6224"}
+{"event": "project_created", "ts": "09/08/2026 00:51", "email": "arjun@riverstonebank.com"}
+{"event": "connected_integration", "ts": "2026-10-20T05:46:06Z", "user_id": "usr_4086c5d1d6", "properties": {"integration": "Snowflake"}}
+{"event": "exported_data", "ts": "2026/10/02", "user_id": "usr_06ff69723d"}
+{"event": "pipeline_run", "ts": "2026/10/28", "user_id": "usr_50a39c9ec6", "properties": {"rows": 10, "status": "failed"}}
+{"event": "project_created", "ts": "15-09-2026", "user_id": "usr_ee1d27c09a"}
+{"event": "pipeline_run", "ts": "26-10-2026", "email": "akowalski@vertexcloud.io", "properties": {"rows": null, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/10/11", "user_id": "usr_d839681c81"}
+{"event": "viewed_pricing", "ts": "2026-09-24 16:41:42", "user_id": "usr_dc13eecdc6"}
+{"event": "pipeline_run", "ts": "10/11/2026 16:23", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 200, "status": "success"}}
+{"event": "invited_teammate", "ts": "28-09-2026", "user_id": "usr_b823d4526b", "properties": {"invitee_domain": "cobaltpay.com"}}
+{"event": "api_key_created", "ts": "13-09-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "pipeline_run", "ts": "08-10-2026", "user_id": "usr_c176c5a0dc", "properties": {"rows": 120000, "status": "success"}}
+{"event": "connected_integration", "ts": "2026/09/08", "email": "ines.chen93@outlook.com", "properties": {"integration": "s3"}}
+{"event": "api_key_created", "ts": "2026/09/27", "user_id": "usr_c6530ac1c7"}
+{"event": "pipeline_run", "ts": "2026/11/03", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 200, "status": "failed"}}
+{"event": "login", "ts": "1791708386", "user_id": "usr_ee1d27c09a", "email": "rahmed@riverstonebank.com"}
+{"event": "viewed_pricing", "ts": "08-10-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "project_created", "ts": "10/18/2026 20:55", "user_id": "usr_d839681c81"}
+{"event": "sso_settings_viewed", "ts": "18-09-2026", "user_id": "usr_06ff69723d"}
+{"event": "viewed_pricing", "ts": "1791369856", "user_id": "usr_5f6b9cd71c"}
+{"event": "sso_settings_viewed", "ts": "2026-09-11 05:23:34", "user_id": "usr_bbea98fef8"}
+{"event": "login", "ts": "2026-09-11 20:25:08", "user_id": "usr_2ca56895c6", "email": "zgarcia@lumenfi.com"}
+{"event": "hit_rate_limit", "ts": "1791001421", "user_id": "usr_c100e3a026", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026/10/09", "email": "Arjun@Riverstonebank.Com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1788813829", "user_id": "usr_71ec8be537", "email": "fatimanguyen70@gmail.com"}
+{"event": "exported_data", "ts": "1792697481", "user_id": "usr_b823d4526b"}
+{"event": "sso_settings_viewed", "ts": "09/24/2026 09:39", "email": "arjun@riverstonebank.com"}
+{"event": "project_created", "ts": "2026-10-14 14:13:08", "user_id": "usr_ad5ab28d4a"}
+{"event": "hit_rate_limit", "ts": "2026-10-08T01:29:30Z", "email": "akowalski@vertexcloud.io", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "18-10-2026", "user_id": "usr_da22bf18f5"}
+{"event": "pipeline_run", "ts": "25-09-2026", "email": "zgarcia@lumenfi.com", "properties": {"rows": null, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-10-17 09:52:43", "user_id": "usr_441f5d988f", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "login", "ts": "10/20/2026 21:05", "email": "grace.garcia@graniteins.com"}
+{"event": "viewed_pricing", "ts": "1792059197", "user_id": "usr_c8991965ea"}
+{"event": "connected_integration", "ts": "2026-10-13T08:45:57Z", "user_id": "usr_6d8f5242d3", "properties": {"integration": "snowflake"}}
+{"event": "sso_settings_viewed", "ts": "09/13/2026 10:38", "email": "arjun@riverstonebank.com"}
+{"event": "invited_teammate", "ts": "10/18/2026 02:49", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "connected_integration", "ts": "2026-10-06T02:37:25Z", "user_id": "usr_bd1f16de17"}
+{"event": "viewed_pricing", "ts": "2026-10-04 19:39:03", "user_id": "usr_0940d92bce"}
+{"event": "hit_rate_limit", "ts": "2026-10-07 22:09:18", "user_id": "usr_3f4758367b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "16-10-2026", "user_id": "usr_2e8bbb8f3f"}
+{"event": "viewed_pricing", "ts": "07-09-2026", "user_id": "usr_06ff69723d"}
+{"event": "pipeline_run", "ts": "2026-10-03T07:22:17Z", "user_id": "usr_4f3d3a2582", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "09/08/2026 07:59", "user_id": "usr_fbcdbcc653", "properties": {"rows": 120000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-20 17:23:46", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "login", "ts": "20-09-2026", "user_id": "usr_06ff69723d"}
+{"event": "viewed_pricing", "ts": "2026/09/06", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026/10/06", "user_id": "usr_c22387eaf6", "properties": {"rows": null, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "2026/10/05", "email": "  zgarcia@lumenfi.com ", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "09/12/2026 18:26", "user_id": "usr_ca0d67d38e"}
+{"event": "exported_data", "ts": "2026-09-06T00:33:00Z", "user_id": "usr_c176c5a0dc"}
+{"event": "viewed_pricing", "ts": "10-10-2026", "user_id": "usr_5f6b9cd71c", "email": "grace.garcia@graniteins.com"}
+{"event": "pipeline_run", "ts": "1790721380", "email": "elenar+test@zephyrenergy.com", "properties": {"rows": 200, "status": "success"}}
+{"event": "project_created", "ts": "1792412370", "user_id": "usr_50a39c9ec6"}
+{"event": "viewed_pricing", "ts": "11/01/2026 15:35", "email": "akwoalski@vertexcloud.io"}
+{"event": "exported_data", "ts": "31-10-2026", "user_id": "usr_ad5ab28d4a", "email": "akowalski@vertexcloud.io"}
+{"event": "pipeline_run", "ts": "05-09-2026", "user_id": "usr_441f5d988f", "properties": {"rows": 10, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "09/08/2026 17:06", "user_id": "usr_06ff69723d"}
+{"event": "hit_rate_limit", "ts": "10/28/2026 02:31", "user_id": "usr_ad5ab28d4a", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-27 14:04:16", "user_id": "usr_d839681c81"}
+{"event": "hit_rate_limit", "ts": "1790146014", "user_id": "usr_ad5ab28d4a", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "1788920556", "user_id": "usr_7fb12b6680"}
+{"event": "viewed_pricing", "ts": "17-10-2026", "user_id": "usr_ad5ab28d4a"}
+{"event": "invited_teammate", "ts": "13-10-2026", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "outlook.com"}}
+{"event": "pipeline_run", "ts": "1789705995", "email": "AKOWALSKI@VERTEXCLOUD.IO", "properties": {"rows": 120000, "status": "success"}}
+{"event": "invited_teammate", "ts": "08-09-2026", "user_id": "usr_d4b97e6224", "properties": {"invitee_domain": "helixbio.com"}}
+{"event": "exported_data", "ts": "2026-09-29 06:10:44", "user_id": "usr_5f6b9cd71c"}
+{"event": "hit_rate_limit", "ts": "18-10-2026", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "1793239591", "user_id": "usr_b823d4526b"}
+{"event": "project_created", "ts": "1792469191", "email": "ananyak+signup@vertexcloud.io"}
+{"event": "exported_data", "ts": "10/21/2026 14:57"}
+{"event": "project_created", "ts": "15-10-2026", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "2026-09-28 14:12:29", "user_id": "usr_b40123a348", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026-10-01 05:45:42", "user_id": "usr_a36b79afcc"}
+{"event": "exported_data", "ts": "08-10-2026", "user_id": "usr_9eb89f7039"}
+{"event": "sso_settings_viewed", "ts": "2026/09/23", "email": "hannahs@graniteins.com"}
+{"event": "viewed_pricing", "ts": "2026-09-28 03:26:27", "email": "nhaddad@orbitalretail.com"}
+{"event": "hit_rate_limit", "ts": "09/26/2026 14:23", "user_id": "usr_815a18e2a3", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-25 22:24:54", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "1792128386", "email": "hannahr@riverstonebank.com", "properties": {"rows": 200, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-09-06T17:48:41Z", "user_id": "usr_c6530ac1c7", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026/09/28", "email": "james_okafor@lumenfi.com", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-11-03T08:43:31Z", "user_id": "usr_34ae27d432", "properties": {"rows": 200, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-10-22 20:56:23", "user_id": "usr_a36b79afcc", "properties": {"integration": "snowflake"}}
+{"event": "connected_integration", "ts": "2026-10-11T05:21:16Z", "email": "mei_ahmed@kestrel.ai", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "2026-10-11 17:45:48", "user_id": "usr_e68b621d41", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-09-11 02:13:47", "email": "james_okafor@lumenfi.com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-26 05:37:01", "user_id": "usr_441f5d988f", "properties": {"rows": 5000, "status": "success"}}
+{"event": "exported_data", "ts": "1790705824", "user_id": "usr_a36b79afcc", "email": "yrossi@orbitalretail.com"}
+{"event": "viewed_pricing", "ts": "29-09-2026", "user_id": "usr_0940d92bce"}
+{"event": "hit_rate_limit", "ts": "1791927648", "email": "yrossi@orbitalretail.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "02-10-2026", "user_id": "usr_a36b79afcc"}
+{"event": "sso_settings_viewed", "ts": "10/26/2026 01:58", "user_id": "usr_c22387eaf6"}
+{"event": "viewed_pricing", "ts": "11/03/2026 00:24", "user_id": "usr_babe055787"}
+{"event": "sso_settings_viewed", "ts": "2026-10-09T00:36:42Z", "user_id": "usr_de2e709838"}
+{"event": "project_created", "ts": "1788865515", "user_id": "usr_b88787ea21"}
+{"event": "login", "ts": "2026-09-06T22:27:28Z", "user_id": "usr_a3abd2b512"}
+{"event": "pipeline_run", "ts": "12-09-2026", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026/10/10", "user_id": "usr_7fb12b6680", "properties": {"invitee_domain": "quantarobotics.com"}}
+{"event": "project_created", "ts": "2026-10-28T16:14:19Z", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "23-09-2026", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 200, "status": "success"}}
+{"event": "viewed_pricing", "ts": "17-10-2026", "user_id": "usr_c22387eaf6", "email": "priya.rodriguez@orbitalretail.com"}
+{"event": "project_created", "ts": "1790298907", "user_id": "usr_b823d4526b"}
+{"event": "hit_rate_limit", "ts": "2026/09/18", "email": "  zgarcia@lumenfi.com ", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-17T03:04:08Z", "user_id": "usr_50a39c9ec6"}
+{"event": "pipeline_run", "ts": "2026-09-21T20:11:12Z", "user_id": "usr_9eb89f7039", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "exported_data", "ts": "26-09-2026", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "2026-10-09 03:19:50", "user_id": "usr_5f6b9cd71c", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/10/17", "user_id": "usr_dee6b9d31a", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "1793315987", "user_id": "usr_d839681c81", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "09/07/2026 01:08", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "login", "ts": "2026-10-23 18:15:43", "user_id": "usr_26b509109b", "email": "diegogarcia81@hotmail.com"}
+{"event": "api_key_created", "ts": "2026/11/02", "user_id": "usr_b823d4526b"}
+{"event": "invited_teammate", "ts": "15-09-2026", "user_id": "usr_71ec8be537", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "hit_rate_limit", "ts": "06-09-2026", "email": "liam_ahmed@helixbio.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "hit_rate_limit", "ts": "09/30/2026 13:42", "user_id": "usr_06ff69723d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026-09-26T18:50:35Z", "user_id": "usr_a36b79afcc", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "sso_settings_viewed", "ts": "10/29/2026 15:49", "user_id": "usr_56ded255d0"}
+{"event": "project_created", "ts": "09/16/2026 23:01", "user_id": "usr_2ca56895c6"}
+{"event": "api_key_created", "ts": "2026/09/17", "user_id": "usr_5f6b9cd71c"}
+{"event": "viewed_pricing", "ts": "09/04/2026 22:07", "email": "danielsilva1@proton.me"}
+{"event": "login", "ts": "2026/10/17"}
+{"event": "pipeline_run", "ts": "2026-09-18T16:32:46Z", "user_id": "usr_bbea98fef8", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "10/15/2026 04:37", "user_id": "usr_dee6b9d31a", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-14T12:18:41Z", "user_id": "usr_50a39c9ec6"}
+{"event": "sso_settings_viewed", "ts": "1792826861", "user_id": "usr_b823d4526b"}
+{"event": "viewed_pricing", "ts": "05-09-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "viewed_pricing", "ts": "2026/11/02", "user_id": "usr_9eb89f7039"}
+{"event": "viewed_pricing", "ts": "2026/10/17", "user_id": "usr_d4b97e6224"}
+{"event": "api_key_created", "ts": "2026-10-08 23:40:44", "user_id": "usr_6061177270"}
+{"event": "login", "ts": "2026-09-09 08:20:06", "user_id": "usr_d839681c81"}
+{"event": "viewed_pricing", "ts": "10/28/2026 14:08", "user_id": "usr_2ca56895c6"}
+{"event": "api_key_created", "ts": "2026-10-24 17:37:17", "user_id": "usr_196e218b09"}
+{"event": "sso_settings_viewed", "ts": "2026-09-28T20:05:04Z", "user_id": "usr_65d61169a1"}
+{"event": "exported_data", "ts": "23-09-2026", "user_id": "usr_de2e709838"}
+{"event": "connected_integration", "ts": "10/20/2026 16:51", "user_id": "usr_1bd8302081", "properties": {"integration": "bigquery"}}
+{"event": "hit_rate_limit", "ts": "09/10/2026 21:16", "user_id": "usr_eaa38295d3", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "1792911472", "email": "chloe.hadadd851@yahoo.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-23T03:11:10Z", "user_id": "usr_06ff69723d", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "1791722919", "user_id": "usr_b823d4526b", "properties": {"rows": 200, "status": "failed"}}
+{"event": "exported_data", "ts": "09/09/2026 12:35", "user_id": "usr_50a39c9ec6"}
+{"event": "hit_rate_limit", "ts": "2026-10-20T09:04:05Z", "user_id": "usr_06ff69723d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-08T12:24:00Z", "user_id": "usr_2ca56895c6"}
+{"event": "login", "ts": "10/29/2026 07:16", "user_id": "usr_06ff69723d", "email": "arjun.silva795@yahoo.com"}
+{"event": "sso_settings_viewed", "ts": "2026-09-18T21:06:02Z", "user_id": "usr_625cb5e69c"}
+{"event": "viewed_pricing", "ts": "2026-10-08T01:08:34Z", "user_id": "usr_506d4067f4"}
+{"event": "connected_integration", "ts": "1791940565", "user_id": "usr_b88787ea21", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "10/09/2026 10:27", "email": "samuel.tanaka@cobaltpay.com", "properties": {"rows": null, "status": "failed"}}
+{"event": "exported_data", "ts": "2026/09/30", "email": "samuel.garcia@helixbio.com"}
+{"event": "project_created", "ts": "2026/09/27", "user_id": "usr_2ca56895c6"}
+{"event": "api_key_created", "ts": "06-10-2026", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "2026-10-28 14:49:05", "user_id": "usr_e19a920655"}
+{"event": "pipeline_run", "ts": "09/14/2026 08:32", "user_id": "usr_6061177270", "email": "arjun@riverstonebank.com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-09-30T09:45:49Z", "user_id": "usr_0940d92bce", "properties": {"rows": 200, "status": "success"}}
+{"event": "api_key_created", "ts": "09/28/2026 03:13", "user_id": "usr_815a18e2a3"}
+{"event": "invited_teammate", "ts": "1788588717", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "login", "ts": "2026-10-23 02:55:10", "user_id": "usr_34ae27d432"}
+{"event": "pipeline_run", "ts": "2026-09-07 18:59:43", "user_id": "usr_441f5d988f", "properties": {"rows": 10, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-10-25 21:23:26", "email": "yrossi@orbitalretail.com", "properties": {"rows": null, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "2026/10/20", "email": "mjohnson@northwind.io"}
+{"event": "viewed_pricing", "ts": "1789263182", "user_id": "usr_7b6a662fce"}
+{"event": "api_key_created", "ts": "10/29/2026 20:23", "user_id": "usr_56ded255d0"}
+{"event": "pipeline_run", "ts": "08-09-2026", "user_id": "usr_b823d4526b", "properties": {"rows": 5000, "status": "success"}}
+{"event": "api_key_created", "ts": "2026/10/17", "email": "james.sharma@acmeanalytics.com"}
+{"event": "pipeline_run", "ts": "1788573291", "user_id": "usr_b5ef4afa88", "properties": {"rows": 10, "status": "success"}}
+{"event": "project_created", "ts": "10/27/2026 12:05"}
+{"event": "connected_integration", "ts": "2026-10-26T21:09:56Z", "user_id": "usr_31828c37e7", "properties": {"integration": "s3"}}
+{"event": "project_created", "ts": "2026/10/27", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-09-19 05:50:15", "user_id": "usr_7ba4244f23", "properties": {"rows": 120000, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "06-10-2026", "user_id": "usr_d4b97e6224"}
+{"event": "hit_rate_limit", "ts": "1790192010", "user_id": "usr_06ff69723d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026/10/12", "user_id": "usr_b2a7f333b3", "properties": {"rows": null, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "2026-10-07T15:19:35Z", "user_id": "usr_d839681c81", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "viewed_pricing", "ts": "08-09-2026", "user_id": "usr_56ded255d0"}
+{"event": "pipeline_run", "ts": "09/22/2026 10:19", "email": "  arjun@riverstonebank.com ", "properties": {"rows": 10, "status": "success"}}
+{"event": "invited_teammate", "ts": "1791753260", "email": "chloe.haddad851@yahoo.com", "properties": {"invitee_domain": "icloud.com"}}
+{"event": "login", "ts": "2026-10-28T04:11:27Z", "user_id": "usr_b823d4526b"}
+{"event": "viewed_pricing", "ts": "21-09-2026", "user_id": "usr_d4b97e6224"}
+{"event": "connected_integration", "ts": "1793598314", "user_id": "usr_2ca56895c6", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "23-09-2026", "email": "yrossi@orbitalretail.com", "properties": {"rows": 5000, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-15 06:07:22", "user_id": "usr_5f6b9cd71c"}
+{"event": "pipeline_run", "ts": "1793217423", "user_id": "usr_6061177270", "properties": {"rows": 5000, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-09-27T10:23:28Z", "user_id": "usr_c3d46ef104", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "12-10-2026", "user_id": "usr_cf2ea9c542"}
+{"event": "connected_integration", "ts": "2026/10/02", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "s3"}}
+{"event": "invited_teammate", "ts": "2026-09-16 20:11:03", "email": "yrossi@orbitalretail.com", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "login", "ts": "2026-09-05T06:12:30Z", "user_id": "usr_ca0d67d38e"}
+{"event": "pipeline_run", "ts": "10/29/2026 15:04", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 200, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026/10/16", "email": "Arjun.Silva795@Yahoo.Com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "project_created", "ts": "1790102890", "user_id": "usr_50a39c9ec6"}
+{"event": "api_key_created", "ts": "2026/09/28", "user_id": "usr_2ca56895c6"}
+{"event": "login", "ts": "1789945147", "email": "Arjun.Silva795@Yahoo.Com"}
+{"event": "pipeline_run", "ts": "2026-10-19T12:09:04Z", "user_id": "usr_06ff69723d", "properties": {"rows": 5000, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "02-10-2026", "user_id": "usr_6061177270"}
+{"event": "api_key_created", "ts": "1789291400", "user_id": "usr_de2e709838"}
+{"event": "api_key_created", "ts": "2026-09-24 05:37:39", "user_id": "usr_6061177270"}
+{"event": "invited_teammate", "ts": "2026/10/18", "email": "zara_singh@tidewatermedia.com", "properties": {"invitee_domain": "tidewatermedia.com"}}
+{"event": "pipeline_run", "ts": "1792824881", "user_id": "usr_a36b79afcc", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-10-12 17:54:04", "user_id": "usr_dc13eecdc6", "properties": {"rows": 200, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-09-12 11:22:35", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "09/17/2026 03:24", "user_id": "usr_ad5ab28d4a"}
+{"event": "sso_settings_viewed", "ts": "10/20/2026 03:56", "user_id": "usr_9e209515d5"}
+{"event": "api_key_created", "ts": "2026-09-07 08:09:59", "user_id": "usr_ad5ab28d4a"}
+{"event": "invited_teammate", "ts": "2026-10-10 02:56:42", "user_id": "usr_4e4baf0f5e", "properties": {"invitee_domain": "quantarobotics.com"}}
+{"event": "viewed_pricing", "ts": "09/25/2026 09:33", "email": "chloe.haddad851@yahoo.com"}
+{"event": "exported_data", "ts": "05-10-2026", "user_id": "usr_6d8f5242d3"}
+{"event": "pipeline_run", "ts": "10/03/2026 19:17", "user_id": "usr_06ff69723d", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "api_key_created", "ts": "2026-09-20T01:23:30Z", "user_id": "usr_50a39c9ec6"}
+{"event": "connected_integration", "ts": "2026/09/07", "user_id": "usr_a36b79afcc", "properties": {"integration": "s3"}}
+{"event": "connected_integration", "ts": "2026/10/23", "email": "samuel.tanaka@cobaltpay.com", "properties": {"integration": "Snowflake"}}
+{"event": "pipeline_run", "ts": "1791438792", "user_id": "usr_d839681c81", "properties": {"rows": 200, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-10-30T13:42:37Z", "user_id": "usr_4086c5d1d6", "properties": {"invitee_domain": "mosaiclabs.co"}}
+{"event": "exported_data", "ts": "10/23/2026 07:18", "user_id": "usr_6061177270"}
+{"event": "viewed_pricing", "ts": "10/09/2026 16:47", "email": "fatimaokafor69@proton.me"}
+{"event": "viewed_pricing", "ts": "2026-09-06 20:41:37", "user_id": "usr_b823d4526b"}
+{"event": "", "ts": "", "user_id": null}
+{"event": "sso_settings_viewed", "ts": "05-10-2026", "user_id": "usr_babe055787"}
+{"event": "api_key_created", "ts": "09/30/2026 03:11", "email": "omarg@lumenfi.com"}
+{"event": "project_created", "ts": "1792208477", "user_id": "usr_71ec8be537"}
+{"event": "connected_integration", "ts": "2026-10-31 18:25:27", "user_id": "usr_2ca56895c6", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "14-10-2026", "email": "Yrossi@Orbitalretail.Com", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-09-12 05:22:03", "email": "Samuel.Nguyen@Vertexcloud.Io", "properties": {"rows": null, "status": "failed"}}
+{"event": "project_created", "ts": "2026-10-26T18:11:20Z", "user_id": "usr_6061177270"}
+{"event": "pipeline_run", "ts": "2026-09-16 09:29:52", "user_id": "usr_b40123a348", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "1789413154", "user_id": "usr_b823d4526b", "properties": {"rows": null, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026/09/21", "user_id": "usr_e68b621d41"}
+{"event": "viewed_pricing", "ts": "2026-10-24T17:45:19Z", "user_id": "usr_b823d4526b"}
+{"event": "hit_rate_limit", "ts": "1792072336", "email": "grace.garcia@graniteins.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026-10-05 16:38:39", "user_id": "usr_6061177270", "properties": {"rows": null, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026/09/25", "user_id": "usr_ad5ab28d4a", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "2026-09-09 23:07:05", "user_id": "usr_50a39c9ec6", "properties": {"integration": "bigquery"}}
+{"event": "project_created", "ts": "2026-10-13 01:22:43", "user_id": "usr_5f6b9cd71c"}
+{"event": "pipeline_run", "ts": "10/02/2026 00:33", "user_id": "usr_31828c37e7", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "12-10-2026", "email": "  arjun.silva795@yahoo.com ", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "api_key_created", "ts": "1792408513", "user_id": "usr_6061177270"}
+{"event": "pipeline_run", "ts": "25-10-2026", "user_id": "usr_06ff69723d", "properties": {"rows": null, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/10/17", "user_id": "usr_1b97fa7f04"}
+{"event": "exported_data", "ts": "1789367201", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "pipeline_run", "ts": "1792460397", "email": "Samuel.Garcia@Helixbio.Com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-09-24 17:28:21", "user_id": "usr_a36b79afcc", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026/10/09", "user_id": "usr_ac5e5ba13d"}
+{"event": "viewed_pricing", "ts": "24-10-2026", "user_id": "usr_201e6a6628"}
+{"event": "api_key_created", "ts": "28-09-2026", "user_id": "usr_b40123a348"}
+{"event": "invited_teammate", "ts": "24-09-2026", "user_id": "usr_4ef165d779", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "hit_rate_limit", "ts": "09/15/2026 09:03", "user_id": "usr_50a39c9ec6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "10/01/2026 17:40", "user_id": "usr_506d4067f4"}
+{"event": "sso_settings_viewed", "ts": "08-10-2026", "user_id": "usr_d839681c81"}
+{"event": "connected_integration", "ts": "20-09-2026", "user_id": "usr_ca0d67d38e", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "2026-10-28T06:48:19Z", "user_id": "usr_6d8f5242d3", "properties": {"rows": 200, "status": "success"}}
+{"event": "login", "ts": "1790623015", "user_id": "usr_6061177270"}
+{"event": "sso_settings_viewed", "ts": "09/27/2026 14:18", "user_id": "usr_2ca56895c6"}
+{"event": "login", "ts": "2026-09-12T14:23:53Z", "user_id": "usr_2ca56895c6"}
+{"event": "viewed_pricing", "ts": "03-10-2026", "user_id": "usr_e68b621d41"}
+{"event": "viewed_pricing", "ts": "1788912131", "user_id": "usr_06ff69723d"}
+{"event": "project_created", "ts": "2026/10/30", "user_id": "usr_6061177270"}
+{"event": "api_key_created", "ts": "2026-10-25T07:54:33Z", "user_id": "usr_d839681c81"}
+{"event": "api_key_created", "ts": "2026-09-08T11:41:48Z", "user_id": "usr_b3ed6522b4"}
+{"event": "pipeline_run", "ts": "2026/10/24", "user_id": "usr_dee6b9d31a", "properties": {"rows": 10, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "2026-10-21 01:16:38", "email": "fatimaokafor69@proton.me"}
+{"event": "api_key_created", "ts": "1793415128", "user_id": "usr_c100e3a026"}
+{"event": "hit_rate_limit", "ts": "2026/09/11", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026-09-09T10:55:00Z", "user_id": "usr_dee6b9d31a", "properties": {"rows": 200, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-10-13T20:01:25Z", "email": "priya+signup@brightpathhealth.com", "properties": {"integration": "snowflake"}}
+{"event": "connected_integration", "ts": "2026-10-02 06:13:09", "user_id": "usr_24b523c0de", "properties": {"integration": "s3"}}
+{"event": "exported_data", "ts": "2026-10-23 13:54:34", "email": "yrossi@orbitalretail.com"}
+{"event": "viewed_pricing", "ts": "09/08/2026 15:39", "user_id": "usr_6061177270"}
+{"event": "connected_integration", "ts": "09/20/2026 09:15", "user_id": "usr_50a39c9ec6", "properties": {"integration": "snowflake"}}
+{"event": "invited_teammate", "ts": "30-10-2026", "email": "akowalski@vertexcloud.io", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "pipeline_run", "ts": "1790544238", "user_id": "usr_d4b97e6224", "properties": {"rows": 200, "status": "success"}}
+{"event": "project_created", "ts": "1790558360", "user_id": "usr_ca0d67d38e", "email": "james_okafor@lumenfi.com"}
+{"event": "api_key_created", "ts": "2026-10-01 00:36:56", "user_id": "usr_e5393a26ee"}
+{"event": "viewed_pricing", "ts": "11/02/2026 11:38", "user_id": "usr_ad5ab28d4a"}
+{"event": "connected_integration", "ts": "11/03/2026 06:36", "user_id": "usr_de2e709838", "properties": {"integration": "Snowflake"}}
+{"event": "exported_data", "ts": "2026/09/28", "user_id": "usr_c176c5a0dc"}
+{"event": "viewed_pricing", "ts": "28-09-2026", "user_id": "usr_06ff69723d"}
+{"event": "login", "ts": "05-10-2026", "user_id": "usr_50a39c9ec6"}
+{"event": "pipeline_run", "ts": "2026/09/25", "user_id": "usr_83fef7d9ea", "properties": {"rows": 120000, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-10-29 03:02:11", "email": "maya.becker@willowedu.org", "properties": {"invitee_domain": "willowedu.org"}}
+{"event": "api_key_created", "ts": "2026-09-27 06:27:02", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "07-09-2026", "user_id": "usr_0940d92bce", "properties": {"rows": 10, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "2026-09-29T12:10:49Z", "user_id": "usr_95ae007b7e", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026/09/16", "user_id": "usr_506d4067f4", "properties": {"invitee_domain": "northwind.io"}}
+{"event": "viewed_pricing", "ts": "10/27/2026 13:04", "user_id": "usr_dee6b9d31a"}
+{"event": "hit_rate_limit", "ts": "26-10-2026", "email": "ravi@vertexcloud.io", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "1790393387", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "2026/09/19", "user_id": "usr_098b2c550a", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "22-09-2026", "user_id": "usr_7ba4244f23", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "2026-10-24T23:56:01Z", "user_id": "usr_2ca56895c6", "properties": {"integration": "s3"}}
+{"event": "project_created", "ts": "2026/09/16", "user_id": "usr_ad5ab28d4a"}
+{"event": "login", "ts": "09/07/2026 22:32", "user_id": "usr_26b509109b"}
+{"event": "api_key_created", "ts": "19-09-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "viewed_pricing", "ts": "2026-10-24T04:55:43Z", "user_id": "usr_26b509109b"}
+{"event": "pipeline_run", "ts": "22-10-2026", "user_id": "usr_dee6b9d31a", "properties": {"rows": 200, "status": "failed"}}
+{"event": "invited_teammate", "ts": "09/30/2026 21:10", "user_id": "usr_b823d4526b", "properties": {"invitee_domain": "cobaltpay.com"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-25T00:18:26Z", "user_id": "usr_a36b79afcc"}
+{"event": "hit_rate_limit", "ts": "2026-11-03T11:11:48Z", "user_id": "usr_ca0d67d38e", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "1789652774", "user_id": "usr_06ff69723d"}
+{"event": "viewed_pricing", "ts": "1790208002", "user_id": "usr_3f4758367b"}
+{"event": "viewed_pricing", "ts": "10/13/2026 01:08", "email": "  omarg@lumenfi.com "}
+{"event": "viewed_pricing", "ts": "2026-09-30T11:30:01Z", "user_id": "usr_a36b79afcc"}
+{"event": "connected_integration", "ts": "1790315694", "user_id": "usr_84347f1a8c"}
+{"event": "invited_teammate", "ts": "10/04/2026 06:05", "user_id": "usr_bbea98fef8", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "project_created", "ts": "2026-09-19T08:33:23Z", "user_id": "usr_201e6a6628"}
+{"event": "api_key_created", "ts": "2026/10/10", "user_id": "usr_c176c5a0dc"}
+{"event": "viewed_pricing", "ts": "2026/10/18", "user_id": "usr_ad5ab28d4a"}
+{"event": "invited_teammate", "ts": "2026-09-07T12:27:53Z", "user_id": "usr_2ca56895c6", "properties": {"invitee_domain": "lumenfi.com"}}
+{"event": "connected_integration", "ts": "2026/10/06", "user_id": "usr_b823d4526b", "properties": {"integration": "s3"}}
+{"event": "pipeline_run", "ts": "2026-09-18 14:15:01", "user_id": "usr_4086c5d1d6", "properties": {"rows": 10, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026-11-02 08:19:28", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "invited_teammate", "ts": "12-09-2026", "user_id": "usr_d839681c81", "properties": {"invitee_domain": "brightpathhealth.com"}}
+{"event": "project_created", "ts": "10/13/2026 19:54", "email": "grace.garcia@graniteins.com"}
+{"event": "hit_rate_limit", "ts": "2026-09-26 14:32:36", "email": "  hannahr@riverstonebank.com ", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "hit_rate_limit", "ts": "2026/10/01", "user_id": "usr_0940d92bce", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "09/24/2026 21:20", "user_id": "usr_50a39c9ec6"}
+{"event": "exported_data", "ts": "1789902662", "user_id": "usr_dee6b9d31a"}
+{"event": "viewed_pricing", "ts": "2026-09-14T20:34:17Z", "user_id": "usr_ca0d67d38e"}
+{"event": "hit_rate_limit", "ts": "1793210123", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "2026/09/29", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "1791485074", "user_id": "usr_71ec8be537", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "11-10-2026", "user_id": "usr_dee6b9d31a"}
+{"event": "pipeline_run", "ts": "2026-09-07T21:18:33Z", "user_id": "usr_2e29890880", "properties": {"rows": 10, "status": "failed"}}
+{"event": "connected_integration", "ts": "2026-09-09 18:58:04", "user_id": "usr_1b97fa7f04", "properties": {"integration": "postgres"}}
+{"event": "login", "ts": "2026-10-06T05:17:09Z", "email": "zgarcia@lumenfi.com"}
+{"event": "viewed_pricing", "ts": "2026-10-21 06:12:44", "email": "mtanaka@kestrel.ai"}
+{"event": "invited_teammate", "ts": "09/09/2026 11:05", "user_id": "usr_625cb5e69c", "properties": {"invitee_domain": "quantarobotics.com"}}
+{"event": "viewed_pricing", "ts": "2026/11/02", "email": "ethan_patel@brightpathhealth.com"}
+{"event": "invited_teammate", "ts": "2026-09-08 04:56:10", "user_id": "usr_6061177270", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "project_created", "ts": "21-10-2026", "user_id": "usr_d839681c81"}
+{"event": "viewed_pricing", "ts": "2026-09-16T19:44:24Z", "user_id": "usr_098b2c550a"}
+{"event": "hit_rate_limit", "ts": "10/24/2026 23:22", "email": "Samuel.Tanaka@Cobaltpay.Com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026/10/11", "user_id": "usr_2ca56895c6", "properties": {"invitee_domain": "lumenfi.com"}}
+{"event": "sso_settings_viewed", "ts": "19-09-2026", "user_id": "usr_8e6d5d0477"}
+{"event": "hit_rate_limit", "ts": "02-10-2026", "user_id": "usr_56ded255d0", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "2026-10-11T23:29:20Z", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "exported_data", "ts": "2026/10/24", "email": "samuelp@northwind.io"}
+{"event": "hit_rate_limit", "ts": "1789168460", "user_id": "usr_ad5ab28d4a", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026-09-18 23:24:28", "email": "Akowalski@Vertexcloud.Io", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "sso_settings_viewed", "ts": "1789709723", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "2026-10-30 20:59:32", "user_id": "usr_b823d4526b", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-09-26T22:37:11Z", "email": "  samuel.tanaka@cobaltpay.com "}
+{"event": "pipeline_run", "ts": "1788945430", "user_id": "usr_4e5bf86f3c", "properties": {"rows": 200, "status": "success"}}
+{"event": "connected_integration", "ts": "1789955615", "email": "Oliviar@Paperplane.Dev", "properties": {"integration": "snowflake"}}
+{"event": "invited_teammate", "ts": "03-11-2026", "user_id": "usr_caf4488385", "properties": {"invitee_domain": "lumenfi.com"}}
+{"event": "project_created", "ts": "2026-10-07T01:09:36Z", "user_id": "usr_06ff69723d"}
+{"event": "viewed_pricing", "ts": "09/06/2026 21:23", "user_id": "usr_597ad465a1"}
+{"event": "pipeline_run", "ts": "09/17/2026 05:04", "user_id": "usr_d839681c81", "properties": {"rows": 10, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-11-03T21:19:13Z", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "09/23/2026 09:02", "user_id": "usr_2ca56895c6"}
+{"event": "exported_data", "ts": "1790911564", "user_id": "usr_506d4067f4"}
+{"event": "pipeline_run", "ts": "1790912922", "user_id": "usr_625cb5e69c", "email": "fatimaokafor69@proton.me", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "invited_teammate", "ts": "2026-10-17T09:18:40Z", "email": "yrossi+work@orbitalretail.com", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "pipeline_run", "ts": "10/22/2026 16:19", "user_id": "usr_c176c5a0dc", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "10/07/2026 15:09", "user_id": "usr_a36b79afcc", "properties": {"rows": 5000, "status": "success"}}
+{"event": "pipeline_run", "ts": "1793558491", "user_id": "usr_a36b79afcc", "properties": {"rows": 10, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "11/02/2026 02:36", "email": "  kmuller@vertexcloud.io "}
+{"event": "connected_integration", "ts": "1793284984", "properties": {"integration": "s3"}}
+{"event": "project_created", "ts": "03-10-2026", "user_id": "usr_625cb5e69c"}
+{"event": "pipeline_run", "ts": "2026-09-19 22:23:38", "user_id": "usr_d839681c81", "email": "ethan_patel@brightpathhealth.com", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-11-01T08:09:32Z", "user_id": "usr_de2e709838", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/09/16", "user_id": "usr_ad5ab28d4a", "properties": {"rows": null, "status": "failed"}}
+{"event": "connected_integration", "ts": "17-10-2026", "email": "fatimaokafor69@proton.me", "properties": {"integration": "snowflake"}}
+{"event": "invited_teammate", "ts": "2026-09-23T09:44:08Z", "user_id": "usr_191139fa12", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "connected_integration", "ts": "09/07/2026 17:20", "user_id": "usr_625cb5e69c", "properties": {"integration": "snowflake"}}
+{"event": "viewed_pricing", "ts": "18-09-2026", "user_id": "usr_50a39c9ec6"}
+{"event": "api_key_created", "ts": "2026/10/11", "user_id": "usr_50a39c9ec6"}
+{"event": "viewed_pricing", "ts": "2026/09/19", "user_id": "usr_a36b79afcc"}
+{"event": "viewed_pricing", "ts": "1788689692", "user_id": "usr_b823d4526b"}
+{"event": "sso_settings_viewed", "ts": "09/16/2026 20:00", "user_id": "usr_a36b79afcc"}
+{"event": "exported_data", "ts": "1793424030", "user_id": "usr_196e218b09"}
+{"event": "project_created", "ts": "2026-10-11 07:09:45", "user_id": "usr_441f5d988f", "email": "hannahp@vertexcloud.io"}
+{"event": "connected_integration", "ts": "23-10-2026", "user_id": "usr_ad5ab28d4a", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "1792389237", "user_id": "usr_db706ad042"}
+{"event": "project_created", "ts": "2026-10-11 13:15:26", "user_id": "usr_d4b97e6224"}
+{"event": "sso_settings_viewed", "ts": "2026/10/20", "email": "grace.garcia@graniteins.com"}
+{"event": "connected_integration", "ts": "2026/09/30", "user_id": "usr_5f6b9cd71c", "properties": {"integration": "s3"}}
+{"event": "connected_integration", "ts": "2026-09-20 15:44:41", "user_id": "usr_a36b79afcc", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "2026-09-08T04:39:41Z", "user_id": "usr_6061177270", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-10-27 16:57:24", "user_id": "usr_ab0cfef683", "properties": {"integration": "Snowflake"}}
+{"event": "hit_rate_limit", "ts": "2026/09/09", "user_id": "usr_06ff69723d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "2026-09-05 16:50:12", "email": "Hannahrossi70@Gmail.Com", "properties": {"integration": "snowflake"}}
+{"event": "api_key_created", "ts": "2026-09-13T12:09:50Z", "user_id": "usr_b823d4526b"}
+{"event": "project_created", "ts": "2026/10/05", "email": "  hannahr@riverstonebank.com "}
+{"event": "project_created", "ts": "2026-09-17 06:18:18", "user_id": "usr_b823d4526b", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "exported_data", "ts": "2026-10-09 04:22:53", "user_id": "usr_babe055787"}
+{"event": "login", "ts": "2026-09-20T23:32:34Z", "user_id": "usr_506d4067f4", "email": "danielsilva1@proton.me"}
+{"event": "pipeline_run", "ts": "24-10-2026", "email": "  sofiar@acmeanalytics.com ", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-09-24T11:09:53Z", "email": "priya@lumenfi.com"}
+{"event": "connected_integration", "ts": "10/29/2026 04:10", "user_id": "usr_6061177270", "email": "arjun@riverstonebank.com", "properties": {"integration": "bigquery"}}
+{"event": "invited_teammate", "ts": "2026/10/29", "user_id": "usr_4de8273dee"}
+{"event": "pipeline_run", "ts": "2026/09/17", "user_id": "usr_b823d4526b", "properties": {"rows": null, "status": "success"}}
+{"event": "viewed_pricing", "ts": "10/19/2026 07:43", "user_id": "usr_50a39c9ec6"}
+{"event": "exported_data", "ts": "1790340235", "user_id": "usr_441f5d988f", "email": "hannahp@vertexcloud.io"}
+{"event": "pipeline_run", "ts": "09/29/2026 00:50", "email": "fatimaokafor69@proton.me", "properties": {"rows": 200, "status": "success"}}
+{"event": "exported_data", "ts": "2026/09/15", "user_id": "usr_a36b79afcc"}
+{"event": "exported_data", "ts": "05-10-2026", "user_id": "usr_5f6b9cd71c"}
+{"event": "viewed_pricing", "ts": "2026-10-16 14:38:34", "user_id": "usr_caf4488385"}
+{"event": "pipeline_run", "ts": "2026-09-30T17:45:27Z", "user_id": "usr_9eb89f7039", "properties": {"rows": 10, "status": "failed"}}
+{"event": "invited_teammate", "ts": "09/12/2026 10:38", "user_id": "usr_201e6a6628", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "pipeline_run", "ts": "2026-09-14 04:59:22", "user_id": "usr_95ae007b7e", "properties": {"rows": null, "status": "success"}}
+{"event": "api_key_created", "ts": "2026-09-30 07:56:59", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "2026-09-21T15:44:15Z", "user_id": "usr_06ddcf8766", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "api_key_created", "ts": "2026-10-08T22:46:49Z", "email": "HANNAHS@GRANITEINS.COM"}
+{"event": "project_created", "ts": "09/22/2026 04:40", "user_id": "usr_2ca56895c6"}
+{"event": "viewed_pricing", "ts": "2026/09/27", "user_id": "usr_d839681c81"}
+{"event": "connected_integration", "ts": "2026-09-25T12:28:37Z", "user_id": "usr_441f5d988f", "properties": {"integration": "s3"}}
+{"event": "invited_teammate", "ts": "2026-10-03T22:39:51Z", "user_id": "usr_ad5ab28d4a", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "pipeline_run", "ts": "09/23/2026 12:02", "user_id": "usr_dee6b9d31a", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "1792721482", "user_id": "usr_d839681c81", "properties": {"integration": "postgres"}}
+{"event": "pipeline_run", "ts": "11/03/2026 21:29", "user_id": "usr_33a689b424", "properties": {"rows": null, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "1790242107", "user_id": "usr_d4b97e6224", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-11T21:48:40Z", "user_id": "usr_71ec8be537"}
+{"event": "sso_settings_viewed", "ts": "1790977798", "user_id": "usr_7fb12b6680"}
+{"event": "connected_integration", "ts": "2026-09-09T01:48:33Z", "email": "Arjun.Silva795@Yahoo.Com", "properties": {"integration": "Snowflake"}}
+{"event": "hit_rate_limit", "ts": "25-09-2026", "user_id": "usr_a36b79afcc", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "2026/10/25", "user_id": "usr_c3d46ef104"}
+{"event": "project_created", "ts": "09/09/2026 18:09", "user_id": "usr_50a39c9ec6"}
+{"event": "login", "ts": "2026-10-26T11:20:22Z", "user_id": "usr_ee1d27c09a"}
+{"event": "sso_settings_viewed", "ts": "10/06/2026 22:40", "user_id": "usr_6061177270", "email": "arjun@riverstonebank.com"}
+{"event": "login", "ts": "2026-09-18 20:23:06", "user_id": "usr_191139fa12"}
+{"event": "pipeline_run", "ts": "2026-09-23T23:17:36Z", "user_id": "usr_ab0cfef683", "email": "samuel.nguyen@vertexcloud.io", "properties": {"rows": 10, "status": "success"}}
+{"event": "api_key_created", "ts": "1789177980", "user_id": "usr_3b6fe5040b"}
+{"event": "login", "ts": "10/09/2026 13:49", "user_id": "usr_ad5ab28d4a"}
+{"event": "hit_rate_limit", "ts": "2026-09-10T15:36:05Z", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "2026-09-25T10:04:08Z", "user_id": "usr_d839681c81"}
+{"event": "hit_rate_limit", "ts": "09/21/2026 21:31", "user_id": "usr_201e6a6628", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "2026/09/07", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "1789385030", "user_id": "usr_506d4067f4", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "1791902244", "email": "arjun@riverstonebank.com", "properties": {"rows": 5000, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026-10-02T20:25:31Z", "user_id": "usr_4ef165d779", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026-09-15T04:39:38Z", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "pipeline_run", "ts": "09/28/2026 17:27", "user_id": "usr_b823d4526b", "properties": {"rows": 5000, "status": "success"}}
+{"event": "api_key_created", "ts": "10/24/2026 00:05", "user_id": "usr_4d44d7df9a"}
+{"event": "pipeline_run", "ts": "2026-09-23T10:11:21Z", "user_id": "usr_a36b79afcc", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-26 14:07:47", "user_id": "usr_d4b97e6224", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-09-28 08:31:19", "user_id": "usr_26b509109b", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "1791974954", "user_id": "usr_ad5ab28d4a", "email": "akowalski@vertexcloud.io"}
+{"event": "viewed_pricing", "ts": "09-10-2026", "user_id": "usr_c176c5a0dc"}
+{"event": "login", "ts": "09/24/2026 13:33", "user_id": "usr_de2e709838"}
+{"event": "login", "ts": "2026-09-05T10:41:21Z", "user_id": "usr_b40123a348"}
+{"event": "invited_teammate", "ts": "09/21/2026 00:34", "user_id": "usr_b823d4526b", "properties": {"invitee_domain": "cobaltpay.com"}}
+{"event": "sso_settings_viewed", "ts": "1788752566", "email": "hannahr@riverstonebank.com"}
+{"event": "viewed_pricing", "ts": "2026/10/15", "user_id": "usr_a36b79afcc", "email": "yrossi@orbitalretail.com"}
+{"event": "hit_rate_limit", "ts": "2026-10-27T22:47:13Z", "user_id": "usr_c176c5a0dc", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "1789019721", "user_id": "usr_2ca56895c6", "properties": {"rows": 10, "status": "success"}}
+{"event": "hit_rate_limit", "ts": "2026/10/02", "user_id": "usr_50a39c9ec6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026-09-21 03:43:40", "email": "yrossi@orbitalretail.com", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "pipeline_run", "ts": "10/06/2026 15:46", "user_id": "usr_e68b621d41", "properties": {"rows": 10, "status": "failed"}}
+{"event": "api_key_created", "ts": "23-10-2026", "email": "Mayar@Northwind.Io"}
+{"event": "invited_teammate", "ts": "09/30/2026 15:36", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "pipeline_run", "ts": "16-09-2026", "user_id": "usr_2ca56895c6", "properties": {"rows": null, "status": "success"}}
+{"event": "project_created", "ts": "2026-09-10 20:20:46", "user_id": "usr_c8991965ea"}
+{"event": "api_key_created", "ts": "20-09-2026", "user_id": "usr_ee1d27c09a"}
+{"event": "exported_data", "ts": "07-10-2026", "user_id": "usr_441f5d988f"}
+{"event": "pipeline_run", "ts": "2026-10-06T23:49:58Z", "user_id": "usr_597ad465a1", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "connected_integration", "ts": "2026-09-27 20:29:09", "user_id": "usr_d839681c81", "properties": {"integration": "snowflake"}}
+{"event": "viewed_pricing", "ts": "10/04/2026 11:23", "user_id": "usr_dee6b9d31a"}
+{"event": "pipeline_run", "ts": "1788996648", "user_id": "usr_50a39c9ec6", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "10/28/2026 18:46", "user_id": "usr_ad5ab28d4a"}
+{"event": "pipeline_run", "ts": "2026/10/03", "user_id": "usr_506d4067f4", "properties": {"rows": 200, "status": "failed"}}
+{"event": "connected_integration", "ts": "2026-10-27T22:02:26Z", "user_id": "usr_65d61169a1", "properties": {"integration": "snowflake"}}
+{"event": "viewed_pricing", "ts": "2026-09-13T11:17:09Z", "user_id": "usr_0940d92bce"}
+{"event": "project_created", "ts": "1791311753", "email": "nhaddad@orbitalretail.com"}
+{"event": "pipeline_run", "ts": "10/10/2026 15:14", "user_id": "usr_50a39c9ec6", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "27-10-2026", "user_id": "usr_33a689b424", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-22T12:21:40Z", "user_id": "usr_b1f280df1d", "properties": {"rows": 10, "status": "failed"}}
+{"event": "api_key_created", "ts": "2026/09/29", "user_id": "usr_50a39c9ec6"}
+{"event": "project_created", "ts": "2026-10-09T08:27:01Z", "user_id": "usr_6061177270"}
+{"event": "login", "ts": "2026-10-19 14:30:01", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-10-08T15:35:15Z", "email": "ananyak+work@vertexcloud.io", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-09-08 04:54:01", "email": "akowalski@vertexcloud.io", "properties": {"rows": null, "status": "success"}}
+{"event": "login", "ts": "2026-10-15T05:33:58Z", "user_id": "usr_50a39c9ec6"}
+{"event": "viewed_pricing", "ts": "2026-10-24 05:59:39", "user_id": "usr_2ca56895c6"}
+{"event": "viewed_pricing", "ts": "2026/10/03", "user_id": "usr_dc13eecdc6"}
+{"event": "login", "ts": "10/11/2026 21:10", "user_id": "usr_6061177270"}
+{"event": "pipeline_run", "ts": "21-10-2026", "user_id": "usr_6061177270", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "15-09-2026", "user_id": "usr_50a39c9ec6", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "12-10-2026", "user_id": "usr_a36b79afcc", "properties": {"rows": 200, "status": "success"}}
+{"event": "exported_data", "ts": "1792014336", "user_id": "usr_50a39c9ec6"}
+{"event": "api_key_created", "ts": "2026-11-02T15:16:26Z", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "15-10-2026", "user_id": "usr_2ca56895c6", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-19T02:04:32Z", "user_id": "usr_6061177270"}
+{"event": "exported_data", "ts": "2026-09-16T23:06:56Z", "user_id": "usr_4d44d7df9a"}
+{"event": "connected_integration", "ts": "2026-10-31T17:07:54Z", "email": "zgarcia@lumenfi.com", "properties": {"integration": "postgres"}}
+{"event": "viewed_pricing", "ts": "2026/10/01", "user_id": "usr_ee1d27c09a"}
+{"event": "pipeline_run", "ts": "1793417717", "user_id": "usr_b88787ea21", "properties": {"rows": 200, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-10-31T20:08:41Z", "user_id": "usr_caf4488385", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "09/25/2026 18:51", "user_id": "usr_ac5e5ba13d", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-11-02 01:48:40", "user_id": "usr_a36b79afcc", "properties": {"rows": 10, "status": "success"}}
+{"event": "invited_teammate", "ts": "2026/10/08", "user_id": "usr_ad5ab28d4a", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-16T18:36:02Z", "user_id": "usr_71ec8be537"}
+{"event": "exported_data", "ts": "09/30/2026 00:10", "user_id": "usr_196e218b09"}
+{"event": "viewed_pricing", "ts": "10/14/2026 23:35", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "10/23/2026 11:28", "email": "Lucas.Kim@Vertexcloud.Io", "properties": {"rows": 10, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "1793555716", "user_id": "usr_d839681c81"}
+{"event": "pipeline_run", "ts": "2026-09-10 16:08:58", "user_id": "usr_d839681c81", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026-10-27 02:07:31", "user_id": "usr_ca0d67d38e", "properties": {"rows": 10, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/09/17", "user_id": "usr_ad5ab28d4a", "properties": {"rows": 10, "status": "failed"}}
+{"event": "hit_rate_limit", "ts": "2026-10-28T04:12:37Z", "user_id": "usr_4ad26aab27"}
+{"event": "viewed_pricing", "ts": "1793308831", "user_id": "usr_d839681c81"}
+{"event": "project_created", "ts": "1791695886", "user_id": "usr_d839681c81"}
+{"event": "api_key_created", "ts": "1790077658", "email": "akowalski@vertexcloud.io"}
+{"event": "connected_integration", "ts": "1790484454", "email": "kenji_patel@northwind.io", "properties": {"integration": "snowflake"}}
+{"event": "login", "ts": "10/16/2026 20:01", "user_id": "usr_6061177270"}
+{"event": "pipeline_run", "ts": "2026-10-10T13:38:42Z", "user_id": "usr_a36b79afcc", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "10/27/2026 04:03", "user_id": "usr_a3db2c6ac8", "properties": {"integration": "s3"}}
+{"event": "hit_rate_limit", "ts": "19-10-2026", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "pipeline_run", "ts": "1792228315", "user_id": "usr_6061177270", "properties": {"rows": null, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-11-03T21:41:50Z", "user_id": "usr_de2e709838", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "login", "ts": "2026-10-01T17:54:36Z"}
+{"event": "exported_data", "ts": "2026-10-15T16:34:26Z", "user_id": "usr_bbea98fef8"}
+{"event": "pipeline_run", "ts": "1788836003", "user_id": "usr_bbea98fef8", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026/10/16", "user_id": "usr_50a39c9ec6", "properties": {"rows": 5000, "status": "failed"}}
+{"event": "connected_integration", "ts": "2026-09-18T06:19:05Z", "user_id": "usr_ee1d27c09a", "properties": {"integration": "postgres"}}
+{"event": "hit_rate_limit", "ts": "09/15/2026 07:26", "user_id": "usr_0940d92bce", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "24-10-2026", "user_id": "usr_a36b79afcc", "email": "yrossi@orbitalretail.com", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "project_created", "ts": "09-09-2026", "user_id": "usr_06ff69723d"}
+{"event": "api_key_created", "ts": "2026-09-13 06:17:03", "user_id": "usr_a36b79afcc"}
+{"event": "pipeline_run", "ts": "10/27/2026 09:24", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 120000, "status": "success"}}
+{"event": "api_key_created", "ts": "10/27/2026 18:17", "user_id": "usr_de2e709838"}
+{"event": "viewed_pricing", "ts": "1793029508", "user_id": "usr_26b509109b"}
+{"event": "exported_data", "ts": "09/12/2026 15:45", "user_id": "usr_8e6d5d0477"}
+{"event": "exported_data", "ts": "2026-10-17 11:58:41", "user_id": "usr_56ded255d0"}
+{"event": "pipeline_run", "ts": "2026/10/08", "email": "zgarcia@lumenfi.com", "properties": {"rows": 10, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-01 06:04:59", "user_id": "usr_506d4067f4"}
+{"event": "invited_teammate", "ts": "09/30/2026 18:40", "user_id": "usr_0940d92bce", "properties": {"invitee_domain": "paperplane.dev"}}
+{"event": "connected_integration", "ts": "09/19/2026 00:34", "email": "chloe.haddad851+signup@yahoo.com", "properties": {"integration": "postgres"}}
+{"event": "project_created", "ts": "2026-10-28T17:24:05Z", "user_id": "usr_196e218b09"}
+{"event": "api_key_created", "ts": "2026/10/19", "user_id": "usr_dc13eecdc6"}
+{"event": "api_key_created", "ts": "10/31/2026 07:34", "user_id": "usr_a36b79afcc"}
+{"event": "invited_teammate", "ts": "1792776721", "user_id": "usr_6061177270", "properties": {"invitee_domain": "riverstonebank.com"}}
+{"event": "pipeline_run", "ts": "09/30/2026 08:37", "user_id": "usr_80657e01c9", "properties": {"rows": 200, "status": "failed"}}
+{"event": "sso_settings_viewed", "ts": "11-09-2026", "user_id": "usr_0940d92bce"}
+{"event": "login", "ts": "2026/09/09", "user_id": "usr_da22bf18f5"}
+{"event": "viewed_pricing", "ts": "1789153690", "user_id": "usr_ad5ab28d4a", "email": "akowalski@vertexcloud.io"}
+{"event": "hit_rate_limit", "ts": "09/20/2026 11:50", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "2026-09-30 22:33:04", "user_id": "usr_06ff69723d"}
+{"event": "invited_teammate", "ts": "2026-11-02 22:32:10", "user_id": "usr_ac54cc1e2a", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "invited_teammate", "ts": "2026-09-28 17:29:42", "user_id": "usr_2f6aa42c9f", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "viewed_pricing", "ts": "2026/09/29", "user_id": "usr_0940d92bce"}
+{"event": "pipeline_run", "ts": "2026/10/27", "user_id": "usr_2ca56895c6", "properties": {"rows": 200, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-09-18T02:01:04Z", "user_id": "usr_b823d4526b", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "2026/10/24", "user_id": "usr_dee6b9d31a", "properties": {"rows": null, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "1790888496", "user_id": "usr_815a18e2a3"}
+{"event": "invited_teammate", "ts": "2026-09-12T16:44:28Z", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "pipeline_run", "ts": "09/23/2026 15:34", "user_id": "usr_50a39c9ec6", "properties": {"rows": 200, "status": "failed"}}
+{"event": "pipeline_run", "ts": "2026/10/09", "user_id": "usr_50a39c9ec6", "properties": {"rows": 200, "status": "success"}}
+{"event": "login", "ts": "2026/10/29", "user_id": "usr_4e5bf86f3c"}
+{"event": "exported_data", "ts": "2026/10/06", "user_id": "usr_6061177270"}
+{"event": "connected_integration", "ts": "2026/09/20", "properties": {"integration": "s3"}}
+{"event": "viewed_pricing", "ts": "2026/10/01", "user_id": "usr_d839681c81"}
+{"event": "connected_integration", "ts": "09/10/2026 00:05", "user_id": "usr_2ca56895c6", "properties": {"integration": "snowflake"}}
+{"event": "pipeline_run", "ts": "09/27/2026 10:54", "user_id": "usr_ac54cc1e2a", "properties": {"rows": 120000, "status": "success"}}
+{"event": "pipeline_run", "ts": "1790633162", "user_id": "usr_d839681c81", "properties": {"rows": 200, "status": "success"}}
+{"event": "exported_data", "ts": "2026-09-17T12:33:42Z", "user_id": "usr_d839681c81"}
+{"event": "hit_rate_limit", "ts": "04-10-2026", "user_id": "usr_6061177270", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "login", "ts": "10/27/2026 16:42", "email": "samuel.tanaka@cobaltpay.com"}
+{"event": "project_created", "ts": "2026/09/29", "user_id": "usr_a36b79afcc"}
+{"event": "connected_integration", "ts": "1793298369", "user_id": "usr_815a18e2a3", "properties": {"integration": "snowflake"}}
+{"event": "api_key_created", "ts": "2026-10-27 22:31:51", "email": "  hannahp@vertexcloud.io "}
+{"event": "viewed_pricing", "ts": "2026-10-28 23:06:49", "email": "chloe.haddad851@yahoo.com"}
+{"event": "project_created", "ts": "2026-09-17T11:41:41Z", "user_id": "usr_5f6b9cd71c"}
+{"event": "login", "ts": "14-09-2026", "user_id": "usr_ed0e3f4912"}
+{"event": "invited_teammate", "ts": "2026/10/22", "user_id": "usr_06ff69723d", "properties": {"invitee_domain": "yahoo.com"}}
+{"event": "pipeline_run", "ts": "03-10-2026", "user_id": "usr_815a18e2a3", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/10/03", "user_id": "usr_c176c5a0dc"}
+{"event": "pipeline_run", "ts": "2026-09-06 06:51:42", "user_id": "usr_2ba417c093", "email": "samuel.sharma@tidewatermedia.com", "properties": {"rows": null, "status": "success"}}
+{"event": "invited_teammate", "ts": "1790732844", "email": "arjun@orbitalretail.com", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "hit_rate_limit", "ts": "2026-10-07T07:53:35Z", "user_id": "usr_506d4067f4", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "23-09-2026", "user_id": "usr_d839681c81"}
+{"event": "sso_settings_viewed", "ts": "2026-11-03 09:45:10", "user_id": "usr_de2e709838"}
+{"event": "hit_rate_limit", "ts": "2026/09/22", "user_id": "usr_b823d4526b", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "hit_rate_limit", "ts": "19-09-2026", "user_id": "usr_5f6b9cd71c", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "invited_teammate", "ts": "2026/09/19", "user_id": "usr_5f6b9cd71c", "properties": {"invitee_domain": "graniteins.com"}}
+{"event": "pipeline_run", "ts": "18-09-2026", "user_id": "usr_2ca56895c6", "properties": {"rows": null, "status": "success"}}
+{"event": "viewed_pricing", "ts": "2026-10-27 10:50:17", "user_id": "usr_ad5ab28d4a"}
+{"event": "invited_teammate", "ts": "2026/09/27", "user_id": "usr_50a39c9ec6", "properties": {"invitee_domain": "hotmail.com"}}
+{"event": "pipeline_run", "ts": "1793369873", "user_id": "usr_06ff69723d", "properties": {"rows": null, "status": "success"}}
+{"event": "project_created", "ts": "2026-10-28T07:22:03Z", "user_id": "usr_a36b79afcc"}
+{"event": "connected_integration", "ts": "2026-10-31 13:04:54", "email": "rahmed@riverstonebank.com", "properties": {"integration": "Snowflake"}}
+{"event": "pipeline_run", "ts": "10/30/2026 04:02", "user_id": "usr_b823d4526b", "properties": {"rows": 10, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026/10/19"}
+{"event": "hit_rate_limit", "ts": "06-10-2026", "user_id": "usr_de2e709838", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "09/07/2026 10:06", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "2026/09/29", "user_id": "usr_ad6f91a7be"}
+{"event": "api_key_created", "ts": "26-10-2026", "user_id": "usr_ad5ab28d4a"}
+{"event": "hit_rate_limit", "ts": "1789028581", "user_id": "usr_2ca56895c6", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "hit_rate_limit", "ts": "09/23/2026 07:44", "user_id": "usr_c8991965ea", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "project_created", "ts": "2026/10/07", "user_id": "usr_5f6b9cd71c"}
+{"event": "pipeline_run", "ts": "23-10-2026", "user_id": "usr_191139fa12", "properties": {"rows": 10, "status": "success"}}
+{"event": "exported_data", "ts": "10/15/2026 11:25", "user_id": "usr_ca0d67d38e"}
+{"event": "invited_teammate", "ts": "1789234982", "user_id": "usr_a36b79afcc", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "connected_integration", "ts": "2026-09-08 09:36:46", "user_id": "usr_d839681c81", "properties": {"integration": "bigquery"}}
+{"event": "pipeline_run", "ts": "1792496381", "email": "diego.okafor317@icloud.com", "properties": {"rows": 120000, "status": "success"}}
+{"event": "viewed_pricing", "ts": "23-10-2026", "user_id": "usr_b823d4526b"}
+{"event": "viewed_pricing", "ts": "2026-10-27 19:42:56", "email": "chloe.haddad851@yahoo.com"}
+{"event": "pipeline_run", "ts": "2026-09-14T17:56:20Z", "user_id": "usr_5f6b9cd71c", "properties": {"rows": 200, "status": "success"}}
+{"event": "project_created", "ts": "09/26/2026 20:07", "email": "maya@quantarobotics.com"}
+{"event": "exported_data", "ts": "2026/10/24", "user_id": "usr_06ff69723d"}
+{"event": "sso_settings_viewed", "ts": "10/21/2026 15:12", "email": "arjun.silva795+signup@yahoo.com"}
+{"event": "viewed_pricing", "ts": "2026-09-30 05:33:41", "user_id": "usr_bbea98fef8"}
+{"event": "login", "ts": "2026/09/12", "user_id": "usr_7ba4244f23"}
+{"event": "viewed_pricing", "ts": "03-11-2026", "user_id": "usr_ac5e5ba13d"}
+{"event": "viewed_pricing", "ts": "30-10-2026", "user_id": "usr_ad5ab28d4a"}
+{"event": "project_created", "ts": "10/21/2026 14:25", "user_id": "usr_4ef165d779"}
+{"event": "login", "ts": "2026-09-30 17:12:44", "email": "rahmed@riverstonebank.com"}
+{"event": "project_created", "ts": "16-09-2026", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "2026-09-25T22:38:43Z", "user_id": "usr_bbea98fef8", "properties": {"rows": 200, "status": "success"}}
+{"event": "pipeline_run", "ts": "2026-10-22 22:50:34", "email": "ethan_patel@brightpathhealth.com", "properties": {"rows": 10, "status": "failed"}}
+{"event": "viewed_pricing", "ts": "2026-09-13 04:06:06", "user_id": "usr_dee6b9d31a"}
+{"event": "api_key_created", "ts": "2026-10-18 17:13:17", "user_id": "usr_ab5463adc7"}
+{"event": "hit_rate_limit", "ts": "2026/10/11", "user_id": "usr_71ec8be537", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "hit_rate_limit", "ts": "1792496536", "user_id": "usr_ac5e5ba13d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "connected_integration", "ts": "2026/09/09", "user_id": "usr_b823d4526b", "properties": {"integration": "bigquery"}}
+{"event": "project_created", "ts": "18-10-2026", "user_id": "usr_2ca56895c6"}
+{"event": "pipeline_run", "ts": "10/09/2026 15:33", "user_id": "usr_4ef165d779", "properties": {"rows": 200, "status": "failed"}}
+{"event": "invited_teammate", "ts": "10/11/2026 15:59", "user_id": "usr_ad5ab28d4a", "properties": {"invitee_domain": "vertexcloud.io"}}
+{"event": "viewed_pricing", "ts": "2026/10/29", "user_id": "usr_506d4067f4"}
+{"event": "invited_teammate", "ts": "06-10-2026", "user_id": "usr_ca0d67d38e", "properties": {"invitee_domain": "lumenfi.com"}}
+{"event": "pipeline_run", "ts": "2026/09/08", "email": "Arjun@Riverstonebank.Com", "properties": {"rows": null, "status": "success"}}
+{"event": "exported_data", "ts": "1790456704", "email": "arjun@riverstonebank.com"}
+{"event": "exported_data", "ts": "1791556234", "email": "  omar.rodriguez@riverstonebank.com "}
+{"event": "login", "ts": "1790137321", "user_id": "usr_815a18e2a3"}
+{"event": "pipeline_run", "ts": "2026-09-10 21:58:43", "user_id": "usr_b823d4526b", "properties": {"rows": 120000, "status": "failed"}}
+{"event": "project_created", "ts": "10-10-2026", "user_id": "usr_b823d4526b"}
+{"event": "pipeline_run", "ts": "1791965358", "email": "akowalski@vertexcloud.io", "properties": {"rows": 200, "status": "failed"}}
+{"event": "login", "ts": "13-09-2026", "user_id": "usr_d4b97e6224"}
+{"event": "hit_rate_limit", "ts": "1791643843", "user_id": "usr_06ff69723d", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "api_key_created", "ts": "10/23/2026 14:57", "email": "  hannahrossi70@gmail.com "}
+{"event": "login", "ts": "2026-09-28 03:18:43", "user_id": "usr_597ad465a1"}
+{"event": "login", "ts": "10/17/2026 11:14", "user_id": "usr_597ad465a1"}
+{"event": "project_created", "ts": "09/17/2026 00:00", "user_id": "usr_06ff69723d"}
+{"event": "pipeline_run", "ts": "09/06/2026 22:06", "user_id": "usr_098b2c550a", "properties": {"rows": null, "status": "success"}}
+{"event": "sso_settings_viewed", "ts": "2026-09-06T08:19:27Z", "user_id": "usr_0940d92bce"}
+{"event": "hit_rate_limit", "ts": "2026/10/26", "user_id": "usr_50a39c9ec6", "email": "chloe.haddad851@yahoo.com", "properties": {"limit": "free_tier_1000_runs"}}
+{"event": "exported_data", "ts": "09/23/2026 19:29", "user_id": "usr_6d8f5242d3"}
+{"event": "invited_teammate", "ts": "26-09-2026", "user_id": "usr_a36b79afcc", "properties": {"invitee_domain": "orbitalretail.com"}}
+{"event": "pipeline_run", "ts": "1792136203", "user_id": "usr_441f5d988f", "properties": {"rows": null, "status": "success"}}
+{"event": "connected_integration", "ts": "2026-09-30 01:53:07", "user_id": "usr_2ca56895c6", "properties": {"integration": "bigquery"}}
+{"event": "project_created", "ts": "2026/10/26", "user_id": "usr_a36b79afcc"}

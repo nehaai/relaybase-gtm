@@ -1,0 +1,185 @@
+source,record_id,person_id,company,domain
+signups,1001,P0002,Acme Analytics,acmeanalytics.com
+signups,1002,P0003,Acme Analytics,acmeanalytics.com
+signups,1003,P0004,Acme Analytics,acmeanalytics.com
+signups,1004,P0007,Northwind Logistics,northwind.io
+signups,1005,P0008,Northwind Logistics,northwind.io
+signups,1006,P0010,Northwind Logistics,northwind.io
+signups,1007,P0012,Northwind Logistics,northwind.io
+signups,1008,P0013,Northwind Logistics,northwind.io
+signups,1009,P0015,Northwind Logistics,northwind.io
+signups,1010,P0016,Northwind Logistics,northwind.io
+signups,1011,P0017,Northwind Logistics,northwind.io
+signups,1012,P0018,Northwind Logistics,northwind.io
+signups,1013,P0019,Brightpath Health,brightpathhealth.com
+signups,1014,P0019,Brightpath Health,brightpathhealth.com
+signups,1015,P0020,Brightpath Health,brightpathhealth.com
+signups,1016,P0021,Brightpath Health,brightpathhealth.com
+signups,1017,P0023,Brightpath Health,brightpathhealth.com
+signups,1018,P0026,Brightpath Health,brightpathhealth.com
+signups,1019,P0027,Kestrel AI,kestrel.ai
+signups,1020,P0029,Kestrel AI,kestrel.ai
+signups,1021,P0030,Kestrel AI,kestrel.ai
+signups,1022,P0031,Kestrel AI,kestrel.ai
+signups,1023,P0032,Lumen Finance,lumenfi.com
+signups,1024,P0033,Lumen Finance,lumenfi.com
+signups,1025,P0034,Lumen Finance,lumenfi.com
+signups,1026,P0035,Lumen Finance,lumenfi.com
+signups,1027,P0037,Orbital Retail,orbitalretail.com
+signups,1028,P0038,Orbital Retail,orbitalretail.com
+signups,1029,P0038,Orbital Retail,orbitalretail.com
+signups,1030,P0039,Orbital Retail,orbitalretail.com
+signups,1031,P0041,Orbital Retail,orbitalretail.com
+signups,1032,P0042,Orbital Retail,orbitalretail.com
+signups,1033,P0045,Orbital Retail,orbitalretail.com
+signups,1034,P0047,Orbital Retail,orbitalretail.com
+signups,1035,P0048,Orbital Retail,orbitalretail.com
+signups,1036,P0049,Orbital Retail,orbitalretail.com
+signups,1037,P0050,Orbital Retail,orbitalretail.com
+signups,1038,P0051,Paperplane,paperplane.dev
+signups,1039,P0052,Paperplane,paperplane.dev
+signups,1040,P0053,Quanta Robotics,quantarobotics.com
+signups,1041,P0054,Quanta Robotics,quantarobotics.com
+signups,1042,P0056,Quanta Robotics,quantarobotics.com
+signups,1043,P0057,Quanta Robotics,quantarobotics.com
+signups,1044,P0058,Quanta Robotics,quantarobotics.com
+signups,1045,P0060,Quanta Robotics,quantarobotics.com
+signups,1046,P0062,Sable Security,sablesec.com
+signups,1047,P0063,Sable Security,sablesec.com
+signups,1048,P0064,Sable Security,sablesec.com
+signups,1049,P0065,Sable Security,sablesec.com
+signups,1050,P0066,Tidewater Media,tidewatermedia.com
+signups,1051,P0067,Tidewater Media,tidewatermedia.com
+signups,1052,P0068,Tidewater Media,tidewatermedia.com
+signups,1053,P0069,Vertex Cloud,vertexcloud.io
+signups,1054,P0070,Vertex Cloud,vertexcloud.io
+signups,1055,P0070,Vertex Cloud,vertexcloud.io
+signups,1056,P0071,Vertex Cloud,vertexcloud.io
+signups,1057,P0071,Vertex Cloud,vertexcloud.io
+signups,1058,P0072,Vertex Cloud,vertexcloud.io
+signups,1059,P0072,Vertex Cloud,vertexcloud.io
+signups,1060,P0073,Vertex Cloud,vertexcloud.io
+signups,1061,P0074,Vertex Cloud,vertexcloud.io
+signups,1062,P0075,Vertex Cloud,vertexcloud.io
+signups,1063,P0076,Vertex Cloud,vertexcloud.io
+signups,1064,P0077,Vertex Cloud,vertexcloud.io
+signups,1065,P0078,Vertex Cloud,vertexcloud.io
+signups,1066,P0079,Vertex Cloud,vertexcloud.io
+signups,1067,P0080,Vertex Cloud,vertexcloud.io
+signups,1068,P0082,Vertex Cloud,vertexcloud.io
+signups,1069,P0083,Willow Education,willowedu.org
+signups,1070,P0085,Willow Education,willowedu.org
+signups,1071,P0087,Zephyr Energy,zephyrenergy.com
+signups,1072,P0088,Zephyr Energy,zephyrenergy.com
+signups,1073,P0091,Zephyr Energy,zephyrenergy.com
+signups,1074,P0095,Zephyr Energy,zephyrenergy.com
+signups,1075,P0097,Zephyr Energy,zephyrenergy.com
+signups,1076,P0098,Zephyr Energy,zephyrenergy.com
+signups,1077,P0102,Granite Insurance,graniteins.com
+signups,1078,P0104,Granite Insurance,graniteins.com
+signups,1079,P0104,Granite Insurance,graniteins.com
+signups,1080,P0105,Granite Insurance,graniteins.com
+signups,1081,P0106,Granite Insurance,graniteins.com
+signups,1082,P0109,Granite Insurance,graniteins.com
+signups,1083,P0111,Granite Insurance,graniteins.com
+signups,1084,P0113,Helix Bio,helixbio.com
+signups,1085,P0115,Helix Bio,helixbio.com
+signups,1086,P0116,Cobalt Payments,cobaltpay.com
+signups,1087,P0117,Cobalt Payments,cobaltpay.com
+signups,1088,P0119,Cobalt Payments,cobaltpay.com
+signups,1089,P0120,Cobalt Payments,cobaltpay.com
+signups,1090,P0121,Cobalt Payments,cobaltpay.com
+signups,1091,P0122,Mosaic Labs,mosaiclabs.co
+signups,1092,P0125,Riverstone Bank,riverstonebank.com
+signups,1093,P0126,Riverstone Bank,riverstonebank.com
+signups,1094,P0127,Riverstone Bank,riverstonebank.com
+signups,1095,P0129,Riverstone Bank,riverstonebank.com
+signups,1096,P0130,Riverstone Bank,riverstonebank.com
+signups,1097,P0131,Riverstone Bank,riverstonebank.com
+signups,1098,P0132,Riverstone Bank,riverstonebank.com
+signups,1099,P0133,Riverstone Bank,riverstonebank.com
+signups,1100,P0134,Riverstone Bank,riverstonebank.com
+signups,1101,P0135,Riverstone Bank,riverstonebank.com
+signups,1102,P0137,Riverstone Bank,riverstonebank.com
+signups,1103,P0139,,
+signups,1104,P0141,,
+signups,1105,P0141,,
+signups,1106,P0143,,
+signups,1107,P0144,,
+signups,1108,P0145,,
+signups,1109,P0146,,
+signups,1110,P0147,,
+signups,1111,P0149,,
+signups,1112,JUNK,,
+signups,1113,JUNK,,
+signups,1114,JUNK,,
+signups,1115,JUNK,,
+signups,1116,JUNK,,
+form_fills,5001,P0003,Acme Analytics,acmeanalytics.com
+form_fills,5002,P0003,Acme Analytics,acmeanalytics.com
+form_fills,5003,P0004,Acme Analytics,acmeanalytics.com
+form_fills,5004,P0006,Northwind Logistics,northwind.io
+form_fills,5005,P0011,Northwind Logistics,northwind.io
+form_fills,5006,P0011,Northwind Logistics,northwind.io
+form_fills,5007,P0012,Northwind Logistics,northwind.io
+form_fills,5008,P0012,Northwind Logistics,northwind.io
+form_fills,5009,P0014,Northwind Logistics,northwind.io
+form_fills,5010,P0015,Northwind Logistics,northwind.io
+form_fills,5011,P0015,Northwind Logistics,northwind.io
+form_fills,5012,P0020,Brightpath Health,brightpathhealth.com
+form_fills,5013,P0020,Brightpath Health,brightpathhealth.com
+form_fills,5014,P0023,Brightpath Health,brightpathhealth.com
+form_fills,5015,P0024,Brightpath Health,brightpathhealth.com
+form_fills,5016,P0027,Kestrel AI,kestrel.ai
+form_fills,5017,P0030,Kestrel AI,kestrel.ai
+form_fills,5018,P0030,Kestrel AI,kestrel.ai
+form_fills,5019,P0031,Kestrel AI,kestrel.ai
+form_fills,5020,P0036,Lumen Finance,lumenfi.com
+form_fills,5021,P0036,Lumen Finance,lumenfi.com
+form_fills,5022,P0040,Orbital Retail,orbitalretail.com
+form_fills,5023,P0040,Orbital Retail,orbitalretail.com
+form_fills,5024,P0041,Orbital Retail,orbitalretail.com
+form_fills,5025,P0041,Orbital Retail,orbitalretail.com
+form_fills,5026,P0045,Orbital Retail,orbitalretail.com
+form_fills,5027,P0046,Orbital Retail,orbitalretail.com
+form_fills,5028,P0046,Orbital Retail,orbitalretail.com
+form_fills,5029,P0047,Orbital Retail,orbitalretail.com
+form_fills,5030,P0049,Orbital Retail,orbitalretail.com
+form_fills,5031,P0057,Quanta Robotics,quantarobotics.com
+form_fills,5032,P0058,Quanta Robotics,quantarobotics.com
+form_fills,5033,P0058,Quanta Robotics,quantarobotics.com
+form_fills,5034,P0061,Sable Security,sablesec.com
+form_fills,5035,P0061,Sable Security,sablesec.com
+form_fills,5036,P0068,Tidewater Media,tidewatermedia.com
+form_fills,5037,P0068,Tidewater Media,tidewatermedia.com
+form_fills,5038,P0074,Vertex Cloud,vertexcloud.io
+form_fills,5039,P0077,Vertex Cloud,vertexcloud.io
+form_fills,5040,P0083,Willow Education,willowedu.org
+form_fills,5041,P0083,Willow Education,willowedu.org
+form_fills,5042,P0084,Willow Education,willowedu.org
+form_fills,5043,P0088,Zephyr Energy,zephyrenergy.com
+form_fills,5044,P0088,Zephyr Energy,zephyrenergy.com
+form_fills,5045,P0094,Zephyr Energy,zephyrenergy.com
+form_fills,5046,P0095,Zephyr Energy,zephyrenergy.com
+form_fills,5047,P0097,Zephyr Energy,zephyrenergy.com
+form_fills,5048,P0098,Zephyr Energy,zephyrenergy.com
+form_fills,5049,P0101,Granite Insurance,graniteins.com
+form_fills,5050,P0102,Granite Insurance,graniteins.com
+form_fills,5051,P0106,Granite Insurance,graniteins.com
+form_fills,5052,P0109,Granite Insurance,graniteins.com
+form_fills,5053,P0111,Granite Insurance,graniteins.com
+form_fills,5054,P0112,Granite Insurance,graniteins.com
+form_fills,5055,P0113,Helix Bio,helixbio.com
+form_fills,5056,P0115,Helix Bio,helixbio.com
+form_fills,5057,P0116,Cobalt Payments,cobaltpay.com
+form_fills,5058,P0118,Cobalt Payments,cobaltpay.com
+form_fills,5059,P0128,Riverstone Bank,riverstonebank.com
+form_fills,5060,P0130,Riverstone Bank,riverstonebank.com
+form_fills,5061,P0130,Riverstone Bank,riverstonebank.com
+form_fills,5062,P0139,,
+form_fills,5063,SPAM,,
+form_fills,5064,SPAM,,
+form_fills,5065,SPAM,,
+form_fills,5066,SPAM,,
+form_fills,5067,SPAM,,
+form_fills,5068,SPAM,,
